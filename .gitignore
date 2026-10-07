@@ -19,3 +19,8 @@ coverage.json
 quarantine/
 crest_bench/
 PRD.html
+
+# Bench readings and run outputs ARE committed (small JSON/logs) so tests build on each other.
+# Page images and PDFs stay out (*.jpg / *.pdf above); they are published as release assets.
+!bench/store/
+!bench/runs/

@@ -1,0 +1,32 @@
+176 pages, 106 with a transcription, 70 image-only
+Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+Loading weights:   0%|          | 0/624 [00:00<?, ?it/s]Loading weights:  57%|█████▋    | 356/624 [00:00<00:00, 3559.34it/s]Loading weights: 100%|██████████| 624/624 [00:00<00:00, 3377.64it/s]
+  text                      145.55 items/s
+  image@280                  17.98 items/s
+  interleaved@280            17.79 items/s
+  image@560                  10.33 items/s
+  image@1120                  4.68 items/s
+255 queries
+{
+ "gpu": "NVIDIA GeForce RTX 4090",
+ "throughput": {
+  "text": 145.55,
+  "image@280": 17.98,
+  "interleaved@280": 17.79,
+  "image@560": 10.33,
+  "image@1120": 4.68
+ },
+ "peak_vram_gb": 16.29,
+ "image_to_own_text": {
+  "r1": 0.46,
+  "r10": 0.591,
+  "median_rank": 2
+ }
+}
+text@768             {'n': 255, 'r1': 0.396, 'r10': 0.647, 'mrr10': 0.476}
+image@768            {'n': 255, 'r1': 0.286, 'r10': 0.506, 'mrr10': 0.356}
+interleaved@768      {'n': 255, 'r1': 0.361, 'r10': 0.702, 'mrr10': 0.469}
+fusion_max@768       {'n': 255, 'r1': 0.396, 'r10': 0.659, 'mrr10': 0.482}
+text@256             {'n': 255, 'r1': 0.349, 'r10': 0.592, 'mrr10': 0.427}
+interleaved@256      {'n': 255, 'r1': 0.322, 'r10': 0.678, 'mrr10': 0.44}
+text@128             {'n': 255, 'r1': 0.31, 'r10': 0.533, 'mrr10': 0.381}

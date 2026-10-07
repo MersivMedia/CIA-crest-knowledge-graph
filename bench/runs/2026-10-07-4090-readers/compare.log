@@ -1,0 +1,82 @@
+{
+ "8b": {
+  "pages": 176,
+  "valid": 150,
+  "invalid": 26,
+  "errors": 0,
+  "pages_per_s": 0.241,
+  "out_tok_per_page": 2510.6,
+  "in_tok_per_page": 3496.7,
+  "ungrounded_pages": 46,
+  "pages_with_visuals": 148,
+  "visual_types": {
+   "letterhead": 94,
+   "stamp": 236,
+   "redaction": 131,
+   "handwriting": 229,
+   "photograph": 27,
+   "map": 14,
+   "diagram": 15,
+   "chart": 8,
+   "signature": 28,
+   "seal": 15
+  },
+  "mean_legibility": 0.924,
+  "text_sim_vs_abbyy_mean": 0.787
+ },
+ "2b": {
+  "pages": 176,
+  "valid": 42,
+  "invalid": 134,
+  "errors": 0,
+  "pages_per_s": 0.143,
+  "out_tok_per_page": 26442.5,
+  "in_tok_per_page": 12488.2,
+  "ungrounded_pages": 10,
+  "pages_with_visuals": 42,
+  "visual_types": {
+   "letterhead": 28,
+   "stamp": 66,
+   "signature": 16,
+   "redaction": 51,
+   "handwriting": 47,
+   "diagram": 7,
+   "map": 5,
+   "chart": 5,
+   "seal": 9,
+   "photograph": 10
+  },
+  "mean_legibility": 0.863,
+  "text_sim_vs_abbyy_mean": 0.809,
+  "n_vs_ref": 39,
+  "text_sim_vs_ref_mean": 0.788,
+  "entity_f1_vs_ref": 0.406,
+  "visual_type_agree_vs_ref": 0.026
+ },
+ "4b": {
+  "pages": 176,
+  "valid": 146,
+  "invalid": 30,
+  "errors": 0,
+  "pages_per_s": 0.3,
+  "out_tok_per_page": 2155.7,
+  "in_tok_per_page": 3592.5,
+  "ungrounded_pages": 8,
+  "pages_with_visuals": 102,
+  "visual_types": {
+   "stamp": 249,
+   "handwriting": 61,
+   "redaction": 100,
+   "signature": 11,
+   "letterhead": 11,
+   "seal": 1,
+   "photograph": 1
+  },
+  "mean_legibility": 0.735,
+  "text_sim_vs_abbyy_mean": 0.781,
+  "n_vs_ref": 132,
+  "text_sim_vs_ref_mean": 0.773,
+  "entity_f1_vs_ref": 0.222,
+  "visual_type_agree_vs_ref": 0.273
+ }
+}

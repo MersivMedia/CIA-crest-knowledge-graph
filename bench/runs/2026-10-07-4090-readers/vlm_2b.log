@@ -1,0 +1,30 @@
+{
+ "ok": 42,
+ "invalid": 134,
+ "error": 0,
+ "in_tok": 524504,
+ "out_tok": 1110583,
+ "finish": {
+  "stop": 42,
+  "length": 134
+ },
+ "ungrounded_pages": 10,
+ "pages": 176,
+ "wall_s": 1229.1,
+ "pages_per_s": 0.143,
+ "concurrency": 48,
+ "model": "Qwen/Qwen3-VL-2B-Instruct",
+ "visual_types": {
+  "letterhead": 28,
+  "stamp": 66,
+  "signature": 16,
+  "redaction": 51,
+  "handwriting": 47,
+  "diagram": 7,
+  "map": 5,
+  "chart": 5,
+  "seal": 9,
+  "photograph": 10
+ },
+ "pages_with_visuals": 42
+}
