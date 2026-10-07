@@ -14,13 +14,32 @@ from schema import PAGE_SCHEMA, EXTRACTION_PROMPT, validate_page, check_groundin
 
 REP_PEN = 1.05   # small VLMs loop on dense typed pages ("App App App..."); same value for every model compared
 
+def load_image(img, max_pixels):
+    """JPEG bytes, downscaled so width*height <= max_pixels (0 = as rendered). Fewer pixels = fewer vision tokens."""
+    if not max_pixels:
+        return open(img, "rb").read()
+    from PIL import Image
+    import io
+    im = Image.open(img)
+    w, h = im.size
+    if w * h > max_pixels:
+        f = (max_pixels / (w * h)) ** 0.5
+        im = im.convert("L").resize((max(1, int(w * f)), max(1, int(h * f))), Image.LANCZOS)
+    buf = io.BytesIO(); im.save(buf, "JPEG", quality=90)
+    return buf.getvalue()
+
+MAX_PIXELS = 0
+NO_THINK = False   # Qwen3.5/3.6 think by default; the reader prompt wants the JSON directly
+
 def call(endpoint, model, img, max_tokens):
-    b64 = base64.b64encode(open(img, "rb").read()).decode()
+    b64 = base64.b64encode(load_image(img, MAX_PIXELS)).decode()
     body = {"model": model, "temperature": 0, "max_tokens": max_tokens, "repetition_penalty": REP_PEN,
             "response_format": {"type": "json_schema", "json_schema": {"name": "page", "schema": PAGE_SCHEMA}},
             "messages": [{"role": "user", "content": [
                 {"type": "text", "text": EXTRACTION_PROMPT},
                 {"type": "image_url", "image_url": {"url": f"data:image/jpeg;base64,{b64}"}}]}]}
+    if NO_THINK:
+        body["chat_template_kwargs"] = {"enable_thinking": False}
     req = urllib.request.Request(endpoint.rstrip("/") + "/chat/completions", data=json.dumps(body).encode(),
                                  headers={"Content-Type": "application/json"})
     t = time.time()
@@ -37,7 +56,13 @@ def main():
     ap.add_argument("--endpoint", default="http://localhost:8000/v1")
     ap.add_argument("--model", default="Qwen/Qwen3-VL-8B-Instruct")
     ap.add_argument("--concurrency", type=int, default=8); ap.add_argument("--max-tokens", type=int, default=8000)
+    ap.add_argument("--no-think", action="store_true", help="send enable_thinking=false (Qwen3.5/3.6)")
+    ap.add_argument("--max-pixels", type=int, default=0, help="downscale page images to at most this many pixels")
     a = ap.parse_args()
+    global MAX_PIXELS
+    MAX_PIXELS = a.max_pixels
+    global NO_THINK
+    NO_THINK = a.no_think
     pages = json.load(open(a.pages))
     stats: dict = {"ok": 0, "invalid": 0, "error": 0, "in_tok": 0, "out_tok": 0}
 
@@ -63,7 +88,7 @@ def main():
         list(ex.map(one, pages))
     wall = time.time() - t
     stats.update(pages=len(pages), wall_s=round(wall, 1), pages_per_s=round(len(pages) / wall, 3),
-                 concurrency=a.concurrency, model=a.model)
+                 concurrency=a.concurrency, model=a.model, max_pixels=a.max_pixels, no_think=a.no_think, max_tokens=a.max_tokens)
     vis = [v for p in pages if p.get("vlm") for v in p["vlm"].get("visual_elements", [])]
     from collections import Counter
     stats["visual_types"] = dict(Counter(v.get("type") for v in vis))
