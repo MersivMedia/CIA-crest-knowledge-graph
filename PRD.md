@@ -246,6 +246,12 @@ change without notice is the wrong risk to take.
 **low light, blur and tilt** — precisely what 1950s microfilm produces — with
 improved long-document structure parsing. OCRBench 896 vs Gemma-3's 480.
 
+**Size: 8B (official FP8 weights), measured.** The 2026-10-07 benchmark ran 2B, 4B and 8B on the
+same 176 CREST pages ([`BENCHMARK_RESULTS.md`](BENCHMARK_RESULTS.md)). 2B looped to the token cap
+on 76% of pages. 4B transcribed well but returned no entities on most pages and found 1 map, photo
+or diagram where 8B found 56. Only 8B produces text, entities and visual elements together, and
+8B is the reader the graph depends on.
+
 Alternatives worth benchmarking: InternVL3, Pixtral, Molmo.
 
 **Not Grok.** xAI's open weights (Grok-1, Grok-2) are **text-only**. No
@@ -275,23 +281,26 @@ product as specified.
 
 ## 4.4 Why vision on 100% of pages
 
-Cost is nearly flat in GPU count — you are buying wall-clock, not compute:
+Measured on one RTX 4090, Qwen3-VL-8B FP8, 4,000-token cap, full 12.2M pages, +15% overhead
+([`BENCHMARK_RESULTS.md`](BENCHMARK_RESULTS.md)):
 
 | Setup | pages/sec | days | Total |
 |---|---|---|---|
-| 1× H100 · 8B | 3.5 | 40.3 | $2,415 |
-| 2× H100 · 8B | 7.0 | 20.1 | $2,415 |
-| 4× H100 · 8B | 13.0 | 10.8 | $2,601 |
-| **8× H100 · 8B** | **25.0** | **5.6** | **$2,705** |
-| 8× H100 · 30B MoE | 10.0 | 14.1 | $6,763 |
+| 1× RTX 4090 community ($0.34/hr) | 0.35 | 462 | $3,770 |
+| 16× RTX 4090 community | 5.6 | 29 | $3,770 |
+| 32× RTX 4090 community | 11.3 | 14 | $3,770 |
+| 16× RTX 4090 secure ($0.74/hr) | 5.6 | 29 | $8,210 |
+| H100 | unmeasured | — | — |
 
-Running the gap only (~45% of pages) costs $1,217; running **everything** costs
-$2,705. **~$1,500 buys complete visual coverage** and removes the need to
-decide which pages deserve vision — a decision that would otherwise be made
-badly, by heuristic, 12 million times.
+Cost is flat in GPU count: more cards buy wall-clock, not savings. On a 4090 the KV cache is the
+limit, since each page brings ~3,000 image tokens and only ~13 pages fit in a batch. An H100 has
+~3× the cache memory and should batch more pages per dollar; that is the next one-hour test.
 
-*Throughput figures are estimates from typical batched vLLM decode, not
-measured. See §7 M1.*
+Running vision on every page rather than only the pages without a usable text layer still holds.
+The reader's job is entities and visual elements, and no text layer supplies those.
+
+*Superseded:* the earlier table here (8×H100 at 25 pages/s, $2,705) was an estimate. The measured
+4090 rate is 0.35 pages/s per card.
 
 ## 4.5 Extraction schema
 
@@ -398,32 +407,37 @@ google/gemini-2.5-flash-lite:batch    0.050 / 0.200
 
 | Path | Cost | Trade |
 |---|---|---|
-| Self-host 4090s @ $0.27 | **$1,304** | cheapest; 25-50 days; 24GB may not fit 8B at high res |
-| Self-host 8xH100 spot @ $1.49 | $1,612 | 5.6 days; preemption risk |
-| *API: qwen3.7-flash* | *$1,814* | *zero ops — **but see §4.2, it will refuse documents*** |
-| Self-host 8xH100 list @ $3.29 | $3,560 | fast, reliable, priciest |
+| **Self-host 4090s community @ $0.34, 8B FP8 (measured)** | **$3,770** | 11,100 GPU-hours; 14 days on 32 cards; community hosts can disappear mid-job |
+| Self-host 4090s secure @ $0.74 (measured rate) | $8,210 | same speed, reliable hosts |
+| Self-host 4B instead of 8B (measured) | $2,750 | saves ~$1,000 but drops entities and visual elements; rejected |
+| Self-host H100 | unmeasured | likely cheaper per page from larger batches; test before M8 |
+| *API: qwen3.7-flash* | *$1,814 (estimate)* | *zero ops — **but see §4.2, it will refuse documents*** |
 
 Self-hosting has costs not in the headline number: vLLM setup and debugging
 (4-8 hours), 15-25% overhead from failed runs and restarts, idle GPU time while
-fixing things, and egress to feed 3.65 TB of images to the GPU. Realistically
-the 4090 path is **~$1,565 plus a weekend of ops**.
+fixing things, and egress to feed 3.65 TB of images to the GPU. The measured
+figures above already include a 15% overhead; setup and egress are extra.
 
-**Recommended: self-hosted 8xH100 spot, ~$1,612, 5.6 days.** The API saves
-nothing once ops are priced in, and it silently redacts the archive.
+**Recommended: self-hosted Qwen3-VL-8B FP8, ~$3,770 on community 4090s**, unless a one-hour H100
+test (~$3) shows a lower cost per page. The API is cheaper on paper, but it silently refuses parts of
+the archive.
 
 ## 5.3 Total
 
 | Line | Cost |
 |---|---|
 | Acquisition (bandwidth, 6-11 days) | $0 |
-| One-pass VLM, self-hosted, 12.2M pages | $1,612 |
-| Embeddings | $292 |
+| One-pass VLM, Qwen3-VL-8B FP8, 12.2M pages (measured rate) | $3,770 |
+| Embeddings, EmbeddingGemma 2 text + image (measured rate) | $76 |
 | Storage, 6 months | $504 |
-| **Core total** | **$2,408** |
-| *Optional* relation pass on richest 15% | ~$400 |
-| **With relations** | **~$2,800** |
+| **Core total** | **~$4,350** |
+| *Optional* relation pass on richest 15% (estimate, not re-measured) | ~$400 |
+| **With relations** | **~$4,750** |
 
-Recurring: **$125-215/mo** (VPS + 3.65 TB object storage + CDN).
+The previous core total was $2,408. It rose because the reader is slower than the estimate.
+Embeddings dropped from $292 to $76.
+
+Recurring: **$125–235/mo** (VPS + 3.65 TB object storage + CDN; §5.9.7).
 
 ## 5.4 Why the earlier $9,495 figure was wrong
 
@@ -431,8 +445,8 @@ That number came from making **12.2 million API calls** at an assumed
 $0.00078 each. Two errors compounded: the per-call price was 5x too high, and
 per-call pricing is the wrong model entirely. Renting the machine instead of
 the tokens removes call-count scaling — you pay for wall-clock, and cost is
-nearly flat in GPU count (1xH100 for 40 days costs about the same as 8xH100 for
-5.6 days).
+nearly flat in GPU count (1×4090 for 462 days costs the same as 32×4090 for 14 days, measured
+rate).
 
 ## 5.5 Acquisition
 
@@ -444,7 +458,7 @@ storage        $84/mo object storage, or ~$250 one-time 8TB drive
 ```
 
 **Time, not money, is the acquisition constraint.** Acquisition (6-11 days) and
-inference (5.6 days) overlap — start transcribing as documents land.
+inference (~14 days on 32×4090) overlap — start transcribing as documents land.
 
 ## 5.6 Coverage affects completeness, not cost
 
@@ -454,7 +468,7 @@ processing. The unresolved 23-88% coverage question (§3.3) now only determines
 
 ## 5.7 Pilot first
 
-STARGATE, ~90,000 pages: **under $25**, roughly 1 hour on 8xH100. Exercises the
+STARGATE, ~90,000 pages: **~$28** at the measured 4090 rate (about 3 hours on 32 cards). Exercises the
 entire pipeline, with vision, on real CIA scans. The architecture is identical
 at 90k and 12.2M pages.
 
@@ -511,12 +525,13 @@ and the page list:
 
 This is the difference between a graph you can render and one you cannot:
 
-| Model | Edges |
-|---|---|
-| One edge per mention | ~60.9M |
-| **Aggregated to (entity, document)** | **~11.7M** |
+| Model | Edges at 5/page (old assumption) | Edges at 8.5/page (measured median) |
+|---|---|---|
+| One edge per mention | ~60.9M | ~103M |
+| **Aggregated to (entity, document)** | **~11.7M** | **~20M** |
 
-A ~5.2× reduction, and nothing is lost — `pages[]` still drives citation, so a
+The 8.5 figure is the measured median for Qwen3-VL-8B on 176 pages; the ~20M assumes the same
+5.2× aggregation ratio, which is unmeasured. A ~5.2× reduction, and nothing is lost — `pages[]` still drives citation, so a
 result can say *"mentioned 6 times, pages 3–19"* and deep-link each one.
 
 ## 5.9.2 Co-occurrence is computed, never stored
@@ -534,7 +549,7 @@ A billion-edge graph is not queryable at interactive latency, and most of those
 edges are noise — two names on the same routing slip are not connected in any
 meaningful sense.
 
-Store `MENTIONS` only (~12M edges) and derive overlap at query time as a
+Store `MENTIONS` only (~20M edges at the measured entity rate) and derive overlap at query time as a
 two-hop traversal from the *selected* entity:
 
 ```cypher
@@ -574,19 +589,36 @@ so a bad merge can be undone without re-running extraction.
 ## 5.9.4 Vector store
 
 ```
-18.3M vectors (1.5 chunks/page)
+12.2M vectors (one per page, EmbeddingGemma 2, text + image)
 
-  1536d float32   168 GB    needs a large, expensive machine
-   768d float32    84 GB    still heavy
-   768d int8       21 GB    fits in RAM on a $60/mo VPS
+   768d float32    37 GB    heavy
+   768d int8      9.4 GB    fits in RAM on a small VPS
+   256d int8      3.1 GB    possible, but measured −5 to −9 points Recall@10
 ```
 
 **Quantisation is not optional at this scale.** int8 with rescoring costs a few
 points of recall and turns the hosting bill from hundreds to tens.
 
-Embeddings run on the GPU already rented for the VLM: **$34–67 for the whole
-corpus** (bge-small 384d through bge-base 768d), cheaper than the $292 API
-estimate and avoiding a second content-filter exposure.
+**Embedding model: EmbeddingGemma 2** (`google/embeddinggemma-2`, released 2026-10-06; 768d,
+Matryoshka down to 128d, text and images in one vector space). Each page is embedded once as
+**text + image together**: the reader's transcription and visual-element list, plus the page
+scan. That gives one vector per page, on the same (document, page) key the citation uses.
+
+Measured on CREST pages (Recall@10, independent-OCR queries):
+
+| Index | Text only | Image only | Text + image |
+|---|---|---|---|
+| 8B reader output | 0.62 | 0.46 | **0.68** |
+
+Image-only search is the weakest. An "embeddings only, no reader" design would miss about a third
+of the pages text search finds, so the reader stays. Cutting to 256d cost 5–9 points, so the
+index stays at 768d with int8 storage.
+
+Cost: 17 pages/s text + image on one 4090, so **~$76 for the whole archive**. That replaces the
+earlier bge estimate ($34–67, text only).
+
+**One vector per page.** The store holds ~12.2M vectors, not the 18.3M chunks of the earlier
+design, at about 9.4 GB as 768d int8.
 
 ## 5.9.5 Hybrid retrieval
 
@@ -671,20 +703,21 @@ encodes shared documents. Every visible element traces to a citable page.
 
 | Component | Size | Cost |
 |---|---|---|
-| Qdrant self-hosted, 768d int8 | 21 GB | $60 |
-| Neo4j community, ~12M edges | ~40 GB | $40 |
+| Qdrant self-hosted, 768d int8 | 9.4 GB | $60 |
+| Neo4j community, ~20M edges | ~70 GB (scaled from 40 GB at 12M, estimate) | $40–60 |
 | PDF object store | 3.65 TB | $84 |
 | CDN egress | — | $30 |
-| **Total** | | **$214/mo** |
+| **Total** | | **$214–234/mo** |
 
-Pinecone alone for 18M vectors would be $300–700/mo.
+Qdrant keeps the earlier $60 VPS: the index shrank to 9.4 GB, but the smaller machine price has
+not been checked. Pinecone alone for 12–18M vectors would be $300–700/mo.
 
 ## 5.9.8 Unmeasured assumptions
 
 Stated plainly, because they drive the numbers above:
 
-- **Entities per page (3/5/8)** is assumed. It changes graph size ~3×, and
-  `benchmark_vlm.py` reports the real figure. Run it before building.
+- **Entities per page** measured at a median of 8.5 (8B, 176 pages). Graph sizing should use the
+  upper case.
 - **The 30:1 mention-to-unique-entity ratio** is a guess pending resolution.
 - **Hub document counts** are illustrative, not measured.
 - **Entity resolution quality** is unknown until tried on OCR-damaged names.
@@ -697,11 +730,13 @@ Stated plainly, because they drive the numbers above:
 |---|---|---|
 | **Coverage unknown** | 4 samples: 23% / 55% / 75% / 88% | Run the 500-doc validation. Now affects *completeness*, not cost (§5.4) |
 | **Some docs on neither source** | 5/20 had no Wayback snapshot | Quantify in the same validation; cia.gov via browser automation is the last resort |
-| **VLM transcription quality unmeasured** | ABBYY scored 93.2% plausible; Qwen3-VL vs ABBYY on bad scans is untested | Benchmark head-to-head in M1 before committing 5.6 GPU-days |
+| **Reader cost** | Measured: 0.35 pages/s per 4090 for 8B, $3,770 full archive; 15% of pages hit the token cap | Cap at 4,000 tokens; test H100 batching before M8; quarantine and replay capped pages |
+| **Smaller reader drops the graph** | Measured: 4B returns no entities on most pages; 2B loops on 76% | Use 8B. Re-test only if a new small model ships |
+| **Grounding check too strict** | 46/150 8B pages flagged, mostly normalised names ("CIA" from a doc id) | Normalising matcher before `check_grounding()` gates anything |
 | **VLM hallucination** | Not yet measured. A VLM can invent plausible text on an illegible page — worse than OCR, which fails visibly | `check_grounding()` rejects entities absent from the transcription; `legibility` per page; agent Task 4 audits low-legibility/long-transcription pages against the image |
 | **Hosted API refusal** | **Measured: 1 of 3 archive-realistic pages refused** (§4.2) | Self-host open weights. Benchmark reports refusal rate so the risk is quantified, not assumed |
 | **Schema drift** | A model returning prose instead of JSON is a silent data loss | `guided_json` constrained decoding + `validate_page()` gate; failures quarantined and replayable |
-| **3D graph unusable at scale** | 18.3M vectors, millions of nodes | Never render the whole graph; query-scoped subgraphs with a hard node cap |
+| **3D graph unusable at scale** | 12.2M page vectors, millions of nodes | Never render the whole graph; query-scoped subgraphs with a hard node cap |
 | **Bandwidth/politeness** | 3.65 TB from donated-infrastructure archives | Rate-limit, resume cleanly, cache aggressively; do not hammer archive.org |
 | **Manifest is a single point of failure** | One unmaintained repo, 3 stars | **Mirror it immediately** — it took a lawsuit and 9 years to exist |
 
@@ -711,11 +746,11 @@ Stated plainly, because they drive the numbers above:
 
 ```
 M0  Secure the manifest        mirror the 94MB off GitHub              ← DONE
-M1  Benchmark the VLM          benchmark_vlm.py, 1 GPU-hour, ~$2-3:
-                                 - real pages/sec (all §4.4 figures are estimates)
-                                 - Qwen3-VL vs ABBYY on the SAME degraded pages
-                                 - schema-validity rate under guided decoding
-                                 - refusal rate (should be 0% self-hosted)
+M1  Benchmark the VLM          ← DONE 2026-10-07, $1.09 on one 4090 (BENCHMARK_RESULTS.md):
+                                 - 8B: 0.35 pages/s, 85% schema-valid, 8.5 entities/page
+                                 - 2B and 4B rejected (runaway / no entities)
+                                 - EmbeddingGemma 2 text + image index chosen
+M1b H100 throughput           one hour, ~$3: does the larger KV cache cut cost per page?
 M2  Coverage validation        500 docs, 3-way source split (~20 min)
 M3  Pilot ingestion            STARGATE, ~90k pages, under $25
 M4  Extraction + graph         entities, relations, Neo4j, citation integrity
@@ -723,12 +758,12 @@ M4  Extraction + graph         entities, relations, Neo4j, citation integrity
 M5  Entity resolution         canonical_id cascade + reversible merge log
 M6  Search API                 hybrid Qdrant + Neo4j, cited results
 M7  3D front end               three.js, query-scoped, 2k-node cap, facets
-M8  Full-corpus scale-out      5.6 GPU-days + 6-11 days acquisition, ~$2.4k
+M8  Full-corpus scale-out      11,100 4090-hours (14 days on 32 cards) + acquisition, ~$4.35k
 ```
 
-**M1 costs about $2.50 and replaces every throughput estimate in this document
-with a measurement.** Do not commit 5.6 GPU-days on the strength of an
-estimate. M0-M3 together are a weekend and under $30.
+**M1 replaced the throughput estimate with a measurement, and the estimate was optimistic by about
+2×.** Run M1b before M8: if H100s batch well, the reader line drops. M0–M3 together are a weekend
+and about $35.
 
 ---
 

@@ -4,7 +4,10 @@ Tooling to ingest the CIA's declassified **CREST** archive — 934,738 documents
 / 12,172,653 pages of scanned 1990s microfilm — into a citable, searchable
 knowledge graph. Every answer links back to the page image it came from.
 
-**Full corpus cost: ~$2,400**, self-hosted.
+**Full corpus cost: ~$4,350**, self-hosted, at throughput measured on real CREST pages
+([`BENCHMARK_RESULTS.md`](BENCHMARK_RESULTS.md)). Multimodal search uses **EmbeddingGemma 2**:
+one text + image vector per page. Every citation points to the official cia.gov page, even when
+the bytes came from archive.org.
 
 ---
 
@@ -131,8 +134,8 @@ relaxes the constraint instead of meeting it. See
 
 ### Why the cost is low
 
-Self-hosted on rented GPUs (~$1,600 of compute) rather than billed per API
-call, and the 934,738-row index already exists — mirrored in
+Self-hosted on rented GPUs (~$3,800 of measured compute for Qwen3-VL-8B, ~$76 for
+EmbeddingGemma 2) rather than billed per API call, and the 934,738-row index already exists — mirrored in
 [`manifest/`](manifest/) so it cannot disappear.
 
 ---
@@ -453,6 +456,8 @@ from AGENT_HARNESS.md and report findings. Do not modify files; report only.
 |---|---|
 | `manifest/` | **The full 934,738-row CREST index, mirrored** (94 MB) |
 | `PRD.md` | Product requirements + full cost analysis, every figure sourced |
+| `BENCHMARK_RESULTS.md` | Measured reader (Qwen3-VL 2B/4B/8B) and EmbeddingGemma 2 results, cost model |
+| `fetch_pages.py`, `vlm_pages.py`, `vlm_compare.py`, `embed_bench.py`, `bench/` | Benchmark harness |
 | `AGENT_HARNESS.md` | The learning loop — five copy-paste agent prompts |
 | `schema.py` | JSON contract, prompt, validator, hallucination check |
 | `manifest_to_sqlite.py` | Manifest → indexed SQLite |
@@ -489,14 +494,14 @@ with `/readingroom/docs/` captures, which do — that's a different corpus.
 | Line | Cost |
 |---|---|
 | Manifest + acquisition (6–11 days bandwidth) | $0 |
-| One-pass VLM, self-hosted, 12.2M pages | $1,612 |
-| Embeddings | $292 |
+| One-pass VLM, Qwen3-VL-8B FP8, 12.2M pages (measured rate) | $3,770 |
+| Embeddings, EmbeddingGemma 2 text + image (measured rate) | $76 |
 | Storage, 6 months | $504 |
-| **Full corpus, one-time** | **~$2,408** |
-| Pilot (STARGATE, 90k pages) | **under $25** |
-| Benchmark (1 GPU-hour) | **~$2–3** |
+| **Full corpus, one-time** | **~$4,350** |
+| Pilot (STARGATE, 90k pages) | **~$28** |
+| Benchmark (done 2026-10-07) | **$1.09** |
 
-Recurring: $125–215/mo. Full derivation in `PRD.md` §5.
+Recurring: $125–235/mo. Full derivation in `PRD.md` §5.
 
 ---
 

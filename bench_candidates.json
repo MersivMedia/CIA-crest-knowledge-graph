@@ -1,0 +1,4061 @@
+{
+ "want": {
+  "text": 24,
+  "nga": 12,
+  "photo": 12,
+  "sci": 6,
+  "stargate": 6
+ },
+ "docs": [
+  {
+   "doc_id": "CIA-RDP85T00287R001301080001-0",
+   "stratum": "text",
+   "collection": "General CIA Records",
+   "content_type": "REPORT",
+   "title": "IRAQ:  USE OF NERVE AGENT",
+   "pages": 3,
+   "pdf_url": "https://www.cia.gov/readingroom/docs/cia-rdp85t00287r001301080001-0.pdf"
+  },
+  {
+   "doc_id": "CIA-RDP80-00810A008300040011-7",
+   "stratum": "text",
+   "collection": "General CIA Records",
+   "content_type": "REPORT",
+   "title": "MERSEBURG AIRFIELD",
+   "pages": 2,
+   "pdf_url": "https://www.cia.gov/readingroom/docs/cia-rdp80-00810a008300040011-7.pdf"
+  },
+  {
+   "doc_id": "CIA-RDP87T00472R000100050055-0",
+   "stratum": "text",
+   "collection": "General CIA Records",
+   "content_type": "MEMO",
+   "title": "COMMENT ON DCI S MEMO, \"ESTIMATES\"",
+   "pages": 2,
+   "pdf_url": "https://www.cia.gov/readingroom/docs/cia-rdp87t00472r000100050055-0.pdf"
+  },
+  {
+   "doc_id": "CIA-RDP80-00809A000600210638-1",
+   "stratum": "text",
+   "collection": "General CIA Records",
+   "content_type": "REPORT",
+   "title": "ECONOMIC - FISHERIES",
+   "pages": 1,
+   "pdf_url": "https://www.cia.gov/readingroom/docs/cia-rdp80-00809a000600210638-1.pdf"
+  },
+  {
+   "doc_id": "CIA-RDP82-00457R007100170008-1",
+   "stratum": "text",
+   "collection": "General CIA Records",
+   "content_type": "REPORT",
+   "title": "DOEBERITZ AIRFIELD",
+   "pages": 2,
+   "pdf_url": "https://www.cia.gov/readingroom/docs/cia-rdp82-00457r007100170008-1.pdf"
+  },
+  {
+   "doc_id": "CIA-RDP86T00268R000100020008-3",
+   "stratum": "text",
+   "collection": "General CIA Records",
+   "content_type": "MEMO",
+   "title": "THE PRESIDENT'S COMMITTEE ON INTERNATIONAL INFORMATION ACTIVITIES",
+   "pages": 4,
+   "pdf_url": "https://www.cia.gov/readingroom/docs/cia-rdp86t00268r000100020008-3.pdf"
+  },
+  {
+   "doc_id": "CIA-RDP61-00274A000100060001-0",
+   "stratum": "text",
+   "collection": "General CIA Records",
+   "content_type": "MEMO",
+   "title": "BUDGET AND FISCAL STAFF STUDY",
+   "pages": 7,
+   "pdf_url": "https://www.cia.gov/readingroom/docs/cia-rdp61-00274a000100060001-0.pdf"
+  },
+  {
+   "doc_id": "CIA-RDP85M00364R001001520025-9",
+   "stratum": "text",
+   "collection": "General CIA Records",
+   "content_type": "MEMO",
+   "title": "MICROELECTRONICS CASE STUDY ON THE USSR",
+   "pages": 2,
+   "pdf_url": "https://www.cia.gov/readingroom/docs/cia-rdp85m00364r001001520025-9.pdf"
+  },
+  {
+   "doc_id": "CIA-RDP82-00457R002400700009-3",
+   "stratum": "text",
+   "collection": "General CIA Records",
+   "content_type": "REPORT",
+   "title": "PLANNED PRODUCTION AND EXPORT OF LUMBER IN MECKLENBURG",
+   "pages": 2,
+   "pdf_url": "https://www.cia.gov/readingroom/docs/cia-rdp82-00457r002400700009-3.pdf"
+  },
+  {
+   "doc_id": "CIA-RDP61S00527A000200130050-7",
+   "stratum": "text",
+   "collection": "General CIA Records",
+   "content_type": "REPORT",
+   "title": "SOVIET CIVIL DEFENSE CONSTRUCTION",
+   "pages": 9,
+   "pdf_url": "https://www.cia.gov/readingroom/docs/cia-rdp61s00527a000200130050-7.pdf"
+  },
+  {
+   "doc_id": "CIA-RDP84B00148R000300590012-7",
+   "stratum": "text",
+   "collection": "General CIA Records",
+   "content_type": "LETTER",
+   "title": "LETTER TO EDWARD P. BOLAND FROM WILLIAM H. WEBSTER",
+   "pages": 2,
+   "pdf_url": "https://www.cia.gov/readingroom/docs/cia-rdp84b00148r000300590012-7.pdf"
+  },
+  {
+   "doc_id": "CIA-RDP80-00809A000600360468-3",
+   "stratum": "text",
+   "collection": "General CIA Records",
+   "content_type": "REPORT",
+   "title": "YA. K. SYRKIN",
+   "pages": 2,
+   "pdf_url": "https://www.cia.gov/readingroom/docs/cia-rdp80-00809a000600360468-3.pdf"
+  },
+  {
+   "doc_id": "CIA-RDP79R00967A000800040003-7",
+   "stratum": "text",
+   "collection": "General CIA Records",
+   "content_type": "MEMO",
+   "title": "THE TRUE 38TH PARALLEL CONCEPT",
+   "pages": 2,
+   "pdf_url": "https://www.cia.gov/readingroom/docs/cia-rdp79r00967a000800040003-7.pdf"
+  },
+  {
+   "doc_id": "CIA-RDP81B00878R000700010074-8",
+   "stratum": "text",
+   "collection": "General CIA Records",
+   "content_type": "LETTER",
+   "title": "DEAR GEORGE:",
+   "pages": 2,
+   "pdf_url": "https://www.cia.gov/readingroom/docs/cia-rdp81b00878r000700010074-8.pdf"
+  },
+  {
+   "doc_id": "CIA-RDP82-00457R013500240008-2",
+   "stratum": "text",
+   "collection": "General CIA Records",
+   "content_type": "REPORT",
+   "title": "ORGANIZATION OF THE POLISH STATE RAILROADS",
+   "pages": 4,
+   "pdf_url": "https://www.cia.gov/readingroom/docs/cia-rdp82-00457r013500240008-2.pdf"
+  },
+  {
+   "doc_id": "CIA-RDP85M00364R000400510019-5",
+   "stratum": "text",
+   "collection": "General CIA Records",
+   "content_type": "REPORT",
+   "title": "FISHERIES",
+   "pages": 1,
+   "pdf_url": "https://www.cia.gov/readingroom/docs/cia-rdp85m00364r000400510019-5.pdf"
+  },
+  {
+   "doc_id": "CIA-RDP89B01330R000300510007-2",
+   "stratum": "text",
+   "collection": "General CIA Records",
+   "content_type": "REPORT",
+   "title": "WEEKLY ACTIVITIES AND STATUS REPORT FOR THE DD/ICS--10 NOVEMBER 1983",
+   "pages": 4,
+   "pdf_url": "https://www.cia.gov/readingroom/docs/cia-rdp89b01330r000300510007-2.pdf"
+  },
+  {
+   "doc_id": "CIA-RDP67B00820R000400030033-3",
+   "stratum": "text",
+   "collection": "General CIA Records",
+   "content_type": "LETTER",
+   "title": "LETTER TO JOE FROM CHARLIE",
+   "pages": 1,
+   "pdf_url": "https://www.cia.gov/readingroom/docs/cia-rdp67b00820r000400030033-3.pdf"
+  },
+  {
+   "doc_id": "CIA-RDP82-00457R002400130006-9",
+   "stratum": "text",
+   "collection": "General CIA Records",
+   "content_type": "REPORT",
+   "title": "SLOVAK COMMISSARIAT OF FOOD: ORGANIZATION AND PERSONNEL",
+   "pages": 2,
+   "pdf_url": "https://www.cia.gov/readingroom/docs/cia-rdp82-00457r002400130006-9.pdf"
+  },
+  {
+   "doc_id": "CIA-RDP78-03097A000200030081-3",
+   "stratum": "text",
+   "collection": "General CIA Records",
+   "content_type": "MEMO",
+   "title": "ADMONITION",
+   "pages": 1,
+   "pdf_url": "https://www.cia.gov/readingroom/docs/cia-rdp78-03097a000200030081-3.pdf"
+  },
+  {
+   "doc_id": "CIA-RDP87M01152R000300250004-3",
+   "stratum": "text",
+   "collection": "General CIA Records",
+   "content_type": "LETTER",
+   "title": "LETTER TO BERNIE MCMAHON FROM HAROLD P. FORD",
+   "pages": 1,
+   "pdf_url": "https://www.cia.gov/readingroom/docs/cia-rdp87m01152r000300250004-3.pdf"
+  },
+  {
+   "doc_id": "CIA-RDP61S00750A000500070029-7",
+   "stratum": "text",
+   "collection": "General CIA Records",
+   "content_type": "MEMO",
+   "title": "BRIEFING FOR (Sanitized) PERSONNEL; REQUEST FOR",
+   "pages": 1,
+   "pdf_url": "https://www.cia.gov/readingroom/docs/cia-rdp61s00750a000500070029-7.pdf"
+  },
+  {
+   "doc_id": "CIA-RDP57-00011A001000100131-0",
+   "stratum": "text",
+   "collection": "General CIA Records",
+   "content_type": "MEMO",
+   "title": "RELOCATION OF TELEPHONES",
+   "pages": 1,
+   "pdf_url": "https://www.cia.gov/readingroom/docs/cia-rdp57-00011a001000100131-0.pdf"
+  },
+  {
+   "doc_id": "CIA-RDP80B01676R001800020008-5",
+   "stratum": "text",
+   "collection": "General CIA Records",
+   "content_type": "MEMO",
+   "title": "SOVIET OFFENSIVE WEAPONS IN CUBA",
+   "pages": 8,
+   "pdf_url": "https://www.cia.gov/readingroom/docs/cia-rdp80b01676r001800020008-5.pdf"
+  },
+  {
+   "doc_id": "CIA-RDP80-00247A000701070001-4",
+   "stratum": "text",
+   "collection": "General CIA Records",
+   "content_type": "REPORT",
+   "title": "(SANITIZED)ELECTRONICS INSTALLATIONS AND POSSIBLE SA-2 MISSILE SITE ON POLUOSTROV RYBACHIY(SANITIZED)",
+   "pages": 5,
+   "pdf_url": "https://www.cia.gov/readingroom/docs/cia-rdp80-00247a000701070001-4.pdf"
+  },
+  {
+   "doc_id": "CIA-RDP81-01036R000100050025-9",
+   "stratum": "text",
+   "collection": "General CIA Records",
+   "content_type": "REPORT",
+   "title": "ZEISS-JENA WORKS GYRO-SIGHT MANUFACTURE",
+   "pages": 1,
+   "pdf_url": "https://www.cia.gov/readingroom/docs/cia-rdp81-01036r000100050025-9.pdf"
+  },
+  {
+   "doc_id": "CIA-RDP84M00395R000800240141-2",
+   "stratum": "text",
+   "collection": "General CIA Records",
+   "content_type": "MEMO",
+   "title": "(SANITIZED)",
+   "pages": 1,
+   "pdf_url": "https://www.cia.gov/readingroom/docs/cia-rdp84m00395r000800240141-2.pdf"
+  },
+  {
+   "doc_id": "CIA-RDP61S00750A000400080189-0",
+   "stratum": "text",
+   "collection": "General CIA Records",
+   "content_type": "CABLE",
+   "title": "(UNTITLED)",
+   "pages": 3,
+   "pdf_url": "https://www.cia.gov/readingroom/docs/cia-rdp61s00750a000400080189-0.pdf"
+  },
+  {
+   "doc_id": "CIA-RDP88G00186R000901160007-2",
+   "stratum": "text",
+   "collection": "General CIA Records",
+   "content_type": "LETTER",
+   "title": "LETTER TO HARRY FITZWATER FROM TERENCE C. GOLDEN",
+   "pages": 9,
+   "pdf_url": "https://www.cia.gov/readingroom/docs/cia-rdp88g00186r000901160007-2.pdf"
+  },
+  {
+   "doc_id": "CIA-RDP79R01012A013700040010-7",
+   "stratum": "text",
+   "collection": "General CIA Records",
+   "content_type": "MEMO",
+   "title": "SNIE 25-59:  AUSTRIA'S POSITION BETWEEN EAST AND WEST",
+   "pages": 12,
+   "pdf_url": "https://www.cia.gov/readingroom/docs/cia-rdp79r01012a013700040010-7.pdf"
+  },
+  {
+   "doc_id": "CIA-RDP57-00384R001100010001-0",
+   "stratum": "text",
+   "collection": "General CIA Records",
+   "content_type": "MEMO",
+   "title": "H.R 8706 PERTAINING TO THE BONDING OF GOVERNMENT OFFICIALS AND EMPLOYEES.",
+   "pages": 3,
+   "pdf_url": "https://www.cia.gov/readingroom/docs/cia-rdp57-00384r001100010001-0.pdf"
+  },
+  {
+   "doc_id": "CIA-RDP82-00457R001800560004-1",
+   "stratum": "text",
+   "collection": "General CIA Records",
+   "content_type": "REPORT",
+   "title": "PROLONGATION OF MOSCOW CONVERSATIONS STRENGTHENS SOVIET POSITION IN BERLIN",
+   "pages": 1,
+   "pdf_url": "https://www.cia.gov/readingroom/docs/cia-rdp82-00457r001800560004-1.pdf"
+  },
+  {
+   "doc_id": "CIA-RDP82M00531R000400250015-2",
+   "stratum": "text",
+   "collection": "General CIA Records",
+   "content_type": "MEMO",
+   "title": "LECTURES AND BRIEFINGS BY IC STAFF OFFICERS",
+   "pages": 1,
+   "pdf_url": "https://www.cia.gov/readingroom/docs/cia-rdp82m00531r000400250015-2.pdf"
+  },
+  {
+   "doc_id": "CIA-RDP80-00809A000600370958-8",
+   "stratum": "text",
+   "collection": "General CIA Records",
+   "content_type": "REPORT",
+   "title": "ORDER ON THE REORGANIZATION OF OBLASTS IN YUGOSLAVIA",
+   "pages": 3,
+   "pdf_url": "https://www.cia.gov/readingroom/docs/cia-rdp80-00809a000600370958-8.pdf"
+  },
+  {
+   "doc_id": "CIA-RDP61-00442A000100030054-8",
+   "stratum": "text",
+   "collection": "General CIA Records",
+   "content_type": "MEMO",
+   "title": "WEEKLY ACTIVITY REPORT #3",
+   "pages": 3,
+   "pdf_url": "https://www.cia.gov/readingroom/docs/cia-rdp61-00442a000100030054-8.pdf"
+  },
+  {
+   "doc_id": "CIA-RDP80-00810A001900120003-5",
+   "stratum": "text",
+   "collection": "General CIA Records",
+   "content_type": "REPORT",
+   "title": "1952 CAPITAL INVESTMENT PLANS OF THE MAIN ADMINISTRATION OF THE POLYGRAPHIC INDUSTRY",
+   "pages": 3,
+   "pdf_url": "https://www.cia.gov/readingroom/docs/cia-rdp80-00810a001900120003-5.pdf"
+  },
+  {
+   "doc_id": "CIA-RDP92-00053R000300270047-2",
+   "stratum": "text",
+   "collection": "General CIA Records",
+   "content_type": "CABLE",
+   "title": "CABLE TO RUTLAAD/FBIS WASHINGTON DC FROM FBIS CHIVA CHIVA PM",
+   "pages": 2,
+   "pdf_url": "https://www.cia.gov/readingroom/docs/cia-rdp92-00053r000300270047-2.pdf"
+  },
+  {
+   "doc_id": "CIA-RDP65-00523R000100100053-3",
+   "stratum": "text",
+   "collection": "General CIA Records",
+   "content_type": "CABLE",
+   "title": "CABLE TO (SANITIZED) FROM DIRECTOR",
+   "pages": 1,
+   "pdf_url": "https://www.cia.gov/readingroom/docs/cia-rdp65-00523r000100100053-3.pdf"
+  },
+  {
+   "doc_id": "CIA-RDP78-03527A000300120066-8",
+   "stratum": "text",
+   "collection": "General CIA Records",
+   "content_type": "MEMO",
+   "title": "REQUEST FOR LECTURERS FOR THE ASSOCIATE COURSE, U.S. ARMY STRATEGIC INTELLIGENCE SCHOOL",
+   "pages": 2,
+   "pdf_url": "https://www.cia.gov/readingroom/docs/cia-rdp78-03527a000300120066-8.pdf"
+  },
+  {
+   "doc_id": "CIA-RDP82-00457R004800120007-6",
+   "stratum": "text",
+   "collection": "General CIA Records",
+   "content_type": "REPORT",
+   "title": "DOEBERITZ AIRFIELD",
+   "pages": 2,
+   "pdf_url": "https://www.cia.gov/readingroom/docs/cia-rdp82-00457r004800120007-6.pdf"
+  },
+  {
+   "doc_id": "CIA-RDP82-00457R003600510003-7",
+   "stratum": "text",
+   "collection": "General CIA Records",
+   "content_type": "REPORT",
+   "title": "CIVILIAN AIRFIELD OF RYAZAN",
+   "pages": 1,
+   "pdf_url": "https://www.cia.gov/readingroom/docs/cia-rdp82-00457r003600510003-7.pdf"
+  },
+  {
+   "doc_id": "CIA-RDP84B00130R000600010248-5",
+   "stratum": "text",
+   "collection": "General CIA Records",
+   "content_type": "REPORT",
+   "title": "STAFF MEETING MINUTES OF 4 APRIL 1980",
+   "pages": 3,
+   "pdf_url": "https://www.cia.gov/readingroom/docs/cia-rdp84b00130r000600010248-5.pdf"
+  },
+  {
+   "doc_id": "CIA-RDP83-00423R000400990003-6",
+   "stratum": "text",
+   "collection": "General CIA Records",
+   "content_type": "REPORT",
+   "title": "ELECTROSNCEPHALOGRAPHS AND DYNOGRAPHS",
+   "pages": 2,
+   "pdf_url": "https://www.cia.gov/readingroom/docs/cia-rdp83-00423r000400990003-6.pdf"
+  },
+  {
+   "doc_id": "CIA-RDP85M00363R000100060001-8",
+   "stratum": "text",
+   "collection": "General CIA Records",
+   "content_type": "MEMO",
+   "title": "NATIONAL SECURITY COUNCIL MEETING ON EXPORT ADMINISTRATION ACT",
+   "pages": 7,
+   "pdf_url": "https://www.cia.gov/readingroom/docs/cia-rdp85m00363r000100060001-8.pdf"
+  },
+  {
+   "doc_id": "CIA-RDP82-00457R005500280011-3",
+   "stratum": "text",
+   "collection": "General CIA Records",
+   "content_type": "REPORT",
+   "title": "1. RUSSIAN MILITARY RAIL MOVEMENTS IN MECKLENBURG   2. RUSSIAN LANDING EXERCISES IN THE ROSTOCK AREA",
+   "pages": 1,
+   "pdf_url": "https://www.cia.gov/readingroom/docs/cia-rdp82-00457r005500280011-3.pdf"
+  },
+  {
+   "doc_id": "CIA-RDP82-00039R000200120031-3",
+   "stratum": "text",
+   "collection": "General CIA Records",
+   "content_type": "REPORT",
+   "title": "SOURCES CONTAINING STATISTICS ON POLISH HIGHER SCHOOLS FOR 1930 - 1951",
+   "pages": 5,
+   "pdf_url": "https://www.cia.gov/readingroom/docs/cia-rdp82-00039r000200120031-3.pdf"
+  },
+  {
+   "doc_id": "CIA-RDP90B01370R000200180016-4",
+   "stratum": "text",
+   "collection": "General CIA Records",
+   "content_type": "MEMO",
+   "title": "COMMENTS",
+   "pages": 1,
+   "pdf_url": "https://www.cia.gov/readingroom/docs/cia-rdp90b01370r000200180016-4.pdf"
+  },
+  {
+   "doc_id": "CIA-RDP89B00569R000200130086-5",
+   "stratum": "text",
+   "collection": "General CIA Records",
+   "content_type": "CABLE",
+   "title": "(UNTITLED)",
+   "pages": 1,
+   "pdf_url": "https://www.cia.gov/readingroom/docs/cia-rdp89b00569r000200130086-5.pdf"
+  },
+  {
+   "doc_id": "CIA-RDP90-00965R000403220056-3",
+   "stratum": "text",
+   "collection": "General CIA Records",
+   "content_type": "REPORT",
+   "title": "OPEN SKIES",
+   "pages": 9,
+   "pdf_url": "https://www.cia.gov/readingroom/docs/cia-rdp90-00965r000403220056-3.pdf"
+  },
+  {
+   "doc_id": "CIA-RDP82-00047R000200290003-4",
+   "stratum": "text",
+   "collection": "General CIA Records",
+   "content_type": "REPORT",
+   "title": "USSR ARMY - OFFICE PERSONNEL MATTERS",
+   "pages": 2,
+   "pdf_url": "https://www.cia.gov/readingroom/docs/cia-rdp82-00047r000200290003-4.pdf"
+  },
+  {
+   "doc_id": "CIA-RDP78-05597A000200040155-0",
+   "stratum": "text",
+   "collection": "General CIA Records",
+   "content_type": "MEMO",
+   "title": "HIS 26, SECTION 60, OIR DRAFT COPY",
+   "pages": 1,
+   "pdf_url": "https://www.cia.gov/readingroom/docs/cia-rdp78-05597a000200040155-0.pdf"
+  },
+  {
+   "doc_id": "CIA-RDP67-00059A000100140010-4",
+   "stratum": "text",
+   "collection": "General CIA Records",
+   "content_type": "MEMO",
+   "title": "ICAPS AGENDA",
+   "pages": 1,
+   "pdf_url": "https://www.cia.gov/readingroom/docs/cia-rdp67-00059a000100140010-4.pdf"
+  },
+  {
+   "doc_id": "CIA-RDP80-00810A003200560002-3",
+   "stratum": "text",
+   "collection": "General CIA Records",
+   "content_type": "REPORT",
+   "title": "NEURUPPIN AIRFIELDI",
+   "pages": 5,
+   "pdf_url": "https://www.cia.gov/readingroom/docs/cia-rdp80-00810a003200560002-3.pdf"
+  },
+  {
+   "doc_id": "CIA-RDP84-00499R000800120018-7",
+   "stratum": "text",
+   "collection": "General CIA Records",
+   "content_type": "LETTER",
+   "title": "LETTER TO THE HONORABLE JAMES WEBB FROM ADMIRAL R. H. HILLENKOETTER",
+   "pages": 2,
+   "pdf_url": "https://www.cia.gov/readingroom/docs/cia-rdp84-00499r000800120018-7.pdf"
+  },
+  {
+   "doc_id": "CIA-RDP86-00244R000200520051-2",
+   "stratum": "text",
+   "collection": "General CIA Records",
+   "content_type": "LETTER",
+   "title": "DEAR MR. SCHMIDT;",
+   "pages": 1,
+   "pdf_url": "https://www.cia.gov/readingroom/docs/cia-rdp86-00244r000200520051-2.pdf"
+  },
+  {
+   "doc_id": "CIA-RDP82-00457R010600240007-5",
+   "stratum": "text",
+   "collection": "General CIA Records",
+   "content_type": "REPORT",
+   "title": "THE KABELWERK KOPENICK (SAG KABEL)",
+   "pages": 2,
+   "pdf_url": "https://www.cia.gov/readingroom/docs/cia-rdp82-00457r010600240007-5.pdf"
+  },
+  {
+   "doc_id": "CIA-RDP78-05252A000100060066-0",
+   "stratum": "text",
+   "collection": "General CIA Records",
+   "content_type": "MEMO",
+   "title": "LOSS OF ANNUAL LEAVE",
+   "pages": 1,
+   "pdf_url": "https://www.cia.gov/readingroom/docs/cia-rdp78-05252a000100060066-0.pdf"
+  },
+  {
+   "doc_id": "CIA-RDP67-00059A000400100029-5",
+   "stratum": "text",
+   "collection": "General CIA Records",
+   "content_type": "MEMO",
+   "title": "(UNTITLED)",
+   "pages": 2,
+   "pdf_url": "https://www.cia.gov/readingroom/docs/cia-rdp67-00059a000400100029-5.pdf"
+  },
+  {
+   "doc_id": "CIA-RDP79-01157A000200030006-7",
+   "stratum": "text",
+   "collection": "General CIA Records",
+   "content_type": "MEMO",
+   "title": "(UNTITLED)",
+   "pages": 1,
+   "pdf_url": "https://www.cia.gov/readingroom/docs/cia-rdp79-01157a000200030006-7.pdf"
+  },
+  {
+   "doc_id": "CIA-RDP70-00211R000900230092-5",
+   "stratum": "text",
+   "collection": "General CIA Records",
+   "content_type": "REPORT",
+   "title": "WEELY REPORT FOR WEEK ENDING 8 JULY 1959 FROM (SANITIZED)",
+   "pages": 5,
+   "pdf_url": "https://www.cia.gov/readingroom/docs/cia-rdp70-00211r000900230092-5.pdf"
+  },
+  {
+   "doc_id": "CIA-RDP83-00415R008700020009-4",
+   "stratum": "text",
+   "collection": "General CIA Records",
+   "content_type": "REPORT",
+   "title": "PLANNED CONSTRUCTION FOR 1951 IN SACHSEN-ANHALT (7 PP; GERMAN; NO DATE)",
+   "pages": 1,
+   "pdf_url": "https://www.cia.gov/readingroom/docs/cia-rdp83-00415r008700020009-4.pdf"
+  },
+  {
+   "doc_id": "CIA-RDP57-00384R000400060055-4",
+   "stratum": "text",
+   "collection": "General CIA Records",
+   "content_type": "MEMO",
+   "title": "(Sanitized)",
+   "pages": 1,
+   "pdf_url": "https://www.cia.gov/readingroom/docs/cia-rdp57-00384r000400060055-4.pdf"
+  },
+  {
+   "doc_id": "CIA-RDP90M00004R000300150010-8",
+   "stratum": "text",
+   "collection": "General CIA Records",
+   "content_type": "LETTER",
+   "title": "LETTER TO ARTHUR B. CULVAHOUSE, JR. FROM (SANITIZED)",
+   "pages": 1,
+   "pdf_url": "https://www.cia.gov/readingroom/docs/cia-rdp90m00004r000300150010-8.pdf"
+  },
+  {
+   "doc_id": "CIA-RDP80-01503R000100010026-4",
+   "stratum": "text",
+   "collection": "General CIA Records",
+   "content_type": "MEMO",
+   "title": "RECOMMENDED INVESTMENT IN U. S. TREASURY SECURITIES FOR THE CIA RETIREMENT FUND",
+   "pages": 2,
+   "pdf_url": "https://www.cia.gov/readingroom/docs/cia-rdp80-01503r000100010026-4.pdf"
+  },
+  {
+   "doc_id": "CIA-RDP77M00144R001100170014-0",
+   "stratum": "text",
+   "collection": "General CIA Records",
+   "content_type": "REPORT",
+   "title": "LRH 10 OCT. 1972 MEMORANDUM TO DCI REGARDING PROTECTION OF CLASSIFIED INFORMATION",
+   "pages": 12,
+   "pdf_url": "https://www.cia.gov/readingroom/docs/cia-rdp77m00144r001100170014-0.pdf"
+  },
+  {
+   "doc_id": "CIA-RDP85-00024R000500200001-3",
+   "stratum": "text",
+   "collection": "General CIA Records",
+   "content_type": "MEMO",
+   "title": "ELECTRONIC TRANSMISSION OF MIDAS TO P&PD",
+   "pages": 2,
+   "pdf_url": "https://www.cia.gov/readingroom/docs/cia-rdp85-00024r000500200001-3.pdf"
+  },
+  {
+   "doc_id": "CIA-RDP83-00415R004000060001-9",
+   "stratum": "text",
+   "collection": "General CIA Records",
+   "content_type": "REPORT",
+   "title": "BRATISLAVA-VAJNORY AIRFIELD",
+   "pages": 2,
+   "pdf_url": "https://www.cia.gov/readingroom/docs/cia-rdp83-00415r004000060001-9.pdf"
+  },
+  {
+   "doc_id": "CIA-RDP82-00457R009000070003-9",
+   "stratum": "text",
+   "collection": "General CIA Records",
+   "content_type": "REPORT",
+   "title": "MILITARY INFORMATION FROM NEURUPPIN",
+   "pages": 2,
+   "pdf_url": "https://www.cia.gov/readingroom/docs/cia-rdp82-00457r009000070003-9.pdf"
+  },
+  {
+   "doc_id": "CIA-RDP80-00809A000600360621-2",
+   "stratum": "text",
+   "collection": "General CIA Records",
+   "content_type": "REPORT",
+   "title": "CONSTITUTION OF THE RED CROSS SOCIETY OF CHINA",
+   "pages": 4,
+   "pdf_url": "https://www.cia.gov/readingroom/docs/cia-rdp80-00809a000600360621-2.pdf"
+  },
+  {
+   "doc_id": "CIA-RDP82-00457R015900130007-9",
+   "stratum": "text",
+   "collection": "General CIA Records",
+   "content_type": "REPORT",
+   "title": "VOLKSPOLIZEI IN THE ORANIENBURG CASTLE",
+   "pages": 1,
+   "pdf_url": "https://www.cia.gov/readingroom/docs/cia-rdp82-00457r015900130007-9.pdf"
+  },
+  {
+   "doc_id": "CIA-RDP87-00352R000100090049-6",
+   "stratum": "text",
+   "collection": "General CIA Records",
+   "content_type": "REPORT",
+   "title": "REAL ESTATE AND CONSTRUCTION DIVISION WEEKLY REPORT FOR PERIOD ENDING 31 AUGUST 1983",
+   "pages": 1,
+   "pdf_url": "https://www.cia.gov/readingroom/docs/cia-rdp87-00352r000100090049-6.pdf"
+  },
+  {
+   "doc_id": "CIA-RDP79T00975A025000080001-5",
+   "stratum": "text",
+   "collection": "General CIA Records",
+   "content_type": "REPORT",
+   "title": "CENTRAL INTELLIGENCE BULLETIN",
+   "pages": 12,
+   "pdf_url": "https://www.cia.gov/readingroom/docs/cia-rdp79t00975a025000080001-5.pdf"
+  },
+  {
+   "doc_id": "CIA-RDP78B05708A000100040007-2",
+   "stratum": "text",
+   "collection": "General CIA Records",
+   "content_type": "MEMO",
+   "title": "SPECIAL MEETING ON THE ALASKA EARTHQUAKE",
+   "pages": 4,
+   "pdf_url": "https://www.cia.gov/readingroom/docs/cia-rdp78b05708a000100040007-2.pdf"
+  },
+  {
+   "doc_id": "CIA-RDP61-00763A000200030201-7",
+   "stratum": "text",
+   "collection": "General CIA Records",
+   "content_type": "LETTER",
+   "title": "GENTLEMEN:",
+   "pages": 1,
+   "pdf_url": "https://www.cia.gov/readingroom/docs/cia-rdp61-00763a000200030201-7.pdf"
+  },
+  {
+   "doc_id": "CIA-RDP89-00244R000200260039-5",
+   "stratum": "text",
+   "collection": "General CIA Records",
+   "content_type": "LETTER",
+   "title": "LETTER TO WILLIAM F. VOSBECK (SANITIZED)",
+   "pages": 1,
+   "pdf_url": "https://www.cia.gov/readingroom/docs/cia-rdp89-00244r000200260039-5.pdf"
+  },
+  {
+   "doc_id": "CIA-RDP80-00810A007900770009-5",
+   "stratum": "text",
+   "collection": "General CIA Records",
+   "content_type": "REPORT",
+   "title": "COAL CONSUMPTION OF THE EAST GERMAN RAILROADS",
+   "pages": 2,
+   "pdf_url": "https://www.cia.gov/readingroom/docs/cia-rdp80-00810a007900770009-5.pdf"
+  },
+  {
+   "doc_id": "CIA-RDP75-00001R000200590019-2",
+   "stratum": "text",
+   "collection": "General CIA Records",
+   "content_type": "LETTER",
+   "title": "DEAR ED,",
+   "pages": 1,
+   "pdf_url": "https://www.cia.gov/readingroom/docs/cia-rdp75-00001r000200590019-2.pdf"
+  },
+  {
+   "doc_id": "CIA-RDP81-00770R000100090033-5",
+   "stratum": "text",
+   "collection": "General CIA Records",
+   "content_type": "CABLE",
+   "title": "CABLE TO FBIS WASHDC FROM FBS PANAMA",
+   "pages": 1,
+   "pdf_url": "https://www.cia.gov/readingroom/docs/cia-rdp81-00770r000100090033-5.pdf"
+  },
+  {
+   "doc_id": "CIA-RDP58-00039A000500040101-2",
+   "stratum": "text",
+   "collection": "General CIA Records",
+   "content_type": "MEMO",
+   "title": "WEEKLY ACTIVITY REPORT NO. 12 14 - 20 MARCH 1956",
+   "pages": 2,
+   "pdf_url": "https://www.cia.gov/readingroom/docs/cia-rdp58-00039a000500040101-2.pdf"
+  },
+  {
+   "doc_id": "CIA-RDP61S00750A000300060006-5",
+   "stratum": "text",
+   "collection": "General CIA Records",
+   "content_type": "MEMO",
+   "title": "PAPER ENTITLED (SANITIZED)",
+   "pages": 2,
+   "pdf_url": "https://www.cia.gov/readingroom/docs/cia-rdp61s00750a000300060006-5.pdf"
+  },
+  {
+   "doc_id": "CIA-RDP66B00664R000300100133-0",
+   "stratum": "text",
+   "collection": "General CIA Records",
+   "content_type": "CABLE",
+   "title": "(UNTITLED)",
+   "pages": 1,
+   "pdf_url": "https://www.cia.gov/readingroom/docs/cia-rdp66b00664r000300100133-0.pdf"
+  },
+  {
+   "doc_id": "CIA-RDP82-00457R016100270008-0",
+   "stratum": "text",
+   "collection": "General CIA Records",
+   "content_type": "REPORT",
+   "title": "STATUS OF EAST GERMAN RAILROAD CONSTRUCTION PROJECTS",
+   "pages": 6,
+   "pdf_url": "https://www.cia.gov/readingroom/docs/cia-rdp82-00457r016100270008-0.pdf"
+  },
+  {
+   "doc_id": "CIA-RDP61-00423A000100090010-1",
+   "stratum": "text",
+   "collection": "General CIA Records",
+   "content_type": "MEMO",
+   "title": "WE/SS SURVEY - INTERIM REPORT ON B & F SECTION PROCEDURES",
+   "pages": 1,
+   "pdf_url": "https://www.cia.gov/readingroom/docs/cia-rdp61-00423a000100090010-1.pdf"
+  },
+  {
+   "doc_id": "CIA-RDP83-00423R001001700001-1",
+   "stratum": "text",
+   "collection": "General CIA Records",
+   "content_type": "REPORT",
+   "title": "SOVIET OPERATED AIRFIELDS IN HUNGARY",
+   "pages": 1,
+   "pdf_url": "https://www.cia.gov/readingroom/docs/cia-rdp83-00423r001001700001-1.pdf"
+  },
+  {
+   "doc_id": "CIA-RDP80B01676R003500150043-3",
+   "stratum": "text",
+   "collection": "General CIA Records",
+   "content_type": "LETTER",
+   "title": "LETTER TO MR. ROBERT B. LUCE FROM STANLEY J. GROGAN",
+   "pages": 1,
+   "pdf_url": "https://www.cia.gov/readingroom/docs/cia-rdp80b01676r003500150043-3.pdf"
+  },
+  {
+   "doc_id": "CIA-RDP58-00039A000300030103-3",
+   "stratum": "text",
+   "collection": "General CIA Records",
+   "content_type": "REPORT",
+   "title": "WEEKLY STATISTICAL REPORT ASSESSMENT AND EVALUATION STAFF  WEEK OF 2 - 6 JANUARY 1956",
+   "pages": 2,
+   "pdf_url": "https://www.cia.gov/readingroom/docs/cia-rdp58-00039a000300030103-3.pdf"
+  },
+  {
+   "doc_id": "CIA-RDP77M00144R000500110071-0",
+   "stratum": "text",
+   "collection": "General CIA Records",
+   "content_type": "LETTER",
+   "title": "LETTER TO MR. WILLIAM G. MILLER FROM(Sanitized)E",
+   "pages": 1,
+   "pdf_url": "https://www.cia.gov/readingroom/docs/cia-rdp77m00144r000500110071-0.pdf"
+  },
+  {
+   "doc_id": "CIA-RDP80-00810A001800050001-6",
+   "stratum": "text",
+   "collection": "General CIA Records",
+   "content_type": "REPORT",
+   "title": "MISCELLANEOUS RAILROAD INFORMATION",
+   "pages": 2,
+   "pdf_url": "https://www.cia.gov/readingroom/docs/cia-rdp80-00810a001800050001-6.pdf"
+  },
+  {
+   "doc_id": "CIA-RDP82-00457R007400380003-0",
+   "stratum": "text",
+   "collection": "General CIA Records",
+   "content_type": "REPORT",
+   "title": "PLANNED REFERENDUM AGAINST REMILITARIZATION",
+   "pages": 1,
+   "pdf_url": "https://www.cia.gov/readingroom/docs/cia-rdp82-00457r007400380003-0.pdf"
+  },
+  {
+   "doc_id": "CIA-RDP80-00809A000600370801-1",
+   "stratum": "text",
+   "collection": "General CIA Records",
+   "content_type": "REPORT",
+   "title": "DESCRIBING NEW SOVIET CALCULATING MACHINES; PENZA PLANT TO SERIES PRODUCE ELECTRON TUBE INTEGRATOR",
+   "pages": 7,
+   "pdf_url": "https://www.cia.gov/readingroom/docs/cia-rdp80-00809a000600370801-1.pdf"
+  },
+  {
+   "doc_id": "CIA-RDP78B04560A000200010048-4",
+   "stratum": "nga",
+   "collection": "NGA Records (Formerly NIMA)",
+   "content_type": "REPORT",
+   "title": "OAK - PART I MISSION 9037 23-26 JUNE 1962",
+   "pages": 11,
+   "pdf_url": "https://www.cia.gov/readingroom/docs/cia-rdp78b04560a000200010048-4.pdf"
+  },
+  {
+   "doc_id": "CIA-RDP78B04770A002900020066-8",
+   "stratum": "nga",
+   "collection": "NGA Records (Formerly NIMA)",
+   "content_type": "NOTES",
+   "title": "NOTE(Sanitized)",
+   "pages": 1,
+   "pdf_url": "https://www.cia.gov/readingroom/docs/cia-rdp78b04770a002900020066-8.pdf"
+  },
+  {
+   "doc_id": "CIA-RDP83-01074R000100540004-7",
+   "stratum": "nga",
+   "collection": "NGA Records (Formerly NIMA)",
+   "content_type": "MISC",
+   "title": "SRB MISSION & FUNCTIONS",
+   "pages": 2,
+   "pdf_url": "https://www.cia.gov/readingroom/docs/cia-rdp83-01074r000100540004-7.pdf"
+  },
+  {
+   "doc_id": "CIA-RDP78B04558A000600110057-2",
+   "stratum": "nga",
+   "collection": "NGA Records (Formerly NIMA)",
+   "content_type": "CABLE",
+   "title": "1.  SORRY THIS PROBLEM CAUGHT YOU SOMEWHAT BY SURPRISE.",
+   "pages": 3,
+   "pdf_url": "https://www.cia.gov/readingroom/docs/cia-rdp78b04558a000600110057-2.pdf"
+  },
+  {
+   "doc_id": "CIA-RDP78T04753A000100010004-8",
+   "stratum": "nga",
+   "collection": "NGA Records (Formerly NIMA)",
+   "content_type": "BRIEF",
+   "title": "PHOTOGRAPHIC INTELLIGENCE BRIEF RE MARTI SHIPYARD, 194 LENINGRAD, USSR",
+   "pages": 2,
+   "pdf_url": "https://www.cia.gov/readingroom/docs/cia-rdp78t04753a000100010004-8.pdf"
+  },
+  {
+   "doc_id": "CIA-RDP78B03826A000300070041-0",
+   "stratum": "nga",
+   "collection": "NGA Records (Formerly NIMA)",
+   "content_type": "CABLE",
+   "title": "CABLE TO RUFLFAA/HQS USAF FROM NPIC WASHDC",
+   "pages": 1,
+   "pdf_url": "https://www.cia.gov/readingroom/docs/cia-rdp78b03826a000300070041-0.pdf"
+  },
+  {
+   "doc_id": "CIA-RDP78B04558A001700240049-5",
+   "stratum": "nga",
+   "collection": "NGA Records (Formerly NIMA)",
+   "content_type": "CABLE",
+   "title": "CABLE (SANITIZED)",
+   "pages": 1,
+   "pdf_url": "https://www.cia.gov/readingroom/docs/cia-rdp78b04558a001700240049-5.pdf"
+  },
+  {
+   "doc_id": "CIA-RDP78B03826A000100080096-1",
+   "stratum": "nga",
+   "collection": "NGA Records (Formerly NIMA)",
+   "content_type": "CABLE",
+   "title": "THE FOLLOWING IS FROM(SANITIZED)",
+   "pages": 1,
+   "pdf_url": "https://www.cia.gov/readingroom/docs/cia-rdp78b03826a000100080096-1.pdf"
+  },
+  {
+   "doc_id": "CIA-RDP78B03824A001000010073-5",
+   "stratum": "nga",
+   "collection": "NGA Records (Formerly NIMA)",
+   "content_type": "CABLE",
+   "title": "CABLE TO AIG 7840 FROM NPIC",
+   "pages": 4,
+   "pdf_url": "https://www.cia.gov/readingroom/docs/cia-rdp78b03824a001000010073-5.pdf"
+  },
+  {
+   "doc_id": "CIA-RDP78B03824A000300020086-8",
+   "stratum": "nga",
+   "collection": "NGA Records (Formerly NIMA)",
+   "content_type": "CABLE",
+   "title": "MISSION 1109-2 QUALITY REPORT",
+   "pages": 1,
+   "pdf_url": "https://www.cia.gov/readingroom/docs/cia-rdp78b03824a000300020086-8.pdf"
+  },
+  {
+   "doc_id": "CIA-RDP80T01471R001200160007-6",
+   "stratum": "nga",
+   "collection": "NGA Records (Formerly NIMA)",
+   "content_type": "REPORT",
+   "title": "MOSCOW PARADE 7 NOVEMBER 1965",
+   "pages": 4,
+   "pdf_url": "https://www.cia.gov/readingroom/docs/cia-rdp80t01471r001200160007-6.pdf"
+  },
+  {
+   "doc_id": "CIA-RDP78B03826A000100010082-3",
+   "stratum": "nga",
+   "collection": "NGA Records (Formerly NIMA)",
+   "content_type": "CABLE",
+   "title": "MATERIAL TURNED OVER TO (SANITIZED) ON 17 JANUARY 1970",
+   "pages": 1,
+   "pdf_url": "https://www.cia.gov/readingroom/docs/cia-rdp78b03826a000100010082-3.pdf"
+  },
+  {
+   "doc_id": "CIA-RDP80T01137A000300030009-6",
+   "stratum": "nga",
+   "collection": "NGA Records (Formerly NIMA)",
+   "content_type": "MEMO",
+   "title": "ARGO PROJECT",
+   "pages": 3,
+   "pdf_url": "https://www.cia.gov/readingroom/docs/cia-rdp80t01137a000300030009-6.pdf"
+  },
+  {
+   "doc_id": "CIA-RDP78B04770A000800050014-5",
+   "stratum": "nga",
+   "collection": "NGA Records (Formerly NIMA)",
+   "content_type": "REPORT",
+   "title": "FY-67 QUARTERLY REPORT NO. 1  ZOOM (6X TO 60X)  PROJECTION LENS FOR MONOCHROMATIC LIGHT",
+   "pages": 1,
+   "pdf_url": "https://www.cia.gov/readingroom/docs/cia-rdp78b04770a000800050014-5.pdf"
+  },
+  {
+   "doc_id": "CIA-RDP80T01137A000200030029-5",
+   "stratum": "nga",
+   "collection": "NGA Records (Formerly NIMA)",
+   "content_type": "MEMO",
+   "title": "MEETING OF THE NATIONAL DISASTER SUPPORT TASK GROUP",
+   "pages": 7,
+   "pdf_url": "https://www.cia.gov/readingroom/docs/cia-rdp80t01137a000200030029-5.pdf"
+  },
+  {
+   "doc_id": "CIA-RDP78T05694A000200550008-9",
+   "stratum": "nga",
+   "collection": "NGA Records (Formerly NIMA)",
+   "content_type": "IM",
+   "title": "GENETRIX PHOTOGRAPHY",
+   "pages": 5,
+   "pdf_url": "https://www.cia.gov/readingroom/docs/cia-rdp78t05694a000200550008-9.pdf"
+  },
+  {
+   "doc_id": "CIA-RDP78T05166A000200010054-3",
+   "stratum": "nga",
+   "collection": "NGA Records (Formerly NIMA)",
+   "content_type": "REPORT",
+   "title": "PRELIMINARY SITUATION REPORT NO 27",
+   "pages": 3,
+   "pdf_url": "https://www.cia.gov/readingroom/docs/cia-rdp78t05166a000200010054-3.pdf"
+  },
+  {
+   "doc_id": "CIA-RDP78B04558A001900090151-6",
+   "stratum": "nga",
+   "collection": "NGA Records (Formerly NIMA)",
+   "content_type": "CABLE",
+   "title": "IMMEDIATE PHOTOGRAPHIC INTERPRETATION REPORT BLUE SPRINGS",
+   "pages": 1,
+   "pdf_url": "https://www.cia.gov/readingroom/docs/cia-rdp78b04558a001900090151-6.pdf"
+  },
+  {
+   "doc_id": "CIA-RDP78B04770A002600080025-0",
+   "stratum": "nga",
+   "collection": "NGA Records (Formerly NIMA)",
+   "content_type": "LIST",
+   "title": "RECEIPT FOR CLASSIFIED MATERIAL",
+   "pages": 2,
+   "pdf_url": "https://www.cia.gov/readingroom/docs/cia-rdp78b04770a002600080025-0.pdf"
+  },
+  {
+   "doc_id": "CIA-RDP79T00909A000400010001-1",
+   "stratum": "nga",
+   "collection": "NGA Records (Formerly NIMA)",
+   "content_type": "REPORT",
+   "title": "CHI-LIN CHEMICAL FERTILIZER PLANT CHI-LIN, CHINA",
+   "pages": 10,
+   "pdf_url": "https://www.cia.gov/readingroom/docs/cia-rdp79t00909a000400010001-1.pdf"
+  },
+  {
+   "doc_id": "CIA-RDP78B04558A001700010001-2",
+   "stratum": "nga",
+   "collection": "NGA Records (Formerly NIMA)",
+   "content_type": "CABLE",
+   "title": "MAILING ADDRESS",
+   "pages": 1,
+   "pdf_url": "https://www.cia.gov/readingroom/docs/cia-rdp78b04558a001700010001-2.pdf"
+  },
+  {
+   "doc_id": "CIA-RDP78B03826A000500030071-9",
+   "stratum": "nga",
+   "collection": "NGA Records (Formerly NIMA)",
+   "content_type": "CABLE",
+   "title": "1. REQUEST FOLLOWING BE REPRODUCED ON FILM TYPE SO-192",
+   "pages": 2,
+   "pdf_url": "https://www.cia.gov/readingroom/docs/cia-rdp78b03826a000500030071-9.pdf"
+  },
+  {
+   "doc_id": "CIA-RDP91T00712R000100190003-0",
+   "stratum": "nga",
+   "collection": "NGA Records (Formerly NIMA)",
+   "content_type": "REPORT",
+   "title": "NICARAGUAN MERSHIP MONIMBO SONGNIM PORT FACILITY NORTH KOREA",
+   "pages": 2,
+   "pdf_url": "https://www.cia.gov/readingroom/docs/cia-rdp91t00712r000100190003-0.pdf"
+  },
+  {
+   "doc_id": "CIA-RDP78T04759A003500010018-0",
+   "stratum": "nga",
+   "collection": "NGA Records (Formerly NIMA)",
+   "content_type": "BRIEF",
+   "title": "NIZHNYAYA TURA AMM/SAM LAUNCH COMPLEX USSR",
+   "pages": 4,
+   "pdf_url": "https://www.cia.gov/readingroom/docs/cia-rdp78t04759a003500010018-0.pdf"
+  },
+  {
+   "doc_id": "CIA-RDP79B00873A000100010078-8",
+   "stratum": "nga",
+   "collection": "NGA Records (Formerly NIMA)",
+   "content_type": "FORM",
+   "title": "IMAGE ANALYSIS STUDY",
+   "pages": 1,
+   "pdf_url": "https://www.cia.gov/readingroom/docs/cia-rdp79b00873a000100010078-8.pdf"
+  },
+  {
+   "doc_id": "CIA-RDP78T05161A001400010033-8",
+   "stratum": "nga",
+   "collection": "NGA Records (Formerly NIMA)",
+   "content_type": "REPORT",
+   "title": "KOMMUNA SHIPYARD 445 NIKOLAYEV, USSR(Sanitized)",
+   "pages": 10,
+   "pdf_url": "https://www.cia.gov/readingroom/docs/cia-rdp78t05161a001400010033-8.pdf"
+  },
+  {
+   "doc_id": "CIA-RDP78B04558A000800060020-6",
+   "stratum": "nga",
+   "collection": "NGA Records (Formerly NIMA)",
+   "content_type": "CABLE",
+   "title": "CABLE TO AFSSO HQS FROM OPCEN",
+   "pages": 2,
+   "pdf_url": "https://www.cia.gov/readingroom/docs/cia-rdp78b04558a000800060020-6.pdf"
+  },
+  {
+   "doc_id": "CIA-RDP78B04558A001500020043-7",
+   "stratum": "nga",
+   "collection": "NGA Records (Formerly NIMA)",
+   "content_type": "CABLE",
+   "title": "CABLE TO (SANITIZED)FROM NPIC",
+   "pages": 4,
+   "pdf_url": "https://www.cia.gov/readingroom/docs/cia-rdp78b04558a001500020043-7.pdf"
+  },
+  {
+   "doc_id": "CIA-RDP78B03826A000200030099-2",
+   "stratum": "nga",
+   "collection": "NGA Records (Formerly NIMA)",
+   "content_type": "CABLE",
+   "title": "SIGNAL (SANITIZED) 2822 FOR MISSION 1109 HAS BEEN SENT OUT BY (SANITIZED)",
+   "pages": 1,
+   "pdf_url": "https://www.cia.gov/readingroom/docs/cia-rdp78b03826a000200030099-2.pdf"
+  },
+  {
+   "doc_id": "CIA-RDP78B04560A005400010051-3",
+   "stratum": "nga",
+   "collection": "NGA Records (Formerly NIMA)",
+   "content_type": "REPORT",
+   "title": "(Classified) MISSION 5143 23 MARCH 1966",
+   "pages": 12,
+   "pdf_url": "https://www.cia.gov/readingroom/docs/cia-rdp78b04560a005400010051-3.pdf"
+  },
+  {
+   "doc_id": "CIA-RDP78B04558A001800190001-2",
+   "stratum": "nga",
+   "collection": "NGA Records (Formerly NIMA)",
+   "content_type": "CABLE",
+   "title": "A.  C304C",
+   "pages": 1,
+   "pdf_url": "https://www.cia.gov/readingroom/docs/cia-rdp78b04558a001800190001-2.pdf"
+  },
+  {
+   "doc_id": "CIA-RDP78B03824A000200020002-1",
+   "stratum": "nga",
+   "collection": "NGA Records (Formerly NIMA)",
+   "content_type": "CABLE",
+   "title": "CABLE TO AIG 7840 FROM NPIC",
+   "pages": 6,
+   "pdf_url": "https://www.cia.gov/readingroom/docs/cia-rdp78b03824a000200020002-1.pdf"
+  },
+  {
+   "doc_id": "CIA-RDP78B04747A001100050013-1",
+   "stratum": "nga",
+   "collection": "NGA Records (Formerly NIMA)",
+   "content_type": "REPORT",
+   "title": "PROJECT INSPECTOR  PROGRESS REPORT FOR OCTOBER 1964",
+   "pages": 3,
+   "pdf_url": "https://www.cia.gov/readingroom/docs/cia-rdp78b04747a001100050013-1.pdf"
+  },
+  {
+   "doc_id": "CIA-RDP78B04558A001200040046-5",
+   "stratum": "nga",
+   "collection": "NGA Records (Formerly NIMA)",
+   "content_type": "CABLE",
+   "title": "CABLE TO DIRNSA FROM NPIC",
+   "pages": 2,
+   "pdf_url": "https://www.cia.gov/readingroom/docs/cia-rdp78b04558a001200040046-5.pdf"
+  },
+  {
+   "doc_id": "CIA-RDP78T05439A000500200074-7",
+   "stratum": "nga",
+   "collection": "NGA Records (Formerly NIMA)",
+   "content_type": "REPORT",
+   "title": "SOVIET MILITARY ORDER OF BATTLE NORTH CAUCASUS  MD",
+   "pages": 8,
+   "pdf_url": "https://www.cia.gov/readingroom/docs/cia-rdp78t05439a000500200074-7.pdf"
+  },
+  {
+   "doc_id": "CIA-RDP78B04558A000700120011-0",
+   "stratum": "nga",
+   "collection": "NGA Records (Formerly NIMA)",
+   "content_type": "CABLE",
+   "title": "CABLE TO RUCSBR/SAC OFFUTT AFB OMAHA NEB FROM CIA WASHDC",
+   "pages": 2,
+   "pdf_url": "https://www.cia.gov/readingroom/docs/cia-rdp78b04558a000700120011-0.pdf"
+  },
+  {
+   "doc_id": "CIA-RDP78B04558A001500020029-3",
+   "stratum": "nga",
+   "collection": "NGA Records (Formerly NIMA)",
+   "content_type": "CABLE",
+   "title": "CABLE TO AIG NINE SEVEN FIVE FROM NPIC WASHDC",
+   "pages": 1,
+   "pdf_url": "https://www.cia.gov/readingroom/docs/cia-rdp78b04558a001500020029-3.pdf"
+  },
+  {
+   "doc_id": "CIA-RDP78T05439A000300050082-7",
+   "stratum": "nga",
+   "collection": "NGA Records (Formerly NIMA)",
+   "content_type": "REPORT",
+   "title": "MILITARY INSTALLATIONS, OLAWA, POLAND",
+   "pages": 4,
+   "pdf_url": "https://www.cia.gov/readingroom/docs/cia-rdp78t05439a000300050082-7.pdf"
+  },
+  {
+   "doc_id": "CIA-RDP78B04558A000700120096-7",
+   "stratum": "nga",
+   "collection": "NGA Records (Formerly NIMA)",
+   "content_type": "CABLE",
+   "title": "CABLE TO RUCSBR/SAC OFFUTT AFB OMAHA NEB FROM CIA WASHDC",
+   "pages": 2,
+   "pdf_url": "https://www.cia.gov/readingroom/docs/cia-rdp78b04558a000700120096-7.pdf"
+  },
+  {
+   "doc_id": "CIA-RDP82T00709R000102020001-2",
+   "stratum": "nga",
+   "collection": "NGA Records (Formerly NIMA)",
+   "content_type": "REPORT",
+   "title": "SOVIET MILITARY OPERATIONS PANJSER VALLEY, AFGHANISTAN",
+   "pages": 6,
+   "pdf_url": "https://www.cia.gov/readingroom/docs/cia-rdp82t00709r000102020001-2.pdf"
+  },
+  {
+   "doc_id": "CIA-RDP78B05700A000400040010-3",
+   "stratum": "nga",
+   "collection": "NGA Records (Formerly NIMA)",
+   "content_type": "CABLE",
+   "title": "CABLE TO DIRECTOR FROM FTD WPAFB",
+   "pages": 1,
+   "pdf_url": "https://www.cia.gov/readingroom/docs/cia-rdp78b05700a000400040010-3.pdf"
+  },
+  {
+   "doc_id": "CIA-RDP78B04560A005000010011-8",
+   "stratum": "nga",
+   "collection": "NGA Records (Formerly NIMA)",
+   "content_type": "PHOTO",
+   "title": "CONSTANCIA POSSIBLE SAM SITE UNDER CONSTRUCTION",
+   "pages": 2,
+   "pdf_url": "https://www.cia.gov/readingroom/docs/cia-rdp78b04560a005000010011-8.pdf"
+  },
+  {
+   "doc_id": "CIA-RDP78B04747A001800100036-3",
+   "stratum": "nga",
+   "collection": "NGA Records (Formerly NIMA)",
+   "content_type": "REPORT",
+   "title": "(Sanitized) IMAGE QUALITY METER",
+   "pages": 2,
+   "pdf_url": "https://www.cia.gov/readingroom/docs/cia-rdp78b04747a001800100036-3.pdf"
+  },
+  {
+   "doc_id": "CIA-RDP78B04747A000200010046-9",
+   "stratum": "nga",
+   "collection": "NGA Records (Formerly NIMA)",
+   "content_type": "PERRPT",
+   "title": "FOURTH MONTHLY PROGRESS REPORT JUNE 1964 MICRODENSITOMETER CAPABILITY AND INTERPRETATION STUDY",
+   "pages": 3,
+   "pdf_url": "https://www.cia.gov/readingroom/docs/cia-rdp78b04747a000200010046-9.pdf"
+  },
+  {
+   "doc_id": "CIA-RDP78T04759A004300010022-6",
+   "stratum": "nga",
+   "collection": "NGA Records (Formerly NIMA)",
+   "content_type": "REPORT",
+   "title": "OLOVYANNAYA ICBM COMPLEX USSR",
+   "pages": 8,
+   "pdf_url": "https://www.cia.gov/readingroom/docs/cia-rdp78t04759a004300010022-6.pdf"
+  },
+  {
+   "doc_id": "CIA-RDP78B04555A000100030047-6",
+   "stratum": "nga",
+   "collection": "NGA Records (Formerly NIMA)",
+   "content_type": "CABLE",
+   "title": "CABLE TO AIG 7840 FROM NPIC WASHDC",
+   "pages": 1,
+   "pdf_url": "https://www.cia.gov/readingroom/docs/cia-rdp78b04555a000100030047-6.pdf"
+  },
+  {
+   "doc_id": "CIA-RDP78T05439A000400090003-9",
+   "stratum": "nga",
+   "collection": "NGA Records (Formerly NIMA)",
+   "content_type": "REPORT",
+   "title": "BARRACKS AREA STAZHISKA, USSR CARPATHIAN MD",
+   "pages": 7,
+   "pdf_url": "https://www.cia.gov/readingroom/docs/cia-rdp78t05439a000400090003-9.pdf"
+  },
+  {
+   "doc_id": "CIA-RDP78T05929A000200010084-6",
+   "stratum": "nga",
+   "collection": "NGA Records (Formerly NIMA)",
+   "content_type": "PHOTO",
+   "title": "POSSIBLE AMM ASSOCIATED ELECTRONIC FACILITY MOSCOW SA-1 SAM SITE E33-1, USSR",
+   "pages": 1,
+   "pdf_url": "https://www.cia.gov/readingroom/docs/cia-rdp78t05929a000200010084-6.pdf"
+  },
+  {
+   "doc_id": "CIA-RDP78T04759A003300010034-4",
+   "stratum": "nga",
+   "collection": "NGA Records (Formerly NIMA)",
+   "content_type": "NOTES",
+   "title": "P. I. NOTES",
+   "pages": 9,
+   "pdf_url": "https://www.cia.gov/readingroom/docs/cia-rdp78t04759a003300010034-4.pdf"
+  },
+  {
+   "doc_id": "CIA-RDP78B04555A000200040020-3",
+   "stratum": "nga",
+   "collection": "NGA Records (Formerly NIMA)",
+   "content_type": "CABLE",
+   "title": "CABLE TO RHCOAAA/SAC OFFUTT AFB OMAGA NEB FROM NPIC WASH DC",
+   "pages": 2,
+   "pdf_url": "https://www.cia.gov/readingroom/docs/cia-rdp78b04555a000200040020-3.pdf"
+  },
+  {
+   "doc_id": "CIA-RDP78T05439A000500230031-1",
+   "stratum": "nga",
+   "collection": "NGA Records (Formerly NIMA)",
+   "content_type": "REPORT",
+   "title": "SAM INSTALLATION SERIES",
+   "pages": 3,
+   "pdf_url": "https://www.cia.gov/readingroom/docs/cia-rdp78t05439a000500230031-1.pdf"
+  },
+  {
+   "doc_id": "CIA-RDP78T04759A006200010006-3",
+   "stratum": "nga",
+   "collection": "NGA Records (Formerly NIMA)",
+   "content_type": "BRIEF",
+   "title": "DUROY TALL KING-AW RADAR FACILITY USSR",
+   "pages": 5,
+   "pdf_url": "https://www.cia.gov/readingroom/docs/cia-rdp78t04759a006200010006-3.pdf"
+  },
+  {
+   "doc_id": "CIA-RDP78B03826A000100070004-3",
+   "stratum": "nga",
+   "collection": "NGA Records (Formerly NIMA)",
+   "content_type": "CABLE",
+   "title": "CABLE TO AIG 7840 FROM NPIC WASHDC",
+   "pages": 1,
+   "pdf_url": "https://www.cia.gov/readingroom/docs/cia-rdp78b03826a000100070004-3.pdf"
+  },
+  {
+   "doc_id": "CIA-RDP78B04560A007200010039-7",
+   "stratum": "nga",
+   "collection": "NGA Records (Formerly NIMA)",
+   "content_type": "REPORT",
+   "title": "MISSION C142C 3 JUNE 1972",
+   "pages": 8,
+   "pdf_url": "https://www.cia.gov/readingroom/docs/cia-rdp78b04560a007200010039-7.pdf"
+  },
+  {
+   "doc_id": "CIA-RDP78T04759A001900010008-9",
+   "stratum": "nga",
+   "collection": "NGA Records (Formerly NIMA)",
+   "content_type": "REPORT",
+   "title": "SOVIET MILITARY ORDER OF BATTLE FAR EAST MD",
+   "pages": 9,
+   "pdf_url": "https://www.cia.gov/readingroom/docs/cia-rdp78t04759a001900010008-9.pdf"
+  },
+  {
+   "doc_id": "CIA-RDP78B04747A000600040005-7",
+   "stratum": "nga",
+   "collection": "NGA Records (Formerly NIMA)",
+   "content_type": "MF",
+   "title": "PRECISION ENLARGER(Sanitized)",
+   "pages": 2,
+   "pdf_url": "https://www.cia.gov/readingroom/docs/cia-rdp78b04747a000600040005-7.pdf"
+  },
+  {
+   "doc_id": "CIA-RDP78T05929A004400010017-4",
+   "stratum": "nga",
+   "collection": "NGA Records (Formerly NIMA)",
+   "content_type": "REPORT",
+   "title": "VARIATIONS OF SAM SITES EGYPT",
+   "pages": 5,
+   "pdf_url": "https://www.cia.gov/readingroom/docs/cia-rdp78t05929a004400010017-4.pdf"
+  },
+  {
+   "doc_id": "CIA-RDP78B04747A000100130005-2",
+   "stratum": "nga",
+   "collection": "NGA Records (Formerly NIMA)",
+   "content_type": "MF",
+   "title": "CONTRACT NO. 64-29546 WITH (Classified)",
+   "pages": 1,
+   "pdf_url": "https://www.cia.gov/readingroom/docs/cia-rdp78b04747a000100130005-2.pdf"
+  },
+  {
+   "doc_id": "CIA-RDP78B03826A000100050002-7",
+   "stratum": "nga",
+   "collection": "NGA Records (Formerly NIMA)",
+   "content_type": "CABLE",
+   "title": "PASS DI03 ROLLS 1 & 2 D POS WERE SENT TO (SANITIZED) ON LOAN",
+   "pages": 1,
+   "pdf_url": "https://www.cia.gov/readingroom/docs/cia-rdp78b03826a000100050002-7.pdf"
+  },
+  {
+   "doc_id": "CIA-RDP78T05439A000500350054-3",
+   "stratum": "nga",
+   "collection": "NGA Records (Formerly NIMA)",
+   "content_type": "REPORT",
+   "title": "TRIAD FACILITY SURFACE TO AIR MISSILE SITE E-33-1 MOSCOW, USSR",
+   "pages": 11,
+   "pdf_url": "https://www.cia.gov/readingroom/docs/cia-rdp78t05439a000500350054-3.pdf"
+  },
+  {
+   "doc_id": "CIA-RDP78B04770A001500060078-6",
+   "stratum": "nga",
+   "collection": "NGA Records (Formerly NIMA)",
+   "content_type": "MEMO",
+   "title": "CONTRACTS WITH UNIVERSITIES",
+   "pages": 1,
+   "pdf_url": "https://www.cia.gov/readingroom/docs/cia-rdp78b04770a001500060078-6.pdf"
+  },
+  {
+   "doc_id": "CIA-RDP73T00325R000100010025-5",
+   "stratum": "nga",
+   "collection": "NGA Records (Formerly NIMA)",
+   "content_type": "REPORT",
+   "title": "APPENDIX B:  QUESTIONS ON DEFINITION OF MANAGEMENT INFORMATION NEEDS AND REASSESSMENT OF THE MIS",
+   "pages": 3,
+   "pdf_url": "https://www.cia.gov/readingroom/docs/cia-rdp73t00325r000100010025-5.pdf"
+  },
+  {
+   "doc_id": "CIA-RDP83T00574R000102170001-5",
+   "stratum": "nga",
+   "collection": "NGA Records (Formerly NIMA)",
+   "content_type": "REPORT",
+   "title": "IDENTIFICATION OF CADRE-LEVEL MOTORIZED RIFLE DIVISION SARAPUL, URAL MILITARY DISTRICT, USSR(SANITIZED)",
+   "pages": 4,
+   "pdf_url": "https://www.cia.gov/readingroom/docs/cia-rdp83t00574r000102170001-5.pdf"
+  },
+  {
+   "doc_id": "CIA-RDP78B03826A000400080015-7",
+   "stratum": "nga",
+   "collection": "NGA Records (Formerly NIMA)",
+   "content_type": "CABLE",
+   "title": "CABLE TO AIG NINE SEVEN FIVE FROM NPIC WASHDC",
+   "pages": 1,
+   "pdf_url": "https://www.cia.gov/readingroom/docs/cia-rdp78b03826a000400080015-7.pdf"
+  },
+  {
+   "doc_id": "CIA-RDP79-00849A000700050004-8",
+   "stratum": "nga",
+   "collection": "NGA Records (Formerly NIMA)",
+   "content_type": "REPORT",
+   "title": "POL DRUMS ON THE SE KONG (RIVER) PANHANDLE AREA, LAOS",
+   "pages": 3,
+   "pdf_url": "https://www.cia.gov/readingroom/docs/cia-rdp79-00849a000700050004-8.pdf"
+  },
+  {
+   "doc_id": "CIA-RDP78B04558A000400250041-6",
+   "stratum": "nga",
+   "collection": "NGA Records (Formerly NIMA)",
+   "content_type": "CABLE",
+   "title": "CABLE TO RUCBCR/CG EIGHTEENTH AIRBORNE FROM CIA WASHDC",
+   "pages": 2,
+   "pdf_url": "https://www.cia.gov/readingroom/docs/cia-rdp78b04558a000400250041-6.pdf"
+  },
+  {
+   "doc_id": "CIA-RDP78-04772A000200100004-6",
+   "stratum": "nga",
+   "collection": "NGA Records (Formerly NIMA)",
+   "content_type": "REPORT",
+   "title": "IPIR BRASS KNOB MISSION 3348 8 JANUARY 1963",
+   "pages": 11,
+   "pdf_url": "https://www.cia.gov/readingroom/docs/cia-rdp78-04772a000200100004-6.pdf"
+  },
+  {
+   "doc_id": "CIA-RDP78B04558A000100080047-2",
+   "stratum": "nga",
+   "collection": "NGA Records (Formerly NIMA)",
+   "content_type": "CABLE",
+   "title": "CABLE TO PRIORITY SAIG INFO (SANITIZED)(SANITIZED) BANG DIR VETN UDOR CITE NPIC 4231",
+   "pages": 1,
+   "pdf_url": "https://www.cia.gov/readingroom/docs/cia-rdp78b04558a000100080047-2.pdf"
+  },
+  {
+   "doc_id": "CIA-RDP78B04770A001100060009-6",
+   "stratum": "nga",
+   "collection": "NGA Records (Formerly NIMA)",
+   "content_type": "PERRPT",
+   "title": "(SANITIZED) PRECISION ENLARGER PROTOTYPE (BPE) OPERATIONAL IMPROVEMENTS AND MAINTENANCE",
+   "pages": 2,
+   "pdf_url": "https://www.cia.gov/readingroom/docs/cia-rdp78b04770a001100060009-6.pdf"
+  },
+  {
+   "doc_id": "CIA-RDP78B05700A000300010088-2",
+   "stratum": "nga",
+   "collection": "NGA Records (Formerly NIMA)",
+   "content_type": "CABLE",
+   "title": "AS SOON AS FILM REFERRED TO IN REFERENCE HAS BEEN PROCESSED",
+   "pages": 1,
+   "pdf_url": "https://www.cia.gov/readingroom/docs/cia-rdp78b05700a000300010088-2.pdf"
+  },
+  {
+   "doc_id": "CIA-RDP78T04759A003600010012-5",
+   "stratum": "nga",
+   "collection": "NGA Records (Formerly NIMA)",
+   "content_type": "BRIEF",
+   "title": "SVERDLOVSK AMM/SAM LAUNCH COMPLEX, USSR",
+   "pages": 5,
+   "pdf_url": "https://www.cia.gov/readingroom/docs/cia-rdp78t04759a003600010012-5.pdf"
+  },
+  {
+   "doc_id": "CIA-RDP78B05700A000200070047-2",
+   "stratum": "nga",
+   "collection": "NGA Records (Formerly NIMA)",
+   "content_type": "CABLE",
+   "title": "CABLE (SANITIZED) FROM DIRECTOR",
+   "pages": 1,
+   "pdf_url": "https://www.cia.gov/readingroom/docs/cia-rdp78b05700a000200070047-2.pdf"
+  },
+  {
+   "doc_id": "CIA-RDP78T05439A000100090097-6",
+   "stratum": "nga",
+   "collection": "NGA Records (Formerly NIMA)",
+   "content_type": "BRIEF",
+   "title": "(UNTITLED)",
+   "pages": 2,
+   "pdf_url": "https://www.cia.gov/readingroom/docs/cia-rdp78t05439a000100090097-6.pdf"
+  },
+  {
+   "doc_id": "CIA-RDP79B00873A001900010012-1",
+   "stratum": "nga",
+   "collection": "NGA Records (Formerly NIMA)",
+   "content_type": "MEMO",
+   "title": "TRIP REPORT- CORNING GLASS WORKS",
+   "pages": 2,
+   "pdf_url": "https://www.cia.gov/readingroom/docs/cia-rdp79b00873a001900010012-1.pdf"
+  },
+  {
+   "doc_id": "CIA-RDP78B04770A001300010090-9",
+   "stratum": "nga",
+   "collection": "NGA Records (Formerly NIMA)",
+   "content_type": "PERRPT",
+   "title": "CONTRACT(Sanitized)MONTHLY REPORT 1 OCTOBER THROUGH 31 OCTOBER 1966",
+   "pages": 2,
+   "pdf_url": "https://www.cia.gov/readingroom/docs/cia-rdp78b04770a001300010090-9.pdf"
+  },
+  {
+   "doc_id": "CIA-RDP78B04555A000300040009-5",
+   "stratum": "nga",
+   "collection": "NGA Records (Formerly NIMA)",
+   "content_type": "CABLE",
+   "title": "(SANITIZED) ATTENDANCE TO REF STUDIES WILL BE (SANITIZED)",
+   "pages": 1,
+   "pdf_url": "https://www.cia.gov/readingroom/docs/cia-rdp78b04555a000300040009-5.pdf"
+  },
+  {
+   "doc_id": "CIA-RDP78B05171A000600020067-9",
+   "stratum": "nga",
+   "collection": "NGA Records (Formerly NIMA)",
+   "content_type": "MF",
+   "title": "HIGH PRECISION STEREO COMPARATOR PROGRAM",
+   "pages": 1,
+   "pdf_url": "https://www.cia.gov/readingroom/docs/cia-rdp78b05171a000600020067-9.pdf"
+  },
+  {
+   "doc_id": "CIA-RDP78B03824A000300020090-3",
+   "stratum": "nga",
+   "collection": "NGA Records (Formerly NIMA)",
+   "content_type": "CABLE",
+   "title": "CABLE (SANITIZED)",
+   "pages": 1,
+   "pdf_url": "https://www.cia.gov/readingroom/docs/cia-rdp78b03824a000300020090-3.pdf"
+  },
+  {
+   "doc_id": "CIA-RDP78B04560A006100010023-6",
+   "stratum": "nga",
+   "collection": "NGA Records (Formerly NIMA)",
+   "content_type": "REPORT",
+   "title": "HOA BINH SAM SITE D27-2",
+   "pages": 2,
+   "pdf_url": "https://www.cia.gov/readingroom/docs/cia-rdp78b04560a006100010023-6.pdf"
+  },
+  {
+   "doc_id": "CIA-RDP91T00712R000100290007-5",
+   "stratum": "nga",
+   "collection": "NGA Records (Formerly NIMA)",
+   "content_type": "REPORT",
+   "title": "BACKFIRE C WITH SOVIET NAVAL AVIATION NIKOLAYEV/KULBAKINO AIRFIELD, USSR",
+   "pages": 2,
+   "pdf_url": "https://www.cia.gov/readingroom/docs/cia-rdp91t00712r000100290007-5.pdf"
+  },
+  {
+   "doc_id": "CIA-RDP78B04558A000800040007-3",
+   "stratum": "nga",
+   "collection": "NGA Records (Formerly NIMA)",
+   "content_type": "CABLE",
+   "title": "CABLE TO (SANITIZED) FROM OPCEN",
+   "pages": 2,
+   "pdf_url": "https://www.cia.gov/readingroom/docs/cia-rdp78b04558a000800040007-3.pdf"
+  },
+  {
+   "doc_id": "CIA-RDP90T00784R000100110011-1",
+   "stratum": "nga",
+   "collection": "NGA Records (Formerly NIMA)",
+   "content_type": "REPORT",
+   "title": "POSSIBLE CSS-4 ICBM SILOS UNDER CONSTRUCTION JINGXIAN, CHINA (SANITIZED)",
+   "pages": 4,
+   "pdf_url": "https://www.cia.gov/readingroom/docs/cia-rdp90t00784r000100110011-1.pdf"
+  },
+  {
+   "doc_id": "CIA-RDP78T05439A000500370020-8",
+   "stratum": "nga",
+   "collection": "NGA Records (Formerly NIMA)",
+   "content_type": "REPORT",
+   "title": "ILI KRUG ANTENNA FACILITY USSR",
+   "pages": 4,
+   "pdf_url": "https://www.cia.gov/readingroom/docs/cia-rdp78t05439a000500370020-8.pdf"
+  },
+  {
+   "doc_id": "CIA-RDP78T04759A000600010125-3",
+   "stratum": "nga",
+   "collection": "NGA Records (Formerly NIMA)",
+   "content_type": "REPORT",
+   "title": "SURFACE-TO-AIR MISSILE (SAM) INSTALLATION SERIES",
+   "pages": 3,
+   "pdf_url": "https://www.cia.gov/readingroom/docs/cia-rdp78t04759a000600010125-3.pdf"
+  },
+  {
+   "doc_id": "CIA-RDP84T00491R000100660001-4",
+   "stratum": "nga",
+   "collection": "NGA Records (Formerly NIMA)",
+   "content_type": "MISC",
+   "title": "ARMS DELIVERY",
+   "pages": 4,
+   "pdf_url": "https://www.cia.gov/readingroom/docs/cia-rdp84t00491r000100660001-4.pdf"
+  },
+  {
+   "doc_id": "CIA-RDP78B03826A000300030098-2",
+   "stratum": "nga",
+   "collection": "NGA Records (Formerly NIMA)",
+   "content_type": "CABLE",
+   "title": "CABLE TO (SANITIZED) FROM NPIC",
+   "pages": 1,
+   "pdf_url": "https://www.cia.gov/readingroom/docs/cia-rdp78b03826a000300030098-2.pdf"
+  },
+  {
+   "doc_id": "CIA-RDP78B04747A002900030010-7",
+   "stratum": "nga",
+   "collection": "NGA Records (Formerly NIMA)",
+   "content_type": "FORM",
+   "title": "CONTRACT INSPECTION REPORT",
+   "pages": 8,
+   "pdf_url": "https://www.cia.gov/readingroom/docs/cia-rdp78b04747a002900030010-7.pdf"
+  },
+  {
+   "doc_id": "CIA-RDP78B04558A000800220003-7",
+   "stratum": "nga",
+   "collection": "NGA Records (Formerly NIMA)",
+   "content_type": "CABLE",
+   "title": "WE UNDERSTAND THAT (SANITIZED) IS NOW INSTALLING AND CHECKING OUT THE NEW STEREO COMPARATOR BUILT BY (SANITIZED)",
+   "pages": 3,
+   "pdf_url": "https://www.cia.gov/readingroom/docs/cia-rdp78b04558a000800220003-7.pdf"
+  },
+  {
+   "doc_id": "CIA-RDP78B04558A001300020103-2",
+   "stratum": "nga",
+   "collection": "NGA Records (Formerly NIMA)",
+   "content_type": "CABLE",
+   "title": "CABLE TO AIG NINE SEVEN SIX FROM NPIC WASH DC",
+   "pages": 2,
+   "pdf_url": "https://www.cia.gov/readingroom/docs/cia-rdp78b04558a001300020103-2.pdf"
+  },
+  {
+   "doc_id": "CIA-RDP78T05439A000500060064-4",
+   "stratum": "nga",
+   "collection": "NGA Records (Formerly NIMA)",
+   "content_type": "REPORT",
+   "title": "SOVIET MILITARY ORDER OF BATTLE TURKESTAN MD",
+   "pages": 10,
+   "pdf_url": "https://www.cia.gov/readingroom/docs/cia-rdp78t05439a000500060064-4.pdf"
+  },
+  {
+   "doc_id": "CIA-RDP78-05867A000100420029-2",
+   "stratum": "photo",
+   "collection": "Ground Photo Caption Cards",
+   "content_type": "CAPCARD",
+   "title": "182118 - 182219",
+   "pages": 12,
+   "pdf_url": "https://www.cia.gov/readingroom/docs/cia-rdp78-05867a000100420029-2.pdf"
+  },
+  {
+   "doc_id": "CIA-RDP88-00206R000300160018-1",
+   "stratum": "photo",
+   "collection": "Ground Photo Caption Cards",
+   "content_type": "MISC",
+   "title": "GROUND PHOTO CAPTION CARD 1651789 - 1651888",
+   "pages": 5,
+   "pdf_url": "https://www.cia.gov/readingroom/docs/cia-rdp88-00206r000300160018-1.pdf"
+  },
+  {
+   "doc_id": "CIA-RDP78-05867A000624350002-8",
+   "stratum": "photo",
+   "collection": "Ground Photo Caption Cards",
+   "content_type": "CAPCARD",
+   "title": "GROUND PHOTO CAPTION CARD 1400993 - 1400999",
+   "pages": 7,
+   "pdf_url": "https://www.cia.gov/readingroom/docs/cia-rdp78-05867a000624350002-8.pdf"
+  },
+  {
+   "doc_id": "CIA-RDP78-05867A000100410023-9",
+   "stratum": "photo",
+   "collection": "Ground Photo Caption Cards",
+   "content_type": "CAPCARD",
+   "title": "177295 - 177394",
+   "pages": 2,
+   "pdf_url": "https://www.cia.gov/readingroom/docs/cia-rdp78-05867a000100410023-9.pdf"
+  },
+  {
+   "doc_id": "CIA-RDP78-05867A000416440018-2",
+   "stratum": "photo",
+   "collection": "Ground Photo Caption Cards",
+   "content_type": "CAPCARD",
+   "title": "GROUND PHOTO CAPTION CARD 1009459 - 1009508",
+   "pages": 4,
+   "pdf_url": "https://www.cia.gov/readingroom/docs/cia-rdp78-05867a000416440018-2.pdf"
+  },
+  {
+   "doc_id": "CIA-RDP78-05867A000622540020-9",
+   "stratum": "photo",
+   "collection": "Ground Photo Caption Cards",
+   "content_type": "CAPCARD",
+   "title": "GROUND PHOTO CAPTION CARD 1280986 - 1280999",
+   "pages": 12,
+   "pdf_url": "https://www.cia.gov/readingroom/docs/cia-rdp78-05867a000622540020-9.pdf"
+  },
+  {
+   "doc_id": "CIA-RDP78-05867A000518830007-4",
+   "stratum": "photo",
+   "collection": "Ground Photo Caption Cards",
+   "content_type": "CAPCARD",
+   "title": "GROUND PHOTO CAPTION CARD 1128347 - 1128396",
+   "pages": 5,
+   "pdf_url": "https://www.cia.gov/readingroom/docs/cia-rdp78-05867a000518830007-4.pdf"
+  },
+  {
+   "doc_id": "CIA-RDP78-05867A000200670041-0",
+   "stratum": "photo",
+   "collection": "Ground Photo Caption Cards",
+   "content_type": "CAPCARD",
+   "title": "287499 - 287508",
+   "pages": 10,
+   "pdf_url": "https://www.cia.gov/readingroom/docs/cia-rdp78-05867a000200670041-0.pdf"
+  },
+  {
+   "doc_id": "CIA-RDP78-05867A000301220049-9",
+   "stratum": "photo",
+   "collection": "Ground Photo Caption Cards",
+   "content_type": "CAPCARD",
+   "title": "-",
+   "pages": 4,
+   "pdf_url": "https://www.cia.gov/readingroom/docs/cia-rdp78-05867a000301220049-9.pdf"
+  },
+  {
+   "doc_id": "CIA-RDP78-05867A000401600049-6",
+   "stratum": "photo",
+   "collection": "Ground Photo Caption Cards",
+   "content_type": "CAPCARD",
+   "title": "991194 - 991199",
+   "pages": 9,
+   "pdf_url": "https://www.cia.gov/readingroom/docs/cia-rdp78-05867a000401600049-6.pdf"
+  },
+  {
+   "doc_id": "CIA-RDP78-05867A000621230013-2",
+   "stratum": "photo",
+   "collection": "Ground Photo Caption Cards",
+   "content_type": "CAPCARD",
+   "title": "GROUND PHOTO CAPTION CARD 1229048 - 1229097",
+   "pages": 9,
+   "pdf_url": "https://www.cia.gov/readingroom/docs/cia-rdp78-05867a000621230013-2.pdf"
+  },
+  {
+   "doc_id": "CIA-RDP78-05867A000301130049-9",
+   "stratum": "photo",
+   "collection": "Ground Photo Caption Cards",
+   "content_type": "CAPCARD",
+   "title": "479192 - 479199",
+   "pages": 6,
+   "pdf_url": "https://www.cia.gov/readingroom/docs/cia-rdp78-05867a000301130049-9.pdf"
+  },
+  {
+   "doc_id": "CIA-RDP78-05867A000200840033-0",
+   "stratum": "photo",
+   "collection": "Ground Photo Caption Cards",
+   "content_type": "CAPCARD",
+   "title": "357887 - 357892",
+   "pages": 4,
+   "pdf_url": "https://www.cia.gov/readingroom/docs/cia-rdp78-05867a000200840033-0.pdf"
+  },
+  {
+   "doc_id": "CIA-RDP78-05867A000301060050-5",
+   "stratum": "photo",
+   "collection": "Ground Photo Caption Cards",
+   "content_type": "CAPCARD",
+   "title": "445398 - 445399",
+   "pages": 5,
+   "pdf_url": "https://www.cia.gov/readingroom/docs/cia-rdp78-05867a000301060050-5.pdf"
+  },
+  {
+   "doc_id": "CIA-RDP78-05867A000517130003-0",
+   "stratum": "photo",
+   "collection": "Ground Photo Caption Cards",
+   "content_type": "CAPCARD",
+   "title": "GROUND PHOTO CAPTION CARD 1042655 - 1042706",
+   "pages": 5,
+   "pdf_url": "https://www.cia.gov/readingroom/docs/cia-rdp78-05867a000517130003-0.pdf"
+  },
+  {
+   "doc_id": "CIA-RDP78-05867A000624310020-2",
+   "stratum": "photo",
+   "collection": "Ground Photo Caption Cards",
+   "content_type": "CAPCARD",
+   "title": "GROUND PHOTO CAPTION CARD 1394939 - 1394988",
+   "pages": 11,
+   "pdf_url": "https://www.cia.gov/readingroom/docs/cia-rdp78-05867a000624310020-2.pdf"
+  },
+  {
+   "doc_id": "CIA-RDP78-05867A000622640012-7",
+   "stratum": "photo",
+   "collection": "Ground Photo Caption Cards",
+   "content_type": "CAPCARD",
+   "title": "GROUND PHOTO CAPTION CARD 1288495 - 1288544",
+   "pages": 6,
+   "pdf_url": "https://www.cia.gov/readingroom/docs/cia-rdp78-05867a000622640012-7.pdf"
+  },
+  {
+   "doc_id": "CIA-RDP78-05867A000519740008-6",
+   "stratum": "photo",
+   "collection": "Ground Photo Caption Cards",
+   "content_type": "CAPCARD",
+   "title": "GROUND PHOTO CAPTION CARD 1171996 - 1171999",
+   "pages": 8,
+   "pdf_url": "https://www.cia.gov/readingroom/docs/cia-rdp78-05867a000519740008-6.pdf"
+  },
+  {
+   "doc_id": "CIA-RDP78-05867A000415750016-1",
+   "stratum": "photo",
+   "collection": "Ground Photo Caption Cards",
+   "content_type": "CAPCARD",
+   "title": "GROUND PHOTO CAPTION CARD 976492 - 976499",
+   "pages": 10,
+   "pdf_url": "https://www.cia.gov/readingroom/docs/cia-rdp78-05867a000415750016-1.pdf"
+  },
+  {
+   "doc_id": "CIA-RDP78-05867A000624950004-0",
+   "stratum": "photo",
+   "collection": "Ground Photo Caption Cards",
+   "content_type": "CAPCARD",
+   "title": "GROUND PHOTO CAPTION CARD 1436498 - 1436499",
+   "pages": 2,
+   "pdf_url": "https://www.cia.gov/readingroom/docs/cia-rdp78-05867a000624950004-0.pdf"
+  },
+  {
+   "doc_id": "CIA-RDP78-05867A000518510006-4",
+   "stratum": "photo",
+   "collection": "Ground Photo Caption Cards",
+   "content_type": "CAPCARD",
+   "title": "GROUND PHOTO CAPTION CARD 1111051 - 1111098",
+   "pages": 11,
+   "pdf_url": "https://www.cia.gov/readingroom/docs/cia-rdp78-05867a000518510006-4.pdf"
+  },
+  {
+   "doc_id": "CIA-RDP78-05867A000623540019-0",
+   "stratum": "photo",
+   "collection": "Ground Photo Caption Cards",
+   "content_type": "CAPCARD",
+   "title": "GROUND PHOTO CAPTION CARD 1350289 - 1350299",
+   "pages": 11,
+   "pdf_url": "https://www.cia.gov/readingroom/docs/cia-rdp78-05867a000623540019-0.pdf"
+  },
+  {
+   "doc_id": "CIA-RDP78-05867A000518260003-5",
+   "stratum": "photo",
+   "collection": "Ground Photo Caption Cards",
+   "content_type": "CAPCARD",
+   "title": "GROUND PHOTO CAPTION CARD 1100993 - 1100999",
+   "pages": 9,
+   "pdf_url": "https://www.cia.gov/readingroom/docs/cia-rdp78-05867a000518260003-5.pdf"
+  },
+  {
+   "doc_id": "CIA-RDP78-05867A000520650011-0",
+   "stratum": "photo",
+   "collection": "Ground Photo Caption Cards",
+   "content_type": "CAPCARD",
+   "title": "GROUND PHOTO CAPTION CARD 1207651 - 1207700",
+   "pages": 4,
+   "pdf_url": "https://www.cia.gov/readingroom/docs/cia-rdp78-05867a000520650011-0.pdf"
+  },
+  {
+   "doc_id": "CIA-RDP78-05867A000518860001-1",
+   "stratum": "photo",
+   "collection": "Ground Photo Caption Cards",
+   "content_type": "CAPCARD",
+   "title": "GROUND PHOTO CAPTION CARD 1131093 - 1131099",
+   "pages": 10,
+   "pdf_url": "https://www.cia.gov/readingroom/docs/cia-rdp78-05867a000518860001-1.pdf"
+  },
+  {
+   "doc_id": "CIA-RDP88-00206R000300070014-5",
+   "stratum": "photo",
+   "collection": "Ground Photo Caption Cards",
+   "content_type": "MISC",
+   "title": "GROUND PHOTO CAPTION CARD 1601432 - 1601532",
+   "pages": 4,
+   "pdf_url": "https://www.cia.gov/readingroom/docs/cia-rdp88-00206r000300070014-5.pdf"
+  },
+  {
+   "doc_id": "CIA-RDP78-05867A000416250017-4",
+   "stratum": "photo",
+   "collection": "Ground Photo Caption Cards",
+   "content_type": "CAPCARD",
+   "title": "GROUND PHOTO CAPTION CARD 1000799 - 1000799",
+   "pages": 4,
+   "pdf_url": "https://www.cia.gov/readingroom/docs/cia-rdp78-05867a000416250017-4.pdf"
+  },
+  {
+   "doc_id": "CIA-RDP78-05867A000520320007-1",
+   "stratum": "photo",
+   "collection": "Ground Photo Caption Cards",
+   "content_type": "CAPCARD",
+   "title": "GROUND PHOTO CAPTION CARD 1193288 - 1193239",
+   "pages": 7,
+   "pdf_url": "https://www.cia.gov/readingroom/docs/cia-rdp78-05867a000520320007-1.pdf"
+  },
+  {
+   "doc_id": "CIA-RDP78-05867A000622530019-2",
+   "stratum": "photo",
+   "collection": "Ground Photo Caption Cards",
+   "content_type": "CAPCARD",
+   "title": "GROUND PHOTO CAPTION CARD 1279938 - 1279987",
+   "pages": 4,
+   "pdf_url": "https://www.cia.gov/readingroom/docs/cia-rdp78-05867a000622530019-2.pdf"
+  },
+  {
+   "doc_id": "CIA-RDP78-05867A000623820019-9",
+   "stratum": "photo",
+   "collection": "Ground Photo Caption Cards",
+   "content_type": "CAPCARD",
+   "title": "GROUND PHOTO CAPTION CARD 1366400 - 1366449",
+   "pages": 7,
+   "pdf_url": "https://www.cia.gov/readingroom/docs/cia-rdp78-05867a000623820019-9.pdf"
+  },
+  {
+   "doc_id": "CIA-RDP78-05867A000414250019-4",
+   "stratum": "photo",
+   "collection": "Ground Photo Caption Cards",
+   "content_type": "CAPCARD",
+   "title": "GROUND PHOTO CAPTION CARD 913808 - 913818",
+   "pages": 1,
+   "pdf_url": "https://www.cia.gov/readingroom/docs/cia-rdp78-05867a000414250019-4.pdf"
+  },
+  {
+   "doc_id": "CIA-RDP78-05867A000517720020-6",
+   "stratum": "photo",
+   "collection": "Ground Photo Caption Cards",
+   "content_type": "CAPCARD",
+   "title": "GROUND PHOTO CAPTION CARD 1072438 - 1072488",
+   "pages": 4,
+   "pdf_url": "https://www.cia.gov/readingroom/docs/cia-rdp78-05867a000517720020-6.pdf"
+  },
+  {
+   "doc_id": "CIA-RDP78-05867A000414350015-7",
+   "stratum": "photo",
+   "collection": "Ground Photo Caption Cards",
+   "content_type": "CAPCARD",
+   "title": "GROUND PHOTO CAPTION CARD 908194 - 908199",
+   "pages": 6,
+   "pdf_url": "https://www.cia.gov/readingroom/docs/cia-rdp78-05867a000414350015-7.pdf"
+  },
+  {
+   "doc_id": "CIA-RDP78-05867A000100390040-3",
+   "stratum": "photo",
+   "collection": "Ground Photo Caption Cards",
+   "content_type": "CAPCARD",
+   "title": "171040 - 171045",
+   "pages": 8,
+   "pdf_url": "https://www.cia.gov/readingroom/docs/cia-rdp78-05867a000100390040-3.pdf"
+  },
+  {
+   "doc_id": "CIA-RDP78-05867A000623520001-1",
+   "stratum": "photo",
+   "collection": "Ground Photo Caption Cards",
+   "content_type": "CAPCARD",
+   "title": "GROUND PHOTO CAPTION CARD 1347394 - 1347443",
+   "pages": 5,
+   "pdf_url": "https://www.cia.gov/readingroom/docs/cia-rdp78-05867a000623520001-1.pdf"
+  },
+  {
+   "doc_id": "CIA-RDP78-05867A000621230012-3",
+   "stratum": "photo",
+   "collection": "Ground Photo Caption Cards",
+   "content_type": "CAPCARD",
+   "title": "GROUND PHOTO CAPTION CARD 1229054 - 1229046",
+   "pages": 9,
+   "pdf_url": "https://www.cia.gov/readingroom/docs/cia-rdp78-05867a000621230012-3.pdf"
+  },
+  {
+   "doc_id": "CIA-RDP78-05867A000301000037-6",
+   "stratum": "photo",
+   "collection": "Ground Photo Caption Cards",
+   "content_type": "CAPCARD",
+   "title": "417837 - 417936",
+   "pages": 2,
+   "pdf_url": "https://www.cia.gov/readingroom/docs/cia-rdp78-05867a000301000037-6.pdf"
+  },
+  {
+   "doc_id": "CIA-RDP78-05867A000621540016-5",
+   "stratum": "photo",
+   "collection": "Ground Photo Caption Cards",
+   "content_type": "CAPCARD",
+   "title": "GROUND PHOTO CAPTION CARD 1240990 - 1240999",
+   "pages": 10,
+   "pdf_url": "https://www.cia.gov/readingroom/docs/cia-rdp78-05867a000621540016-5.pdf"
+  },
+  {
+   "doc_id": "CIA-RDP78-05867A000623140014-9",
+   "stratum": "photo",
+   "collection": "Ground Photo Caption Cards",
+   "content_type": "CAPCARD",
+   "title": "GROUND PHOTO CAPTION CARD 1331203 - 1331206",
+   "pages": 4,
+   "pdf_url": "https://www.cia.gov/readingroom/docs/cia-rdp78-05867a000623140014-9.pdf"
+  },
+  {
+   "doc_id": "CIA-RDP78-05867A000517050010-1",
+   "stratum": "photo",
+   "collection": "Ground Photo Caption Cards",
+   "content_type": "CAPCARD",
+   "title": "GROUND PHOTO CAPTION CARD 1039731 - 1039782",
+   "pages": 10,
+   "pdf_url": "https://www.cia.gov/readingroom/docs/cia-rdp78-05867a000517050010-1.pdf"
+  },
+  {
+   "doc_id": "CIA-RDP78-05867A000100340040-8",
+   "stratum": "photo",
+   "collection": "Ground Photo Caption Cards",
+   "content_type": "CAPCARD",
+   "title": "150901 - 150902",
+   "pages": 4,
+   "pdf_url": "https://www.cia.gov/readingroom/docs/cia-rdp78-05867a000100340040-8.pdf"
+  },
+  {
+   "doc_id": "CIA-RDP78-05867A000623850005-1",
+   "stratum": "photo",
+   "collection": "Ground Photo Caption Cards",
+   "content_type": "CAPCARD",
+   "title": "GROUND PHOTO CAPTION CARD 1368697 - 1368699",
+   "pages": 3,
+   "pdf_url": "https://www.cia.gov/readingroom/docs/cia-rdp78-05867a000623850005-1.pdf"
+  },
+  {
+   "doc_id": "CIA-RDP78-05867A000520930017-3",
+   "stratum": "photo",
+   "collection": "Ground Photo Caption Cards",
+   "content_type": "CAPCARD",
+   "title": "GROUND PHOTO CAPTION CARD 1218668 - 1218718",
+   "pages": 12,
+   "pdf_url": "https://www.cia.gov/readingroom/docs/cia-rdp78-05867a000520930017-3.pdf"
+  },
+  {
+   "doc_id": "CIA-RDP78-05867A000622750001-7",
+   "stratum": "photo",
+   "collection": "Ground Photo Caption Cards",
+   "content_type": "CAPCARD",
+   "title": "GROUND PHOTO CAPTION CARD 1292995 - 1292999",
+   "pages": 5,
+   "pdf_url": "https://www.cia.gov/readingroom/docs/cia-rdp78-05867a000622750001-7.pdf"
+  },
+  {
+   "doc_id": "CIA-RDP78-05867A000624250002-9",
+   "stratum": "photo",
+   "collection": "Ground Photo Caption Cards",
+   "content_type": "CAPCARD",
+   "title": "GROUND PHOTO CAPTION CARD 1393990 - 1393999",
+   "pages": 10,
+   "pdf_url": "https://www.cia.gov/readingroom/docs/cia-rdp78-05867a000624250002-9.pdf"
+  },
+  {
+   "doc_id": "CIA-RDP78-05867A000520310003-6",
+   "stratum": "photo",
+   "collection": "Ground Photo Caption Cards",
+   "content_type": "CAPCARD",
+   "title": "GROUND PHOTO CAPTION CARD 1194507 - 1194457",
+   "pages": 5,
+   "pdf_url": "https://www.cia.gov/readingroom/docs/cia-rdp78-05867a000520310003-6.pdf"
+  },
+  {
+   "doc_id": "CIA-RDP78-05867A000602200014-5",
+   "stratum": "photo",
+   "collection": "Ground Photo Caption Cards",
+   "content_type": "CAPCARD",
+   "title": "1259307 - 1259407",
+   "pages": 8,
+   "pdf_url": "https://www.cia.gov/readingroom/docs/cia-rdp78-05867a000602200014-5.pdf"
+  },
+  {
+   "doc_id": "CIA-RDP78-05867A000415550018-1",
+   "stratum": "photo",
+   "collection": "Ground Photo Caption Cards",
+   "content_type": "CAPCARD",
+   "title": "GROUND PHOTO CAPTION CARD 967194 - 967199",
+   "pages": 6,
+   "pdf_url": "https://www.cia.gov/readingroom/docs/cia-rdp78-05867a000415550018-1.pdf"
+  },
+  {
+   "doc_id": "CIA-RDP78-05867A000401600005-4",
+   "stratum": "photo",
+   "collection": "Ground Photo Caption Cards",
+   "content_type": "CAPCARD",
+   "title": "986800 - 986899",
+   "pages": 2,
+   "pdf_url": "https://www.cia.gov/readingroom/docs/cia-rdp78-05867a000401600005-4.pdf"
+  },
+  {
+   "doc_id": "CIA-RDP78-05867A000301080049-5",
+   "stratum": "photo",
+   "collection": "Ground Photo Caption Cards",
+   "content_type": "CAPCARD",
+   "title": "455091 - 455099",
+   "pages": 11,
+   "pdf_url": "https://www.cia.gov/readingroom/docs/cia-rdp78-05867a000301080049-5.pdf"
+  },
+  {
+   "doc_id": "CIA-RDP78-05867A000416850018-7",
+   "stratum": "photo",
+   "collection": "Ground Photo Caption Cards",
+   "content_type": "CAPCARD",
+   "title": "GROUND PHOTO CAPTION CARD 1030254 - 1030303",
+   "pages": 12,
+   "pdf_url": "https://www.cia.gov/readingroom/docs/cia-rdp78-05867a000416850018-7.pdf"
+  },
+  {
+   "doc_id": "CIA-RDP78-05867A000623820018-0",
+   "stratum": "photo",
+   "collection": "Ground Photo Caption Cards",
+   "content_type": "CAPCARD",
+   "title": "GROUND PHOTO CAPTION CARD 1366350 - 1366399",
+   "pages": 4,
+   "pdf_url": "https://www.cia.gov/readingroom/docs/cia-rdp78-05867a000623820018-0.pdf"
+  },
+  {
+   "doc_id": "CIA-RDP78-05867A000416840006-1",
+   "stratum": "photo",
+   "collection": "Ground Photo Caption Cards",
+   "content_type": "CAPCARD",
+   "title": "GROUND PHOTO CAPTION CARD 1028642 - 1028692",
+   "pages": 12,
+   "pdf_url": "https://www.cia.gov/readingroom/docs/cia-rdp78-05867a000416840006-1.pdf"
+  },
+  {
+   "doc_id": "CIA-RDP78-05867A000100270039-8",
+   "stratum": "photo",
+   "collection": "Ground Photo Caption Cards",
+   "content_type": "CAPCARD",
+   "title": "122395 - 122399",
+   "pages": 6,
+   "pdf_url": "https://www.cia.gov/readingroom/docs/cia-rdp78-05867a000100270039-8.pdf"
+  },
+  {
+   "doc_id": "CIA-RDP78-05867A000416530020-9",
+   "stratum": "photo",
+   "collection": "Ground Photo Caption Cards",
+   "content_type": "CAPCARD",
+   "title": "GROUND PHOTO CAPTION CARD 1013342 - 1013391",
+   "pages": 10,
+   "pdf_url": "https://www.cia.gov/readingroom/docs/cia-rdp78-05867a000416530020-9.pdf"
+  },
+  {
+   "doc_id": "CIA-RDP78-05867A000401340050-3",
+   "stratum": "photo",
+   "collection": "Ground Photo Caption Cards",
+   "content_type": "CAPCARD",
+   "title": "864094 - 864099",
+   "pages": 10,
+   "pdf_url": "https://www.cia.gov/readingroom/docs/cia-rdp78-05867a000401340050-3.pdf"
+  },
+  {
+   "doc_id": "CIA-RDP78-05867A000624830017-9",
+   "stratum": "photo",
+   "collection": "Ground Photo Caption Cards",
+   "content_type": "CAPCARD",
+   "title": "GROUND PHOTO CAPTION CARD 1428380 - 1428408",
+   "pages": 11,
+   "pdf_url": "https://www.cia.gov/readingroom/docs/cia-rdp78-05867a000624830017-9.pdf"
+  },
+  {
+   "doc_id": "CIA-RDP78-05867A000519920018-5",
+   "stratum": "photo",
+   "collection": "Ground Photo Caption Cards",
+   "content_type": "CAPCARD",
+   "title": "GROUND PHOTO CAPTION CARD 1174061 - 1174110",
+   "pages": 12,
+   "pdf_url": "https://www.cia.gov/readingroom/docs/cia-rdp78-05867a000519920018-5.pdf"
+  },
+  {
+   "doc_id": "CIA-RDP78-05867A000623430001-1",
+   "stratum": "photo",
+   "collection": "Ground Photo Caption Cards",
+   "content_type": "CAPCARD",
+   "title": "GROUND PHOTO CAPTION CARD 1344700 - 1344749",
+   "pages": 8,
+   "pdf_url": "https://www.cia.gov/readingroom/docs/cia-rdp78-05867a000623430001-1.pdf"
+  },
+  {
+   "doc_id": "CIA-RDP78-05867A000301190035-8",
+   "stratum": "photo",
+   "collection": "Ground Photo Caption Cards",
+   "content_type": "CAPCARD",
+   "title": "522809 - 523085",
+   "pages": 4,
+   "pdf_url": "https://www.cia.gov/readingroom/docs/cia-rdp78-05867a000301190035-8.pdf"
+  },
+  {
+   "doc_id": "CIA-RDP78-05867A000621230004-2",
+   "stratum": "photo",
+   "collection": "Ground Photo Caption Cards",
+   "content_type": "CAPCARD",
+   "title": "GROUND PHOTO CAPTION CARD 1228650 - 1228700",
+   "pages": 11,
+   "pdf_url": "https://www.cia.gov/readingroom/docs/cia-rdp78-05867a000621230004-2.pdf"
+  },
+  {
+   "doc_id": "CIA-RDP78-05867A000621940014-3",
+   "stratum": "photo",
+   "collection": "Ground Photo Caption Cards",
+   "content_type": "CAPCARD",
+   "title": "GROUND PHOTO CAPTION CARD 1257932 - 1257981",
+   "pages": 7,
+   "pdf_url": "https://www.cia.gov/readingroom/docs/cia-rdp78-05867a000621940014-3.pdf"
+  },
+  {
+   "doc_id": "CIA-RDP78-05867A000517940012-1",
+   "stratum": "photo",
+   "collection": "Ground Photo Caption Cards",
+   "content_type": "CAPCARD",
+   "title": "GROUND PHOTO CAPTION CARD 1084259 - 1084308",
+   "pages": 5,
+   "pdf_url": "https://www.cia.gov/readingroom/docs/cia-rdp78-05867a000517940012-1.pdf"
+  },
+  {
+   "doc_id": "CIA-RDP78-05867A000602200036-1",
+   "stratum": "photo",
+   "collection": "Ground Photo Caption Cards",
+   "content_type": "CAPCARD",
+   "title": "1261498 - 1261499",
+   "pages": 2,
+   "pdf_url": "https://www.cia.gov/readingroom/docs/cia-rdp78-05867a000602200036-1.pdf"
+  },
+  {
+   "doc_id": "CIA-RDP78-05867A000517940010-3",
+   "stratum": "photo",
+   "collection": "Ground Photo Caption Cards",
+   "content_type": "CAPCARD",
+   "title": "GROUND PHOTO CAPTION CARD 1084158 - 1084208",
+   "pages": 8,
+   "pdf_url": "https://www.cia.gov/readingroom/docs/cia-rdp78-05867a000517940010-3.pdf"
+  },
+  {
+   "doc_id": "CIA-RDP78-05867A000300860013-9",
+   "stratum": "photo",
+   "collection": "Ground Photo Caption Cards",
+   "content_type": "CAPCARD",
+   "title": "363094 - 363098",
+   "pages": 5,
+   "pdf_url": "https://www.cia.gov/readingroom/docs/cia-rdp78-05867a000300860013-9.pdf"
+  },
+  {
+   "doc_id": "CIA-RDP78-05867A000414550019-1",
+   "stratum": "photo",
+   "collection": "Ground Photo Caption Cards",
+   "content_type": "CAPCARD",
+   "title": "GROUND PHOTO CAPTION CARD 917908 - 917908",
+   "pages": 2,
+   "pdf_url": "https://www.cia.gov/readingroom/docs/cia-rdp78-05867a000414550019-1.pdf"
+  },
+  {
+   "doc_id": "CIA-RDP78-05867A000623440015-5",
+   "stratum": "photo",
+   "collection": "Ground Photo Caption Cards",
+   "content_type": "CAPCARD",
+   "title": "GROUND PHOTO CAPTION CARD 1346399 - 1349399",
+   "pages": 1,
+   "pdf_url": "https://www.cia.gov/readingroom/docs/cia-rdp78-05867a000623440015-5.pdf"
+  },
+  {
+   "doc_id": "CIA-RDP78-05867A000100350044-3",
+   "stratum": "photo",
+   "collection": "Ground Photo Caption Cards",
+   "content_type": "CAPCARD",
+   "title": "155491 - 155502",
+   "pages": 12,
+   "pdf_url": "https://www.cia.gov/readingroom/docs/cia-rdp78-05867a000100350044-3.pdf"
+  },
+  {
+   "doc_id": "CIA-RDP78-05867A000200660040-2",
+   "stratum": "photo",
+   "collection": "Ground Photo Caption Cards",
+   "content_type": "CAPCARD",
+   "title": "283184 - 283192",
+   "pages": 10,
+   "pdf_url": "https://www.cia.gov/readingroom/docs/cia-rdp78-05867a000200660040-2.pdf"
+  },
+  {
+   "doc_id": "CIA-RDP78-05867A000301040050-7",
+   "stratum": "photo",
+   "collection": "Ground Photo Caption Cards",
+   "content_type": "CAPCARD",
+   "title": "435523 - 435520",
+   "pages": 11,
+   "pdf_url": "https://www.cia.gov/readingroom/docs/cia-rdp78-05867a000301040050-7.pdf"
+  },
+  {
+   "doc_id": "CIA-RDP78-05867A000416510012-0",
+   "stratum": "photo",
+   "collection": "Ground Photo Caption Cards",
+   "content_type": "CAPCARD",
+   "title": "GROUND PHOTO CAPTION CARD 1010950 - 1010999",
+   "pages": 5,
+   "pdf_url": "https://www.cia.gov/readingroom/docs/cia-rdp78-05867a000416510012-0.pdf"
+  },
+  {
+   "doc_id": "CIA-RDP78-05867A000622520013-9",
+   "stratum": "photo",
+   "collection": "Ground Photo Caption Cards",
+   "content_type": "CAPCARD",
+   "title": "GROUND PHOTO CAPTION CARD 1278618 - 1278666",
+   "pages": 5,
+   "pdf_url": "https://www.cia.gov/readingroom/docs/cia-rdp78-05867a000622520013-9.pdf"
+  },
+  {
+   "doc_id": "CIA-RDP78-05867A000622650002-7",
+   "stratum": "photo",
+   "collection": "Ground Photo Caption Cards",
+   "content_type": "CAPCARD",
+   "title": "GROUND PHOTO CAPTION CARD 1288995 - 1288999",
+   "pages": 3,
+   "pdf_url": "https://www.cia.gov/readingroom/docs/cia-rdp78-05867a000622650002-7.pdf"
+  },
+  {
+   "doc_id": "CIA-RDP78-05867A000621330009-6",
+   "stratum": "photo",
+   "collection": "Ground Photo Caption Cards",
+   "content_type": "CAPCARD",
+   "title": "GROUND PHOTO CAPTION CARD 1232341 - 1232389",
+   "pages": 2,
+   "pdf_url": "https://www.cia.gov/readingroom/docs/cia-rdp78-05867a000621330009-6.pdf"
+  },
+  {
+   "doc_id": "CIA-RDP88-00206R000200150014-7",
+   "stratum": "photo",
+   "collection": "Ground Photo Caption Cards",
+   "content_type": "MISC",
+   "title": "GROUND PHOTO CAPTION CARD 1573888 - 1573899",
+   "pages": 12,
+   "pdf_url": "https://www.cia.gov/readingroom/docs/cia-rdp88-00206r000200150014-7.pdf"
+  },
+  {
+   "doc_id": "CIA-RDP78-05867A000624840018-7",
+   "stratum": "photo",
+   "collection": "Ground Photo Caption Cards",
+   "content_type": "CAPCARD",
+   "title": "GROUND PHOTO CAPTION CARD 1429389 - 1429399",
+   "pages": 11,
+   "pdf_url": "https://www.cia.gov/readingroom/docs/cia-rdp78-05867a000624840018-7.pdf"
+  },
+  {
+   "doc_id": "CIA-RDP78-05867A000200560022-3",
+   "stratum": "photo",
+   "collection": "Ground Photo Caption Cards",
+   "content_type": "CAPCARD",
+   "title": "238635 - 238743",
+   "pages": 7,
+   "pdf_url": "https://www.cia.gov/readingroom/docs/cia-rdp78-05867a000200560022-3.pdf"
+  },
+  {
+   "doc_id": "CIA-RDP78-05867A000622950005-1",
+   "stratum": "photo",
+   "collection": "Ground Photo Caption Cards",
+   "content_type": "CAPCARD",
+   "title": "GROUND PHOTO CAPTION CARD 1311892 - 1311899",
+   "pages": 5,
+   "pdf_url": "https://www.cia.gov/readingroom/docs/cia-rdp78-05867a000622950005-1.pdf"
+  },
+  {
+   "doc_id": "CIA-RDP78-05867A000520330018-8",
+   "stratum": "photo",
+   "collection": "Ground Photo Caption Cards",
+   "content_type": "CAPCARD",
+   "title": "GROUND PHOTO CAPTION CARD 1155153 - 1155203",
+   "pages": 10,
+   "pdf_url": "https://www.cia.gov/readingroom/docs/cia-rdp78-05867a000520330018-8.pdf"
+  },
+  {
+   "doc_id": "CIA-RDP78-05867A000518560003-2",
+   "stratum": "photo",
+   "collection": "Ground Photo Caption Cards",
+   "content_type": "CAPCARD",
+   "title": "GROUND PHOTO CAPTION CARD 1115897 - 1115899",
+   "pages": 5,
+   "pdf_url": "https://www.cia.gov/readingroom/docs/cia-rdp78-05867a000518560003-2.pdf"
+  },
+  {
+   "doc_id": "CIA-RDP78-05867A000623810015-4",
+   "stratum": "photo",
+   "collection": "Ground Photo Caption Cards",
+   "content_type": "CAPCARD",
+   "title": "GROUND PHOTO CAPTION CARD 1365200 - 1365249",
+   "pages": 4,
+   "pdf_url": "https://www.cia.gov/readingroom/docs/cia-rdp78-05867a000623810015-4.pdf"
+  },
+  {
+   "doc_id": "CIA-RDP78-05867A000623340013-8",
+   "stratum": "photo",
+   "collection": "Ground Photo Caption Cards",
+   "content_type": "CAPCARD",
+   "title": "GROUND PHOTO CAPTION CARD 1342583 - 1342631",
+   "pages": 3,
+   "pdf_url": "https://www.cia.gov/readingroom/docs/cia-rdp78-05867a000623340013-8.pdf"
+  },
+  {
+   "doc_id": "CIA-RDP78-05867A000517550012-4",
+   "stratum": "photo",
+   "collection": "Ground Photo Caption Cards",
+   "content_type": "CAPCARD",
+   "title": "GROUND PHOTO CAPTION CARD 1065408 - 1065456",
+   "pages": 10,
+   "pdf_url": "https://www.cia.gov/readingroom/docs/cia-rdp78-05867a000517550012-4.pdf"
+  },
+  {
+   "doc_id": "CIA-RDP78-05867A000623710014-6",
+   "stratum": "photo",
+   "collection": "Ground Photo Caption Cards",
+   "content_type": "CAPCARD",
+   "title": "GROUND PHOTO CAPTION CARD 1357950 - 1357999",
+   "pages": 12,
+   "pdf_url": "https://www.cia.gov/readingroom/docs/cia-rdp78-05867a000623710014-6.pdf"
+  },
+  {
+   "doc_id": "CIA-RDP78-05867A000623430015-6",
+   "stratum": "photo",
+   "collection": "Ground Photo Caption Cards",
+   "content_type": "CAPCARD",
+   "title": "GROUND PHOTO CAPTION CARD 1345398 - 1345447",
+   "pages": 6,
+   "pdf_url": "https://www.cia.gov/readingroom/docs/cia-rdp78-05867a000623430015-6.pdf"
+  },
+  {
+   "doc_id": "CIA-RDP78-05867A000301250049-6",
+   "stratum": "photo",
+   "collection": "Ground Photo Caption Cards",
+   "content_type": "CAPCARD",
+   "title": "819699 - 819700",
+   "pages": 2,
+   "pdf_url": "https://www.cia.gov/readingroom/docs/cia-rdp78-05867a000301250049-6.pdf"
+  },
+  {
+   "doc_id": "CIA-RDP78-05867A000621120012-5",
+   "stratum": "photo",
+   "collection": "Ground Photo Caption Cards",
+   "content_type": "CAPCARD",
+   "title": "GROUND PHOTO CAPTION CARD 1227994 - 1227999",
+   "pages": 12,
+   "pdf_url": "https://www.cia.gov/readingroom/docs/cia-rdp78-05867a000621120012-5.pdf"
+  },
+  {
+   "doc_id": "CIA-RDP78-05867A000623740006-2",
+   "stratum": "photo",
+   "collection": "Ground Photo Caption Cards",
+   "content_type": "CAPCARD",
+   "title": "GROUND PHOTO CAPTION CARD 1360545 - 1360594",
+   "pages": 9,
+   "pdf_url": "https://www.cia.gov/readingroom/docs/cia-rdp78-05867a000623740006-2.pdf"
+  },
+  {
+   "doc_id": "CIA-RDP78-05867A000414950019-7",
+   "stratum": "photo",
+   "collection": "Ground Photo Caption Cards",
+   "content_type": "CAPCARD",
+   "title": "GROUND PHOTO CAPTION CARD 937795 - 937799",
+   "pages": 9,
+   "pdf_url": "https://www.cia.gov/readingroom/docs/cia-rdp78-05867a000414950019-7.pdf"
+  },
+  {
+   "doc_id": "CIA-RDP86-00513R000616900023-6",
+   "stratum": "sci",
+   "collection": "Scientific Abstracts",
+   "content_type": "SCIENTIFIC ABSTR",
+   "title": "SCIENTIFIC ABSTRACT FR:GRISHCHENKO, V.T.    TO:GRISHCHENKO, K.M.",
+   "pages": 1,
+   "pdf_url": "https://www.cia.gov/readingroom/docs/cia-rdp86-00513r000616900023-6.pdf"
+  },
+  {
+   "doc_id": "CIA-RDP86-00513R001033800007-6",
+   "stratum": "sci",
+   "collection": "Scientific Abstracts",
+   "content_type": "SCIENTIFIC ABSTR",
+   "title": "SCIENTIFIC ABSTRACT FR:MIGACZ, W.    TO:MIFLE, P.V.",
+   "pages": 1,
+   "pdf_url": "https://www.cia.gov/readingroom/docs/cia-rdp86-00513r001033800007-6.pdf"
+  },
+  {
+   "doc_id": "CIA-RDP86-00513R000204600044-6",
+   "stratum": "sci",
+   "collection": "Scientific Abstracts",
+   "content_type": "SCIENTIFIC ABSTR",
+   "title": "SCIENTIFIC ABSTRACT FR:BELYAYEV, A.A.    TO:BELYAVSKIY, M.M.",
+   "pages": 2,
+   "pdf_url": "https://www.cia.gov/readingroom/docs/cia-rdp86-00513r000204600044-6.pdf"
+  },
+  {
+   "doc_id": "CIA-RDP86-00513R001032000016-6",
+   "stratum": "sci",
+   "collection": "Scientific Abstracts",
+   "content_type": "SCIENTIFIC ABSTR",
+   "title": "SCIENTIFIC ABSTRACT FR:MAMEDOV, G.A.    TO:MAMEDOV, E.S.",
+   "pages": 3,
+   "pdf_url": "https://www.cia.gov/readingroom/docs/cia-rdp86-00513r001032000016-6.pdf"
+  },
+  {
+   "doc_id": "CIA-RDP86-00513R000103530014-4",
+   "stratum": "sci",
+   "collection": "Scientific Abstracts",
+   "content_type": "SCIENCEAB",
+   "title": "SCIENTIFIC ABSTRACT BARBOV, T. - BARBOV, T. S.",
+   "pages": 8,
+   "pdf_url": "https://www.cia.gov/readingroom/docs/cia-rdp86-00513r000103530014-4.pdf"
+  },
+  {
+   "doc_id": "CIA-RDP86-00513R000204400012-6",
+   "stratum": "sci",
+   "collection": "Scientific Abstracts",
+   "content_type": "SCIENTIFIC ABSTR",
+   "title": "SCIENTIFIC ABSTRACT FR:BELORUSSOV, N.I.    TO:BELOSEVICH, V.K.",
+   "pages": 5,
+   "pdf_url": "https://www.cia.gov/readingroom/docs/cia-rdp86-00513r000204400012-6.pdf"
+  },
+  {
+   "doc_id": "CIA-RDP86-00513R000825300023-6",
+   "stratum": "sci",
+   "collection": "Scientific Abstracts",
+   "content_type": "SCIENTIFIC ABSTR",
+   "title": "SCIENTIFIC ABSTRACT FR:KOTA, J.    TO:KOT, M.V.",
+   "pages": 2,
+   "pdf_url": "https://www.cia.gov/readingroom/docs/cia-rdp86-00513r000825300023-6.pdf"
+  },
+  {
+   "doc_id": "CIA-RDP86-00513R000204600023-6",
+   "stratum": "sci",
+   "collection": "Scientific Abstracts",
+   "content_type": "SCIENTIFIC ABSTR",
+   "title": "SCIENTIFIC ABSTRACT FR:BELYAYEV, Y.I.    TO:BELYAYEV, Y.V.",
+   "pages": 1,
+   "pdf_url": "https://www.cia.gov/readingroom/docs/cia-rdp86-00513r000204600023-6.pdf"
+  },
+  {
+   "doc_id": "CIA-RDP86-00513R001031700020-6",
+   "stratum": "sci",
+   "collection": "Scientific Abstracts",
+   "content_type": "SCIENTIFIC ABSTR",
+   "title": "SCIENTIFIC ABSTRACT FR:MALASHKO, V.I.    TO:MALASHENKO, L.P.",
+   "pages": 2,
+   "pdf_url": "https://www.cia.gov/readingroom/docs/cia-rdp86-00513r001031700020-6.pdf"
+  },
+  {
+   "doc_id": "CIA-RDP86-00513R000722830003-6",
+   "stratum": "sci",
+   "collection": "Scientific Abstracts",
+   "content_type": "SCIENTIFIC ABSTRACT",
+   "title": "SCIENTIFIC ABSTRACT KISLYUK, M.ZH. - KISLYUK, M.ZH.",
+   "pages": 10,
+   "pdf_url": "https://www.cia.gov/readingroom/docs/cia-rdp86-00513r000722830003-6.pdf"
+  },
+  {
+   "doc_id": "CIA-RDP86-00513R001341200033-6",
+   "stratum": "sci",
+   "collection": "Scientific Abstracts",
+   "content_type": "SCIENTIFIC ABSTR",
+   "title": "SCIENTIFIC ABSTRACT FR:PLATONOV, G.F.    TO:PLATONOV, A.I.",
+   "pages": 2,
+   "pdf_url": "https://www.cia.gov/readingroom/docs/cia-rdp86-00513r001341200033-6.pdf"
+  },
+  {
+   "doc_id": "CIA-RDP86-00513R000825300053-6",
+   "stratum": "sci",
+   "collection": "Scientific Abstracts",
+   "content_type": "SCIENTIFIC ABSTR",
+   "title": "SCIENTIFIC ABSTRACT FR:KOSTRY*GIN, V.A.    TO:KOSTROVA, R.A.",
+   "pages": 1,
+   "pdf_url": "https://www.cia.gov/readingroom/docs/cia-rdp86-00513r000825300053-6.pdf"
+  },
+  {
+   "doc_id": "CIA-RDP86-00513R000204800011-6",
+   "stratum": "sci",
+   "collection": "Scientific Abstracts",
+   "content_type": "SCIENTIFIC ABSTR",
+   "title": "SCIENTIFIC ABSTRACT FR:BEREZIN, Y.A.    TO:BEREZIN, V.I.",
+   "pages": 7,
+   "pdf_url": "https://www.cia.gov/readingroom/docs/cia-rdp86-00513r000204800011-6.pdf"
+  },
+  {
+   "doc_id": "CIA-RDP86-00513R001031700046-6",
+   "stratum": "sci",
+   "collection": "Scientific Abstracts",
+   "content_type": "SCIENTIFIC ABSTR",
+   "title": "SCIENTIFIC ABSTRACT FR:MAKSIMOVICH, B.I.    TO:MAKSIMOVIC, M.",
+   "pages": 5,
+   "pdf_url": "https://www.cia.gov/readingroom/docs/cia-rdp86-00513r001031700046-6.pdf"
+  },
+  {
+   "doc_id": "CIA-RDP86-00513R001033800008-6",
+   "stratum": "sci",
+   "collection": "Scientific Abstracts",
+   "content_type": "SCIENTIFIC ABSTR",
+   "title": "SCIENTIFIC ABSTRACT FR:MIFF, N.P.    TO:MIESOWICZ, M.",
+   "pages": 9,
+   "pdf_url": "https://www.cia.gov/readingroom/docs/cia-rdp86-00513r001033800008-6.pdf"
+  },
+  {
+   "doc_id": "CIA-RDP86-00513R000616900031-6",
+   "stratum": "sci",
+   "collection": "Scientific Abstracts",
+   "content_type": "SCIENTIFIC ABSTR",
+   "title": "SCIENTIFIC ABSTRACT FR:GRINKOV, Y.V.    TO:GRINSHPUN, L.D.",
+   "pages": 1,
+   "pdf_url": "https://www.cia.gov/readingroom/docs/cia-rdp86-00513r000616900031-6.pdf"
+  },
+  {
+   "doc_id": "CIA-RDP86-00513R000617800043-6",
+   "stratum": "sci",
+   "collection": "Scientific Abstracts",
+   "content_type": "SCIENTIFIC ABSTR",
+   "title": "SCIENTIFIC ABSTRACT FR:HADERI, H    TO:HADAMEK, V.",
+   "pages": 1,
+   "pdf_url": "https://www.cia.gov/readingroom/docs/cia-rdp86-00513r000617800043-6.pdf"
+  },
+  {
+   "doc_id": "CIA-RDP86-00513R001033800023-6",
+   "stratum": "sci",
+   "collection": "Scientific Abstracts",
+   "content_type": "SCIENTIFIC ABSTR",
+   "title": "SCIENTIFIC ABSTRACT FR:MICHALSKI, T.    TO:MICHALSKI, J.",
+   "pages": 1,
+   "pdf_url": "https://www.cia.gov/readingroom/docs/cia-rdp86-00513r001033800023-6.pdf"
+  },
+  {
+   "doc_id": "CIA-RDP86-00513R001032000007-6",
+   "stratum": "sci",
+   "collection": "Scientific Abstracts",
+   "content_type": "SCIENTIFIC ABSTR",
+   "title": "SCIENTIFIC ABSTRACT FR:MAMEDOVA, N.K.    TO:MAMEDOV, Z.I.",
+   "pages": 2,
+   "pdf_url": "https://www.cia.gov/readingroom/docs/cia-rdp86-00513r001032000007-6.pdf"
+  },
+  {
+   "doc_id": "CIA-RDP86-00513R000616900021-6",
+   "stratum": "sci",
+   "collection": "Scientific Abstracts",
+   "content_type": "SCIENTIFIC ABSTR",
+   "title": "SCIENTIFIC ABSTRACT FR:GRISHIN, A.P.    TO:GRISHECHKINA, S.P.",
+   "pages": 1,
+   "pdf_url": "https://www.cia.gov/readingroom/docs/cia-rdp86-00513r000616900021-6.pdf"
+  },
+  {
+   "doc_id": "CIA-RDP86-00513R000204600015-6",
+   "stratum": "sci",
+   "collection": "Scientific Abstracts",
+   "content_type": "SCIENTIFIC ABSTR",
+   "title": "SCIENTIFIC ABSTRACT FR:BELYAYEVSKIY, A.I.    TO:BELYAYEVA, Y.N.",
+   "pages": 1,
+   "pdf_url": "https://www.cia.gov/readingroom/docs/cia-rdp86-00513r000204600015-6.pdf"
+  },
+  {
+   "doc_id": "CIA-RDP86-00513R001031900034-6",
+   "stratum": "sci",
+   "collection": "Scientific Abstracts",
+   "content_type": "SCIENTIFIC ABSTR",
+   "title": "SCIENTIFIC ABSTRACT FR:MALOVITSKIY, V.S.    TO:MALOVA, T.N.",
+   "pages": 2,
+   "pdf_url": "https://www.cia.gov/readingroom/docs/cia-rdp86-00513r001031900034-6.pdf"
+  },
+  {
+   "doc_id": "CIA-RDP86-00513R001341200025-6",
+   "stratum": "sci",
+   "collection": "Scientific Abstracts",
+   "content_type": "SCIENTIFIC ABSTR",
+   "title": "SCIENTIFIC ABSTRACT FR:PLATOV, A.B.    TO:PLATONOVA, V.I.",
+   "pages": 3,
+   "pdf_url": "https://www.cia.gov/readingroom/docs/cia-rdp86-00513r001341200025-6.pdf"
+  },
+  {
+   "doc_id": "CIA-RDP86-00513R000928730001-1",
+   "stratum": "sci",
+   "collection": "Scientific Abstracts",
+   "content_type": "SCIENTIFIC ABSTRACT",
+   "title": "SCIENTIFIC ABSTRACT LATASH, YU.V.  - LATASH, YU.V.",
+   "pages": 10,
+   "pdf_url": "https://www.cia.gov/readingroom/docs/cia-rdp86-00513r000928730001-1.pdf"
+  },
+  {
+   "doc_id": "CIA-RDP86-00513R000204800018-6",
+   "stratum": "sci",
+   "collection": "Scientific Abstracts",
+   "content_type": "SCIENTIFIC ABSTR",
+   "title": "SCIENTIFIC ABSTRACT FR:BEREZIN, R.D.    TO:BEREZIN, A.B.",
+   "pages": 6,
+   "pdf_url": "https://www.cia.gov/readingroom/docs/cia-rdp86-00513r000204800018-6.pdf"
+  },
+  {
+   "doc_id": "CIA-RDP86-00513R001033800024-6",
+   "stratum": "sci",
+   "collection": "Scientific Abstracts",
+   "content_type": "SCIENTIFIC ABSTR",
+   "title": "SCIENTIFIC ABSTRACT FR:MICHALSKI, J.    TO:MICHALSKI, E.",
+   "pages": 9,
+   "pdf_url": "https://www.cia.gov/readingroom/docs/cia-rdp86-00513r001033800024-6.pdf"
+  },
+  {
+   "doc_id": "CIA-RDP86-00513R002202730011-3",
+   "stratum": "sci",
+   "collection": "Scientific Abstracts",
+   "content_type": "SCIENTIFIC ABSTRACT",
+   "title": "SCIENTIFIC ABSTRACT SALNIK, B.YU.  - SALNIKOV, B.V.",
+   "pages": 9,
+   "pdf_url": "https://www.cia.gov/readingroom/docs/cia-rdp86-00513r002202730011-3.pdf"
+  },
+  {
+   "doc_id": "CIA-RDP86-00513R000204600005-6",
+   "stratum": "sci",
+   "collection": "Scientific Abstracts",
+   "content_type": "SCIENTIFIC ABSTR",
+   "title": "SCIENTIFIC ABSTRACT FR:BENA, J.    TO:BEME, R.L.",
+   "pages": 1,
+   "pdf_url": "https://www.cia.gov/readingroom/docs/cia-rdp86-00513r000204600005-6.pdf"
+  },
+  {
+   "doc_id": "CIA-RDP86-00513R001031700010-6",
+   "stratum": "sci",
+   "collection": "Scientific Abstracts",
+   "content_type": "SCIENTIFIC ABSTR",
+   "title": "SCIENTIFIC ABSTRACT FR:MALEK, I.    TO:MALEK, A.",
+   "pages": 1,
+   "pdf_url": "https://www.cia.gov/readingroom/docs/cia-rdp86-00513r001031700010-6.pdf"
+  },
+  {
+   "doc_id": "CIA-RDP86-00513R000617800009-6",
+   "stratum": "sci",
+   "collection": "Scientific Abstracts",
+   "content_type": "SCIENTIFIC ABSTR",
+   "title": "SCIENTIFIC ABSTRACT FR:HANSA, Z.    TO:HAMPLA, J.",
+   "pages": 1,
+   "pdf_url": "https://www.cia.gov/readingroom/docs/cia-rdp86-00513r000617800009-6.pdf"
+  },
+  {
+   "doc_id": "CIA-RDP86-00513R000204600040-6",
+   "stratum": "sci",
+   "collection": "Scientific Abstracts",
+   "content_type": "SCIENTIFIC ABSTR",
+   "title": "SCIENTIFIC ABSTRACT FR:BELYAYEV, A.I.    TO:BELYAYEV, A.I.",
+   "pages": 1,
+   "pdf_url": "https://www.cia.gov/readingroom/docs/cia-rdp86-00513r000204600040-6.pdf"
+  },
+  {
+   "doc_id": "CIA-RDP86-00513R000825300050-6",
+   "stratum": "sci",
+   "collection": "Scientific Abstracts",
+   "content_type": "SCIENTIFIC ABSTR",
+   "title": "SCIENTIFIC ABSTRACT FR:KOSTSOV, R.I.    TO:KOSTRZEWA, J.",
+   "pages": 1,
+   "pdf_url": "https://www.cia.gov/readingroom/docs/cia-rdp86-00513r000825300050-6.pdf"
+  },
+  {
+   "doc_id": "CIA-RDP86-00513R000204400018-6",
+   "stratum": "sci",
+   "collection": "Scientific Abstracts",
+   "content_type": "SCIENTIFIC ABSTR",
+   "title": "SCIENTIFIC ABSTRACT FR:BOLOTIN, V.V.    TO:BELOTSERKOVSKIY, D.Y.",
+   "pages": 6,
+   "pdf_url": "https://www.cia.gov/readingroom/docs/cia-rdp86-00513r000204400018-6.pdf"
+  },
+  {
+   "doc_id": "CIA-RDP86-00513R001134700042-6",
+   "stratum": "sci",
+   "collection": "Scientific Abstracts",
+   "content_type": "SCIENTIFIC ABSTR",
+   "title": "SCIENTIFIC ABSTRACT FR:MISKOLCZY, V.    TO:MISKI, K.",
+   "pages": 3,
+   "pdf_url": "https://www.cia.gov/readingroom/docs/cia-rdp86-00513r001134700042-6.pdf"
+  },
+  {
+   "doc_id": "CIA-RDP86-00513R001134700035-6",
+   "stratum": "sci",
+   "collection": "Scientific Abstracts",
+   "content_type": "SCIENTIFIC ABSTR",
+   "title": "SCIENTIFIC ABSTRACT FR:MITCHENKO, F.A.    TO:MISZTELA, A.",
+   "pages": 2,
+   "pdf_url": "https://www.cia.gov/readingroom/docs/cia-rdp86-00513r001134700035-6.pdf"
+  },
+  {
+   "doc_id": "CIA-RDP86-00513R001031700028-6",
+   "stratum": "sci",
+   "collection": "Scientific Abstracts",
+   "content_type": "SCIENTIFIC ABSTR",
+   "title": "SCIENTIFIC ABSTRACT FR:MALAKHOVSKIY, V.S.    TO:MALAKHOVA, V.P.",
+   "pages": 1,
+   "pdf_url": "https://www.cia.gov/readingroom/docs/cia-rdp86-00513r001031700028-6.pdf"
+  },
+  {
+   "doc_id": "CIA-RDP86-00513R001134700015-6",
+   "stratum": "sci",
+   "collection": "Scientific Abstracts",
+   "content_type": "SCIENTIFIC ABSTR",
+   "title": "SCIENTIFIC ABSTRACT FR:MITROFANOV, Y.M.    TO:MITROFANOV, V.N.",
+   "pages": 3,
+   "pdf_url": "https://www.cia.gov/readingroom/docs/cia-rdp86-00513r001134700015-6.pdf"
+  },
+  {
+   "doc_id": "CIA-RDP86-00513R001033800015-6",
+   "stratum": "sci",
+   "collection": "Scientific Abstracts",
+   "content_type": "SCIENTIFIC ABSTR",
+   "title": "SCIENTIFIC ABSTRACT FR:MICU, D.    TO:MICLESCU, I.",
+   "pages": 3,
+   "pdf_url": "https://www.cia.gov/readingroom/docs/cia-rdp86-00513r001033800015-6.pdf"
+  },
+  {
+   "doc_id": "CIA-RDP86-00513R001134700002-6",
+   "stratum": "sci",
+   "collection": "Scientific Abstracts",
+   "content_type": "SCIENTIFIC ABSTR",
+   "title": "SCIENTIFIC ABSTRACT FR:MITSOVSKIY, V.I.    TO:MITSKEVICH, P.K.",
+   "pages": 4,
+   "pdf_url": "https://www.cia.gov/readingroom/docs/cia-rdp86-00513r001134700002-6.pdf"
+  },
+  {
+   "doc_id": "CIA-RDP86-00513R002200230014-7",
+   "stratum": "sci",
+   "collection": "Scientific Abstracts",
+   "content_type": "SCIENTIFIC ABSTRACT",
+   "title": "SCIENTIFIC ABSTRACT BALIKHINA, G.D.  - BALIN, P.N.",
+   "pages": 5,
+   "pdf_url": "https://www.cia.gov/readingroom/docs/cia-rdp86-00513r002200230014-7.pdf"
+  },
+  {
+   "doc_id": "CIA-RDP86-00513R001654430002-6",
+   "stratum": "sci",
+   "collection": "Scientific Abstracts",
+   "content_type": "SCIENTIFIC ABSTRACT",
+   "title": "SCIENTIFIC ABSTRACT SZEKESSY-HERMANN, J.  - SZEKESSYNE-HERMANN, V.",
+   "pages": 4,
+   "pdf_url": "https://www.cia.gov/readingroom/docs/cia-rdp86-00513r001654430002-6.pdf"
+  },
+  {
+   "doc_id": "CIA-RDP86-00513R001963330005-1",
+   "stratum": "sci",
+   "collection": "Scientific Abstracts",
+   "content_type": "SCIENTIFIC ABSTRACT",
+   "title": "SCIENTIFIC ABSTRACT ZACHAREWICZ, W. - ZACHAREWICZ, W.",
+   "pages": 5,
+   "pdf_url": "https://www.cia.gov/readingroom/docs/cia-rdp86-00513r001963330005-1.pdf"
+  },
+  {
+   "doc_id": "CIA-RDP86-00513R000204400008-6",
+   "stratum": "sci",
+   "collection": "Scientific Abstracts",
+   "content_type": "SCIENTIFIC ABSTR",
+   "title": "SCIENTIFIC ABSTRACT FR:BELONOGOV, A.V.    TO:BELONOSOVA, I.I.",
+   "pages": 3,
+   "pdf_url": "https://www.cia.gov/readingroom/docs/cia-rdp86-00513r000204400008-6.pdf"
+  },
+  {
+   "doc_id": "CIA-RDP86-00513R001033800038-6",
+   "stratum": "sci",
+   "collection": "Scientific Abstracts",
+   "content_type": "SCIENTIFIC ABSTR",
+   "title": "SCIENTIFIC ABSTRACT FR:MEZIC, A.    TO:MEZHOVA, A.I.",
+   "pages": 1,
+   "pdf_url": "https://www.cia.gov/readingroom/docs/cia-rdp86-00513r001033800038-6.pdf"
+  },
+  {
+   "doc_id": "CIA-RDP86-00513R000825300052-6",
+   "stratum": "sci",
+   "collection": "Scientific Abstracts",
+   "content_type": "SCIENTIFIC ABSTR",
+   "title": "SCIENTIFIC ABSTRACT FR:KOSTRYUKOVA, K.Y.    TO:KOSTRYGIN, V.A.",
+   "pages": 1,
+   "pdf_url": "https://www.cia.gov/readingroom/docs/cia-rdp86-00513r000825300052-6.pdf"
+  },
+  {
+   "doc_id": "CIA-RDP86-00513R000825300043-6",
+   "stratum": "sci",
+   "collection": "Scientific Abstracts",
+   "content_type": "SCIENTIFIC ABSTR",
+   "title": "SCIENTIFIC ABSTRACT FR:KOSTYRYA, V.A.    TO:KOSTYREV, A.P.",
+   "pages": 1,
+   "pdf_url": "https://www.cia.gov/readingroom/docs/cia-rdp86-00513r000825300043-6.pdf"
+  },
+  {
+   "doc_id": "CIA-RDP86-00513R001032000041-6",
+   "stratum": "sci",
+   "collection": "Scientific Abstracts",
+   "content_type": "SCIENTIFIC ABSTR",
+   "title": "SCIENTIFIC ABSTRACT FR:MALYSHEVA, I.A.    TO:MALYSHEV, Y.F.",
+   "pages": 2,
+   "pdf_url": "https://www.cia.gov/readingroom/docs/cia-rdp86-00513r001032000041-6.pdf"
+  },
+  {
+   "doc_id": "CIA-RDP86-00513R000616900039-6",
+   "stratum": "sci",
+   "collection": "Scientific Abstracts",
+   "content_type": "SCIENTIFIC ABSTR",
+   "title": "SCIENTIFIC ABSTRACT FR:GRINEVICH, F.B.    TO:GRINEVA, A.V.",
+   "pages": 1,
+   "pdf_url": "https://www.cia.gov/readingroom/docs/cia-rdp86-00513r000616900039-6.pdf"
+  },
+  {
+   "doc_id": "CIA-RDP86-00513R000204600007-6",
+   "stratum": "sci",
+   "collection": "Scientific Abstracts",
+   "content_type": "SCIENTIFIC ABSTR",
+   "title": "SCIENTIFIC ABSTRACT FR:BELZECKI, C.    TO:BELYY, V.D.",
+   "pages": 1,
+   "pdf_url": "https://www.cia.gov/readingroom/docs/cia-rdp86-00513r000204600007-6.pdf"
+  },
+  {
+   "doc_id": "CIA-RDP86-00513R000204600006-6",
+   "stratum": "sci",
+   "collection": "Scientific Abstracts",
+   "content_type": "SCIENTIFIC ABSTR",
+   "title": "SCIENTIFIC ABSTRACT FR:BEME, R.L.    TO:BELZECKI, C.",
+   "pages": 1,
+   "pdf_url": "https://www.cia.gov/readingroom/docs/cia-rdp86-00513r000204600006-6.pdf"
+  },
+  {
+   "doc_id": "CIA-RDP86-00513R001134700033-6",
+   "stratum": "sci",
+   "collection": "Scientific Abstracts",
+   "content_type": "SCIENTIFIC ABSTR",
+   "title": "SCIENTIFIC ABSTRACT FR:MITESCU, I.    TO:MITELMAN, S.L.",
+   "pages": 1,
+   "pdf_url": "https://www.cia.gov/readingroom/docs/cia-rdp86-00513r001134700033-6.pdf"
+  },
+  {
+   "doc_id": "CIA-RDP86-00513R000204800007-6",
+   "stratum": "sci",
+   "collection": "Scientific Abstracts",
+   "content_type": "SCIENTIFIC ABSTR",
+   "title": "SCIENTIFIC ABSTRACT FR:BEREZINSKIY, A.R.    TO:BEREZINA, Y.K.",
+   "pages": 1,
+   "pdf_url": "https://www.cia.gov/readingroom/docs/cia-rdp86-00513r000204800007-6.pdf"
+  },
+  {
+   "doc_id": "CIA-RDP86-00513R001031900010-6",
+   "stratum": "sci",
+   "collection": "Scientific Abstracts",
+   "content_type": "SCIENTIFIC ABSTR",
+   "title": "SCIENTIFIC ABSTRACT FR:MALYKH, A.S.    TO:MALYGIN, Y.D.",
+   "pages": 1,
+   "pdf_url": "https://www.cia.gov/readingroom/docs/cia-rdp86-00513r001031900010-6.pdf"
+  },
+  {
+   "doc_id": "CIA-RDP86-00513R000204400041-6",
+   "stratum": "sci",
+   "collection": "Scientific Abstracts",
+   "content_type": "SCIENTIFIC ABSTR",
+   "title": "SCIENTIFIC ABSTRACT FR:BELOV I.V.    TO:BELOV, K.A.",
+   "pages": 1,
+   "pdf_url": "https://www.cia.gov/readingroom/docs/cia-rdp86-00513r000204400041-6.pdf"
+  },
+  {
+   "doc_id": "CIA-RDP86-00513R001964100015-6",
+   "stratum": "sci",
+   "collection": "Scientific Abstracts",
+   "content_type": "SCIENTIFIC ABSTR",
+   "title": "SCIENTIFIC ABSTRACT FR:ZAYTSEVA, A.A.    TO:ZAYTSEV, Y.N.",
+   "pages": 1,
+   "pdf_url": "https://www.cia.gov/readingroom/docs/cia-rdp86-00513r001964100015-6.pdf"
+  },
+  {
+   "doc_id": "CIA-RDP86-00513R001031400014-6",
+   "stratum": "sci",
+   "collection": "Scientific Abstracts",
+   "content_type": "SCIENTIFIC ABSTR",
+   "title": "SCIENTIFIC ABSTRACT FR:MAKARCHENKO, A.F.    TO:MAKARA, A.M.",
+   "pages": 1,
+   "pdf_url": "https://www.cia.gov/readingroom/docs/cia-rdp86-00513r001031400014-6.pdf"
+  },
+  {
+   "doc_id": "CIA-RDP86-00513R001033800013-6",
+   "stratum": "sci",
+   "collection": "Scientific Abstracts",
+   "content_type": "SCIENTIFIC ABSTR",
+   "title": "SCIENTIFIC ABSTRACT FR:MIEDZINSKI, E.    TO:MIDRJAK, R.",
+   "pages": 2,
+   "pdf_url": "https://www.cia.gov/readingroom/docs/cia-rdp86-00513r001033800013-6.pdf"
+  },
+  {
+   "doc_id": "CIA-RDP86-00513R001031700030-6",
+   "stratum": "sci",
+   "collection": "Scientific Abstracts",
+   "content_type": "SCIENTIFIC ABSTR",
+   "title": "SCIENTIFIC ABSTRACT FR:MALAKHOV, D.A.    TO:MALAKHOV, A.N.",
+   "pages": 1,
+   "pdf_url": "https://www.cia.gov/readingroom/docs/cia-rdp86-00513r001031700030-6.pdf"
+  },
+  {
+   "doc_id": "CIA-RDP86-00513R001964100014-6",
+   "stratum": "sci",
+   "collection": "Scientific Abstracts",
+   "content_type": "SCIENTIFIC ABSTR",
+   "title": "SCIENTIFIC ABSTRACT FR:ZAYTSEVA, A.K.    TO:ZAYTSEVA, A.A.",
+   "pages": 2,
+   "pdf_url": "https://www.cia.gov/readingroom/docs/cia-rdp86-00513r001964100014-6.pdf"
+  },
+  {
+   "doc_id": "CIA-RDP86-00513R001031700007-6",
+   "stratum": "sci",
+   "collection": "Scientific Abstracts",
+   "content_type": "SCIENTIFIC ABSTR",
+   "title": "SCIENTIFIC ABSTRACT FR:MALENEV, F.Y.    TO:MALEK, P.",
+   "pages": 2,
+   "pdf_url": "https://www.cia.gov/readingroom/docs/cia-rdp86-00513r001031700007-6.pdf"
+  },
+  {
+   "doc_id": "CIA-RDP86-00513R001134700036-6",
+   "stratum": "sci",
+   "collection": "Scientific Abstracts",
+   "content_type": "SCIENTIFIC ABSTR",
+   "title": "SCIENTIFIC ABSTRACT FR:MISZTAL, T.    TO:MISYURA, V.",
+   "pages": 1,
+   "pdf_url": "https://www.cia.gov/readingroom/docs/cia-rdp86-00513r001134700036-6.pdf"
+  },
+  {
+   "doc_id": "CIA-RDP86-00513R001136700021-6",
+   "stratum": "sci",
+   "collection": "Scientific Abstracts",
+   "content_type": "SCIENTIFIC ABSTR",
+   "title": "SCIENTIFIC ABSTRACT FR:NETISHENSKAYA, G.B.    TO:NESVISHSKIY, Y.B.",
+   "pages": 2,
+   "pdf_url": "https://www.cia.gov/readingroom/docs/cia-rdp86-00513r001136700021-6.pdf"
+  },
+  {
+   "doc_id": "CIA-RDP86-00513R001032000012-6",
+   "stratum": "sci",
+   "collection": "Scientific Abstracts",
+   "content_type": "SCIENTIFIC ABSTR",
+   "title": "SCIENTIFIC ABSTRACT FR:MAMEDOV, R.G.    TO:MAMEDOV, M.K.",
+   "pages": 1,
+   "pdf_url": "https://www.cia.gov/readingroom/docs/cia-rdp86-00513r001032000012-6.pdf"
+  },
+  {
+   "doc_id": "CIA-RDP86-00513R001341200008-6",
+   "stratum": "sci",
+   "collection": "Scientific Abstracts",
+   "content_type": "SCIENTIFIC ABSTR",
+   "title": "SCIENTIFIC ABSTRACT FR:PLESHKOV, Y.F.    TO:PLESHKOV, A.A.",
+   "pages": 1,
+   "pdf_url": "https://www.cia.gov/readingroom/docs/cia-rdp86-00513r001341200008-6.pdf"
+  },
+  {
+   "doc_id": "CIA-RDP86-00513R000823930012-3",
+   "stratum": "sci",
+   "collection": "Scientific Abstracts",
+   "content_type": "SCIENTIFIC ABSTRACT",
+   "title": "SCIENTIFIC ABSTRACT KOLOTYRKIN, YA.M. - KOLOTYRKIN, YA.M.",
+   "pages": 12,
+   "pdf_url": "https://www.cia.gov/readingroom/docs/cia-rdp86-00513r000823930012-3.pdf"
+  },
+  {
+   "doc_id": "CIA-RDP86-00513R000204600041-6",
+   "stratum": "sci",
+   "collection": "Scientific Abstracts",
+   "content_type": "SCIENTIFIC ABSTR",
+   "title": "SCIENTIFIC ABSTRACT FR:BELYAYEV, A.I.    TO:BELYAYEV, A.I.",
+   "pages": 1,
+   "pdf_url": "https://www.cia.gov/readingroom/docs/cia-rdp86-00513r000204600041-6.pdf"
+  },
+  {
+   "doc_id": "CIA-RDP86-00513R001031700033-6",
+   "stratum": "sci",
+   "collection": "Scientific Abstracts",
+   "content_type": "SCIENTIFIC ABSTR",
+   "title": "SCIENTIFIC ABSTRACT FR:MALACHOWSKI, S.    TO:MAKUSHOK, Y.M.",
+   "pages": 2,
+   "pdf_url": "https://www.cia.gov/readingroom/docs/cia-rdp86-00513r001031700033-6.pdf"
+  },
+  {
+   "doc_id": "CIA-RDP86-00513R002065900022-6",
+   "stratum": "sci",
+   "collection": "Scientific Abstracts",
+   "content_type": "SCIENTIFIC ABSTR",
+   "title": "SCIENTIFIC ABSTRACT FR:ALEKSANDROV, G.V.    TO:ALEKSA, A.K.",
+   "pages": 1,
+   "pdf_url": "https://www.cia.gov/readingroom/docs/cia-rdp86-00513r002065900022-6.pdf"
+  },
+  {
+   "doc_id": "CIA-RDP86-00513R001341200042-6",
+   "stratum": "sci",
+   "collection": "Scientific Abstracts",
+   "content_type": "SCIENTIFIC ABSTR",
+   "title": "SCIENTIFIC ABSTRACT FR:PLASKEYEV, V.K.    TO:PLANSKY, B.",
+   "pages": 3,
+   "pdf_url": "https://www.cia.gov/readingroom/docs/cia-rdp86-00513r001341200042-6.pdf"
+  },
+  {
+   "doc_id": "CIA-RDP86-00513R001961830011-1",
+   "stratum": "sci",
+   "collection": "Scientific Abstracts",
+   "content_type": "SCIENTIFIC ABSTRACT",
+   "title": "SCIENTIFIC ABSTRACT  -",
+   "pages": 2,
+   "pdf_url": "https://www.cia.gov/readingroom/docs/cia-rdp86-00513r001961830011-1.pdf"
+  },
+  {
+   "doc_id": "CIA-RDP86-00513R000616900037-6",
+   "stratum": "sci",
+   "collection": "Scientific Abstracts",
+   "content_type": "SCIENTIFIC ABSTR",
+   "title": "SCIENTIFIC ABSTRACT FR:GRINEVICH, Y.G.    TO:GRINEVICH, I.P.",
+   "pages": 1,
+   "pdf_url": "https://www.cia.gov/readingroom/docs/cia-rdp86-00513r000616900037-6.pdf"
+  },
+  {
+   "doc_id": "CIA-RDP86-00513R001134700018-6",
+   "stratum": "sci",
+   "collection": "Scientific Abstracts",
+   "content_type": "SCIENTIFIC ABSTR",
+   "title": "SCIENTIFIC ABSTRACT FR:MITROFANOV, P.I.    TO:KAZANSKIY, B.A.",
+   "pages": 3,
+   "pdf_url": "https://www.cia.gov/readingroom/docs/cia-rdp86-00513r001134700018-6.pdf"
+  },
+  {
+   "doc_id": "CIA-RDP86-00513R000204800038-6",
+   "stratum": "sci",
+   "collection": "Scientific Abstracts",
+   "content_type": "SCIENTIFIC ABSTR",
+   "title": "SCIENTIFIC ABSTRACT FR:BERENYI, D.    TO:BERENSON, S.P.",
+   "pages": 1,
+   "pdf_url": "https://www.cia.gov/readingroom/docs/cia-rdp86-00513r000204800038-6.pdf"
+  },
+  {
+   "doc_id": "CIA-RDP86-00513R000204400016-6",
+   "stratum": "sci",
+   "collection": "Scientific Abstracts",
+   "content_type": "SCIENTIFIC ABSTR",
+   "title": "SCIENTIFIC ABSTRACT FR:BELOSTOTSKIY, O.B.    TO:BOLOTIN, V.V.",
+   "pages": 2,
+   "pdf_url": "https://www.cia.gov/readingroom/docs/cia-rdp86-00513r000204400016-6.pdf"
+  },
+  {
+   "doc_id": "CIA-RDP86-00513R000825300001-6",
+   "stratum": "sci",
+   "collection": "Scientific Abstracts",
+   "content_type": "SCIENTIFIC ABSTR",
+   "title": "SCIENTIFIC ABSTRACT FR:KOTLYAR, I.K.    TO:KOTLYAR, B.I.",
+   "pages": 1,
+   "pdf_url": "https://www.cia.gov/readingroom/docs/cia-rdp86-00513r000825300001-6.pdf"
+  },
+  {
+   "doc_id": "CIA-RDP86-00513R000204400042-6",
+   "stratum": "sci",
+   "collection": "Scientific Abstracts",
+   "content_type": "SCIENTIFIC ABSTR",
+   "title": "SCIENTIFIC ABSTRACT FR:BELOV, K.A.    TO:BELOV, K.P.",
+   "pages": 4,
+   "pdf_url": "https://www.cia.gov/readingroom/docs/cia-rdp86-00513r000204400042-6.pdf"
+  },
+  {
+   "doc_id": "CIA-RDP86-00513R001964100031-6",
+   "stratum": "sci",
+   "collection": "Scientific Abstracts",
+   "content_type": "SCIENTIFIC ABSTR",
+   "title": "SCIENTIFIC ABSTRACT FR:ZAYTSEV, G.P.    TO:ZAYTSEV, G.F.",
+   "pages": 7,
+   "pdf_url": "https://www.cia.gov/readingroom/docs/cia-rdp86-00513r001964100031-6.pdf"
+  },
+  {
+   "doc_id": "CIA-RDP86-00513R001858930006-1",
+   "stratum": "sci",
+   "collection": "Scientific Abstracts",
+   "content_type": "SCIENTIFIC ABSTRACT",
+   "title": "SCIENTIFIC ABSTRACT VASILYEVA, L.M. - VASILYEVA, L.M.",
+   "pages": 6,
+   "pdf_url": "https://www.cia.gov/readingroom/docs/cia-rdp86-00513r001858930006-1.pdf"
+  },
+  {
+   "doc_id": "CIA-RDP86-00513R001963530001-3",
+   "stratum": "sci",
+   "collection": "Scientific Abstracts",
+   "content_type": "SCIENTIFIC ABSTRACT",
+   "title": "SCIENTIFIC ABSTRACT ZAKHAROV, V.I. - ZAKHAROV, V.I.",
+   "pages": 3,
+   "pdf_url": "https://www.cia.gov/readingroom/docs/cia-rdp86-00513r001963530001-3.pdf"
+  },
+  {
+   "doc_id": "CIA-RDP86-00513R001031900050-6",
+   "stratum": "sci",
+   "collection": "Scientific Abstracts",
+   "content_type": "SCIENTIFIC ABSTR",
+   "title": "SCIENTIFIC ABSTRACT FR:MALKINA, R.L.    TO:MALKINA, K.E.",
+   "pages": 1,
+   "pdf_url": "https://www.cia.gov/readingroom/docs/cia-rdp86-00513r001031900050-6.pdf"
+  },
+  {
+   "doc_id": "CIA-RDP86-00513R001031700017-6",
+   "stratum": "sci",
+   "collection": "Scientific Abstracts",
+   "content_type": "SCIENTIFIC ABSTR",
+   "title": "SCIENTIFIC ABSTRACT FR:MALCHENKO, V.I.    TO:MALC, A.",
+   "pages": 5,
+   "pdf_url": "https://www.cia.gov/readingroom/docs/cia-rdp86-00513r001031700017-6.pdf"
+  },
+  {
+   "doc_id": "CIA-RDP86-00513R001134700047-6",
+   "stratum": "sci",
+   "collection": "Scientific Abstracts",
+   "content_type": "SCIENTIFIC ABSTR",
+   "title": "SCIENTIFIC ABSTRACT FR:MISHUSTIN, Y.N.    TO:MISHUSTIN, Y.N.",
+   "pages": 4,
+   "pdf_url": "https://www.cia.gov/readingroom/docs/cia-rdp86-00513r001134700047-6.pdf"
+  },
+  {
+   "doc_id": "CIA-RDP86-00513R001134700010-6",
+   "stratum": "sci",
+   "collection": "Scientific Abstracts",
+   "content_type": "SCIENTIFIC ABSTR",
+   "title": "SCIENTIFIC ABSTRACT FR:MITROPOLSKIY, Y.A.    TO:GEYRO, S.B.",
+   "pages": 2,
+   "pdf_url": "https://www.cia.gov/readingroom/docs/cia-rdp86-00513r001134700010-6.pdf"
+  },
+  {
+   "doc_id": "CIA-RDP86-00513R000204800004-6",
+   "stratum": "sci",
+   "collection": "Scientific Abstracts",
+   "content_type": "SCIENTIFIC ABSTR",
+   "title": "SCIENTIFIC ABSTRACT FR:BEREZMAN, R.I.    TO:BEREZKIN, Y.I.",
+   "pages": 3,
+   "pdf_url": "https://www.cia.gov/readingroom/docs/cia-rdp86-00513r000204800004-6.pdf"
+  },
+  {
+   "doc_id": "CIA-RDP86-00513R000616900001-6",
+   "stratum": "sci",
+   "collection": "Scientific Abstracts",
+   "content_type": "SCIENTIFIC ABSTR",
+   "title": "SCIENTIFIC ABSTRACT FR:GRITSYUTA, I.Y.    TO:GRISTMAN, Y.Y.",
+   "pages": 10,
+   "pdf_url": "https://www.cia.gov/readingroom/docs/cia-rdp86-00513r000616900001-6.pdf"
+  },
+  {
+   "doc_id": "CIA-RDP86-00513R001134700024-6",
+   "stratum": "sci",
+   "collection": "Scientific Abstracts",
+   "content_type": "SCIENTIFIC ABSTR",
+   "title": "SCIENTIFIC ABSTRACT FR:MITREGA, J.    TO:MITRA, S.K.",
+   "pages": 1,
+   "pdf_url": "https://www.cia.gov/readingroom/docs/cia-rdp86-00513r001134700024-6.pdf"
+  },
+  {
+   "doc_id": "CIA-RDP86-00513R000617800019-6",
+   "stratum": "sci",
+   "collection": "Scientific Abstracts",
+   "content_type": "SCIENTIFIC ABSTR",
+   "title": "SCIENTIFIC ABSTRACT FR:HALEK, A.    TO:HALASZ, Z.",
+   "pages": 1,
+   "pdf_url": "https://www.cia.gov/readingroom/docs/cia-rdp86-00513r000617800019-6.pdf"
+  },
+  {
+   "doc_id": "CIA-RDP86-00513R001031700021-6",
+   "stratum": "sci",
+   "collection": "Scientific Abstracts",
+   "content_type": "SCIENTIFIC ABSTR",
+   "title": "SCIENTIFIC ABSTRACT FR:MALASHENKO, L.P.    TO:MALANOWSKA, J.",
+   "pages": 7,
+   "pdf_url": "https://www.cia.gov/readingroom/docs/cia-rdp86-00513r001031700021-6.pdf"
+  },
+  {
+   "doc_id": "CIA-RDP86-00513R000204400001-6",
+   "stratum": "sci",
+   "collection": "Scientific Abstracts",
+   "content_type": "SCIENTIFIC ABSTR",
+   "title": "SCIENTIFIC ABSTRACT FR:BELOGUROV, K.    TO:BELOHORSKY, B.",
+   "pages": 4,
+   "pdf_url": "https://www.cia.gov/readingroom/docs/cia-rdp86-00513r000204400001-6.pdf"
+  },
+  {
+   "doc_id": "CIA-RDP86-00513R001341200005-6",
+   "stratum": "sci",
+   "collection": "Scientific Abstracts",
+   "content_type": "SCIENTIFIC ABSTR",
+   "title": "SCIENTIFIC ABSTRACT FR:PLESNIK, J.    TO:PLESKOV, Y.V.",
+   "pages": 1,
+   "pdf_url": "https://www.cia.gov/readingroom/docs/cia-rdp86-00513r001341200005-6.pdf"
+  },
+  {
+   "doc_id": "CIA-RDP96-00789R002600200002-0",
+   "stratum": "stargate",
+   "collection": "STARGATE",
+   "content_type": "MEMO",
+   "title": "REQUEST FOR PROJECT NICKNAME",
+   "pages": 1,
+   "pdf_url": "https://www.cia.gov/readingroom/docs/cia-rdp96-00789r002600200002-0.pdf"
+  },
+  {
+   "doc_id": "CIA-RDP96-00789R000800120001-0",
+   "stratum": "stargate",
+   "collection": "STARGATE",
+   "content_type": "REPORT",
+   "title": "SUN STREAK REPORT -9037",
+   "pages": 2,
+   "pdf_url": "https://www.cia.gov/readingroom/docs/cia-rdp96-00789r000800120001-0.pdf"
+  },
+  {
+   "doc_id": "CIA-RDP96-00789R002301300001-2",
+   "stratum": "stargate",
+   "collection": "STARGATE",
+   "content_type": "NOTES",
+   "title": "SESSION INFORMATION. TASK/TARGET NO: 92-48-L. SESSION NO: 01. SOURCE NO: 025",
+   "pages": 4,
+   "pdf_url": "https://www.cia.gov/readingroom/docs/cia-rdp96-00789r002301300001-2.pdf"
+  },
+  {
+   "doc_id": "CIA-RDP96-00789R002600060002-6",
+   "stratum": "stargate",
+   "collection": "STARGATE",
+   "content_type": "LETTER",
+   "title": "LETTER TO COMMANDER GEORGE FLANIGAN, USCG",
+   "pages": 2,
+   "pdf_url": "https://www.cia.gov/readingroom/docs/cia-rdp96-00789r002600060002-6.pdf"
+  },
+  {
+   "doc_id": "CIA-RDP96-00788R000700210004-9",
+   "stratum": "stargate",
+   "collection": "STARGATE",
+   "content_type": "FORM",
+   "title": "FINAL PROJECT EVALUATION FORM",
+   "pages": 2,
+   "pdf_url": "https://www.cia.gov/readingroom/docs/cia-rdp96-00788r000700210004-9.pdf"
+  },
+  {
+   "doc_id": "CIA-RDP96-00789R003000400010-4",
+   "stratum": "stargate",
+   "collection": "STARGATE",
+   "content_type": "FORM",
+   "title": "DIA FORM 520 PURCHASE REQUEST",
+   "pages": 12,
+   "pdf_url": "https://www.cia.gov/readingroom/docs/cia-rdp96-00789r003000400010-4.pdf"
+  },
+  {
+   "doc_id": "CIA-RDP96-00789R002500040012-8",
+   "stratum": "stargate",
+   "collection": "STARGATE",
+   "content_type": "LETTER",
+   "title": "STAR GATE PROJECT 94-280-0",
+   "pages": 1,
+   "pdf_url": "https://www.cia.gov/readingroom/docs/cia-rdp96-00789r002500040012-8.pdf"
+  },
+  {
+   "doc_id": "CIA-RDP96-00789R003200130001-2",
+   "stratum": "stargate",
+   "collection": "STARGATE",
+   "content_type": "LIST",
+   "title": "SCIENTIFIC OVERSIGHT COMMITTEE",
+   "pages": 3,
+   "pdf_url": "https://www.cia.gov/readingroom/docs/cia-rdp96-00789r003200130001-2.pdf"
+  },
+  {
+   "doc_id": "CIA-RDP96-00791R000200190032-2",
+   "stratum": "stargate",
+   "collection": "STARGATE",
+   "content_type": "NOTES",
+   "title": "SURVEY BACKGROUND; QUESTIONS REGARDING USE OF REMOTE VIEWING",
+   "pages": 2,
+   "pdf_url": "https://www.cia.gov/readingroom/docs/cia-rdp96-00791r000200190032-2.pdf"
+  },
+  {
+   "doc_id": "CIA-RDP96-00789R001600510001-8",
+   "stratum": "stargate",
+   "collection": "STARGATE",
+   "content_type": "REQ",
+   "title": "PROJECT SUN STREAK. PROJECT 5280. VIEWER ID: 095. CRV",
+   "pages": 12,
+   "pdf_url": "https://www.cia.gov/readingroom/docs/cia-rdp96-00789r001600510001-8.pdf"
+  },
+  {
+   "doc_id": "CIA-RDP96-00789R000500040016-6",
+   "stratum": "stargate",
+   "collection": "STARGATE",
+   "content_type": "SUMMARY",
+   "title": "SUMMARY OF INFORMATION",
+   "pages": 2,
+   "pdf_url": "https://www.cia.gov/readingroom/docs/cia-rdp96-00789r000500040016-6.pdf"
+  },
+  {
+   "doc_id": "CIA-RDP96-00789R003400010003-1",
+   "stratum": "stargate",
+   "collection": "STARGATE",
+   "content_type": "HW",
+   "title": "DRAWING FROM RV SESSION. VIEWER 079",
+   "pages": 1,
+   "pdf_url": "https://www.cia.gov/readingroom/docs/cia-rdp96-00789r003400010003-1.pdf"
+  },
+  {
+   "doc_id": "CIA-RDP96-00789R002301100001-4",
+   "stratum": "stargate",
+   "collection": "STARGATE",
+   "content_type": "NOTES",
+   "title": "SESSION INFORMATION: TASK/TARGET NO: DG-35. RV-079",
+   "pages": 3,
+   "pdf_url": "https://www.cia.gov/readingroom/docs/cia-rdp96-00789r002301100001-4.pdf"
+  },
+  {
+   "doc_id": "CIA-RDP96-00789R001100730002-8",
+   "stratum": "stargate",
+   "collection": "STARGATE",
+   "content_type": "REQ",
+   "title": "TASKER JT4-082-90",
+   "pages": 2,
+   "pdf_url": "https://www.cia.gov/readingroom/docs/cia-rdp96-00789r001100730002-8.pdf"
+  },
+  {
+   "doc_id": "CIA-RDP96-00789R003500970001-7",
+   "stratum": "stargate",
+   "collection": "STARGATE",
+   "content_type": "REQ",
+   "title": "PROJECT NUMBER:  8925.  SESSION NUMBER: 01, SOLO,  VIEWER: 011",
+   "pages": 5,
+   "pdf_url": "https://www.cia.gov/readingroom/docs/cia-rdp96-00789r003500970001-7.pdf"
+  },
+  {
+   "doc_id": "CIA-RDP96-00789R001500100001-4",
+   "stratum": "stargate",
+   "collection": "STARGATE",
+   "content_type": "FORM",
+   "title": "REMOTE VIEWING TRAINING SESSION, RV-018",
+   "pages": 6,
+   "pdf_url": "https://www.cia.gov/readingroom/docs/cia-rdp96-00789r001500100001-4.pdf"
+  },
+  {
+   "doc_id": "CIA-RDP96-00789R001400720001-7",
+   "stratum": "stargate",
+   "collection": "STARGATE",
+   "content_type": "REQ",
+   "title": "PROJECT SUN STREAK. PROJECT 8958. VIEWER IDENTIFIER: 025. WRV",
+   "pages": 2,
+   "pdf_url": "https://www.cia.gov/readingroom/docs/cia-rdp96-00789r001400720001-7.pdf"
+  },
+  {
+   "doc_id": "CIA-RDP96-00789R003500170004-2",
+   "stratum": "stargate",
+   "collection": "STARGATE",
+   "content_type": "REQ",
+   "title": "PROJECT 8907",
+   "pages": 1,
+   "pdf_url": "https://www.cia.gov/readingroom/docs/cia-rdp96-00789r003500170004-2.pdf"
+  },
+  {
+   "doc_id": "CIA-RDP96-00789R002500190017-7",
+   "stratum": "stargate",
+   "collection": "STARGATE",
+   "content_type": "SUMMARY",
+   "title": "DATA SUMMARIES",
+   "pages": 7,
+   "pdf_url": "https://www.cia.gov/readingroom/docs/cia-rdp96-00789r002500190017-7.pdf"
+  },
+  {
+   "doc_id": "CIA-RDP96-00788R000600970010-0",
+   "stratum": "stargate",
+   "collection": "STARGATE",
+   "content_type": "HW",
+   "title": "HANDWRITTEN NOTE",
+   "pages": 2,
+   "pdf_url": "https://www.cia.gov/readingroom/docs/cia-rdp96-00788r000600970010-0.pdf"
+  },
+  {
+   "doc_id": "CIA-RDP96-00789R001800130001-8",
+   "stratum": "stargate",
+   "collection": "STARGATE",
+   "content_type": "REQ",
+   "title": "WORKING PAPER - TASKER FOR RV-025",
+   "pages": 1,
+   "pdf_url": "https://www.cia.gov/readingroom/docs/cia-rdp96-00789r001800130001-8.pdf"
+  },
+  {
+   "doc_id": "CIA-RDP96-00789R002500010031-0",
+   "stratum": "stargate",
+   "collection": "STARGATE",
+   "content_type": "SUMMARY",
+   "title": "DATA SUMMARIES PROJECT 94-275-0 PHASE II",
+   "pages": 3,
+   "pdf_url": "https://www.cia.gov/readingroom/docs/cia-rdp96-00789r002500010031-0.pdf"
+  },
+  {
+   "doc_id": "CIA-RDP96-00789R000300760002-4",
+   "stratum": "stargate",
+   "collection": "STARGATE",
+   "content_type": "HW",
+   "title": "DRAWINGS  FROM REMOTE VIEWING SESSION, VIEWER 079",
+   "pages": 9,
+   "pdf_url": "https://www.cia.gov/readingroom/docs/cia-rdp96-00789r000300760002-4.pdf"
+  },
+  {
+   "doc_id": "CIA-RDP96-00789R003400970001-8",
+   "stratum": "stargate",
+   "collection": "STARGATE",
+   "content_type": "REQ",
+   "title": "RV SESSION REPORT.  PROJECT NUMBER:  8808.  SESSION NUMBER: 2.  CRV.  VIEWER IDENTIFIER:  003",
+   "pages": 3,
+   "pdf_url": "https://www.cia.gov/readingroom/docs/cia-rdp96-00789r003400970001-8.pdf"
+  },
+  {
+   "doc_id": "CIA-RDP96-00789R001000330001-4",
+   "stratum": "stargate",
+   "collection": "STARGATE",
+   "content_type": "REQ",
+   "title": "SCHEDULE PROTOCOL",
+   "pages": 1,
+   "pdf_url": "https://www.cia.gov/readingroom/docs/cia-rdp96-00789r001000330001-4.pdf"
+  },
+  {
+   "doc_id": "CIA-RDP96-00789R002300130001-2",
+   "stratum": "stargate",
+   "collection": "STARGATE",
+   "content_type": "NOTES",
+   "title": "SESSION INFORMATION. TASK/TARGET NO: 92-138-P. SESSION NO: 01. RV-079",
+   "pages": 2,
+   "pdf_url": "https://www.cia.gov/readingroom/docs/cia-rdp96-00789r002300130001-2.pdf"
+  },
+  {
+   "doc_id": "CIA-RDP96-00792R000100120012-1",
+   "stratum": "stargate",
+   "collection": "STARGATE",
+   "content_type": "MEMO",
+   "title": "LETTER TO DR. BILL SCHUL, PH.D.",
+   "pages": 1,
+   "pdf_url": "https://www.cia.gov/readingroom/docs/cia-rdp96-00792r000100120012-1.pdf"
+  },
+  {
+   "doc_id": "CIA-RDP96-00789R000500020010-4",
+   "stratum": "stargate",
+   "collection": "STARGATE",
+   "content_type": "SUMMARY",
+   "title": "SUMMARY OF INFORMATION",
+   "pages": 2,
+   "pdf_url": "https://www.cia.gov/readingroom/docs/cia-rdp96-00789r000500020010-4.pdf"
+  },
+  {
+   "doc_id": "CIA-RDP96-00789R000900410038-7",
+   "stratum": "stargate",
+   "collection": "STARGATE",
+   "content_type": "REQ",
+   "title": "PROJECT 9009, SESSION NUMBER: 1, CRV, VIEWER: 018",
+   "pages": 3,
+   "pdf_url": "https://www.cia.gov/readingroom/docs/cia-rdp96-00789r000900410038-7.pdf"
+  },
+  {
+   "doc_id": "CIA-RDP96-00789R002301570001-3",
+   "stratum": "stargate",
+   "collection": "STARGATE",
+   "content_type": "NOTES",
+   "title": "SESSION INFORMATION. TASK/TARGET NO: 92-33-L. SESSION NO: 01. RV-079",
+   "pages": 2,
+   "pdf_url": "https://www.cia.gov/readingroom/docs/cia-rdp96-00789r002301570001-3.pdf"
+  },
+  {
+   "doc_id": "CIA-RDP96-00787R000200080023-9",
+   "stratum": "stargate",
+   "collection": "STARGATE",
+   "content_type": "OPEN",
+   "title": "PRECOGNITIVE REMOTE VIEWING IN THE CHICAGO AREA: A REPLICATION OF THE STANFORD EXPERIMENT",
+   "pages": 8,
+   "pdf_url": "https://www.cia.gov/readingroom/docs/cia-rdp96-00787r000200080023-9.pdf"
+  },
+  {
+   "doc_id": "CIA-RDP96-00789R001600700001-7",
+   "stratum": "stargate",
+   "collection": "STARGATE",
+   "content_type": "FORM",
+   "title": "REMOTE VIEWING SESSION DATA. SITE # 5045. REMOTE VIEWER: 095",
+   "pages": 3,
+   "pdf_url": "https://www.cia.gov/readingroom/docs/cia-rdp96-00789r001600700001-7.pdf"
+  },
+  {
+   "doc_id": "CIA-RDP96-00792R000400260002-4",
+   "stratum": "stargate",
+   "collection": "STARGATE",
+   "content_type": "CABLE",
+   "title": "PLA'S NEW 'RAPID REACTION UNIT' GIVES DEMONSTRATION",
+   "pages": 2,
+   "pdf_url": "https://www.cia.gov/readingroom/docs/cia-rdp96-00792r000400260002-4.pdf"
+  },
+  {
+   "doc_id": "CIA-RDP96-00789R002700030008-2",
+   "stratum": "stargate",
+   "collection": "STARGATE",
+   "content_type": "SUMMARY",
+   "title": "SESSION INFORMATION",
+   "pages": 5,
+   "pdf_url": "https://www.cia.gov/readingroom/docs/cia-rdp96-00789r002700030008-2.pdf"
+  },
+  {
+   "doc_id": "CIA-RDP96-00787R000200020004-6",
+   "stratum": "stargate",
+   "collection": "STARGATE",
+   "content_type": "HW",
+   "title": "HANDWRITTEN NOTE",
+   "pages": 1,
+   "pdf_url": "https://www.cia.gov/readingroom/docs/cia-rdp96-00787r000200020004-6.pdf"
+  },
+  {
+   "doc_id": "CIA-RDP96-00789R001401290001-4",
+   "stratum": "stargate",
+   "collection": "STARGATE",
+   "content_type": "REQ",
+   "title": "PROJECT SUN STREAK. PROJECT 8806. VIEWER IDENTIFIER: 025. WRV",
+   "pages": 6,
+   "pdf_url": "https://www.cia.gov/readingroom/docs/cia-rdp96-00789r001401290001-4.pdf"
+  },
+  {
+   "doc_id": "CIA-RDP96-00789R003900610001-2",
+   "stratum": "stargate",
+   "collection": "STARGATE",
+   "content_type": "SUMMARY",
+   "title": "PROJECT 93-180-P SESSION INFORMATION",
+   "pages": 4,
+   "pdf_url": "https://www.cia.gov/readingroom/docs/cia-rdp96-00789r003900610001-2.pdf"
+  },
+  {
+   "doc_id": "CIA-RDP96-00789R002500210005-7",
+   "stratum": "stargate",
+   "collection": "STARGATE",
+   "content_type": "NOTES",
+   "title": "PROJECT EVALUATION FEEDBACK 95-282-0",
+   "pages": 2,
+   "pdf_url": "https://www.cia.gov/readingroom/docs/cia-rdp96-00789r002500210005-7.pdf"
+  },
+  {
+   "doc_id": "CIA-RDP79-00999A000400040013-3",
+   "stratum": "stargate",
+   "collection": "STARGATE",
+   "content_type": "SUMMARY",
+   "title": "TAPE  N  TEXT EDITOR AND DRILL PRESS BEACON/RUSSELL TARG;  VIEWER HELLA HAMMID",
+   "pages": 1,
+   "pdf_url": "https://www.cia.gov/readingroom/docs/cia-rdp79-00999a000400040013-3.pdf"
+  },
+  {
+   "doc_id": "CIA-RDP96-00789R001100030021-4",
+   "stratum": "stargate",
+   "collection": "STARGATE",
+   "content_type": "REQ",
+   "title": "PROJECT D005. SESSION: 01. VIEWER: 095. SOLO",
+   "pages": 1,
+   "pdf_url": "https://www.cia.gov/readingroom/docs/cia-rdp96-00789r001100030021-4.pdf"
+  },
+  {
+   "doc_id": "CIA-RDP96-00788R002100300001-6",
+   "stratum": "stargate",
+   "collection": "STARGATE",
+   "content_type": "REPORT",
+   "title": "TRANSCRIPT REMOTE VIEWING (RV) SESSION CD-82",
+   "pages": 10,
+   "pdf_url": "https://www.cia.gov/readingroom/docs/cia-rdp96-00788r002100300001-6.pdf"
+  },
+  {
+   "doc_id": "CIA-RDP96-00789R003900890002-1",
+   "stratum": "stargate",
+   "collection": "STARGATE",
+   "content_type": "SUMMARY",
+   "title": "93-199-P SESSION INFORMATION",
+   "pages": 1,
+   "pdf_url": "https://www.cia.gov/readingroom/docs/cia-rdp96-00789r003900890002-1.pdf"
+  },
+  {
+   "doc_id": "CIA-RDP96-00789R000100240004-1",
+   "stratum": "stargate",
+   "collection": "STARGATE",
+   "content_type": "SUMMARY",
+   "title": "SUMMARY OF 8608 #2",
+   "pages": 1,
+   "pdf_url": "https://www.cia.gov/readingroom/docs/cia-rdp96-00789r000100240004-1.pdf"
+  },
+  {
+   "doc_id": "CIA-RDP96-00789R000600420001-9",
+   "stratum": "stargate",
+   "collection": "STARGATE",
+   "content_type": "REQ",
+   "title": "PROJECT NUMBER: 8828, SESSION NUMBER: 1, VIEWER: 079",
+   "pages": 10,
+   "pdf_url": "https://www.cia.gov/readingroom/docs/cia-rdp96-00789r000600420001-9.pdf"
+  },
+  {
+   "doc_id": "CIA-RDP96-00788R002000250043-7",
+   "stratum": "stargate",
+   "collection": "STARGATE",
+   "content_type": "BRIEF",
+   "title": "PROGRAM DEVELOPMENT",
+   "pages": 2,
+   "pdf_url": "https://www.cia.gov/readingroom/docs/cia-rdp96-00788r002000250043-7.pdf"
+  },
+  {
+   "doc_id": "CIA-RDP96-00788R002000250053-6",
+   "stratum": "stargate",
+   "collection": "STARGATE",
+   "content_type": "MFR",
+   "title": "INSCOM GRILL FLAME BRIEFING FOR DDO, CIA, 5 FEB 1980",
+   "pages": 1,
+   "pdf_url": "https://www.cia.gov/readingroom/docs/cia-rdp96-00788r002000250053-6.pdf"
+  },
+  {
+   "doc_id": "CIA-RDP96-00789R000900220008-1",
+   "stratum": "stargate",
+   "collection": "STARGATE",
+   "content_type": "NOTES",
+   "title": "9032 (TASKING)",
+   "pages": 6,
+   "pdf_url": "https://www.cia.gov/readingroom/docs/cia-rdp96-00789r000900220008-1.pdf"
+  },
+  {
+   "doc_id": "CIA-RDP96-00789R001000850001-7",
+   "stratum": "stargate",
+   "collection": "STARGATE",
+   "content_type": "HW",
+   "title": "EVALUATION RECORDS (PROJECT 92-115-P)",
+   "pages": 5,
+   "pdf_url": "https://www.cia.gov/readingroom/docs/cia-rdp96-00789r001000850001-7.pdf"
+  },
+  {
+   "doc_id": "CIA-RDP96-00789R000500100006-0",
+   "stratum": "stargate",
+   "collection": "STARGATE",
+   "content_type": "REQ",
+   "title": "8910-25 (W-6) SESSION 01, SOLO, VIEWER # 095",
+   "pages": 4,
+   "pdf_url": "https://www.cia.gov/readingroom/docs/cia-rdp96-00789r000500100006-0.pdf"
+  },
+  {
+   "doc_id": "CIA-RDP96-00789R000900060002-5",
+   "stratum": "stargate",
+   "collection": "STARGATE",
+   "content_type": "REPORT",
+   "title": "SUN STREAK REPORT - 9047",
+   "pages": 1,
+   "pdf_url": "https://www.cia.gov/readingroom/docs/cia-rdp96-00789r000900060002-5.pdf"
+  },
+  {
+   "doc_id": "CIA-RDP96-00788R002100460009-1",
+   "stratum": "stargate",
+   "collection": "STARGATE",
+   "content_type": "HW",
+   "title": "QOM PRISON",
+   "pages": 1,
+   "pdf_url": "https://www.cia.gov/readingroom/docs/cia-rdp96-00788r002100460009-1.pdf"
+  },
+  {
+   "doc_id": "CIA-RDP96-00788R001500170012-6",
+   "stratum": "stargate",
+   "collection": "STARGATE",
+   "content_type": "MEMO",
+   "title": "FY 1989 STATEMENT OF WORK (SOW)",
+   "pages": 2,
+   "pdf_url": "https://www.cia.gov/readingroom/docs/cia-rdp96-00788r001500170012-6.pdf"
+  },
+  {
+   "doc_id": "CIA-RDP96-00789R000301310002-2",
+   "stratum": "stargate",
+   "collection": "STARGATE",
+   "content_type": "REPORT",
+   "title": "PROJECT NUMBER: 8804, SESSION NUMBER: 3, VIEWER IDENTIFIER: 095",
+   "pages": 1,
+   "pdf_url": "https://www.cia.gov/readingroom/docs/cia-rdp96-00789r000301310002-2.pdf"
+  },
+  {
+   "doc_id": "CIA-RDP96-00789R003300350005-3",
+   "stratum": "stargate",
+   "collection": "STARGATE",
+   "content_type": "HW",
+   "title": "CONCEPTUAL/GENERIC",
+   "pages": 2,
+   "pdf_url": "https://www.cia.gov/readingroom/docs/cia-rdp96-00789r003300350005-3.pdf"
+  },
+  {
+   "doc_id": "CIA-RDP96-00789R003700830004-7",
+   "stratum": "stargate",
+   "collection": "STARGATE",
+   "content_type": "REQ",
+   "title": "PROJECT NUMBER: 8728 SESSION: 3 VIEWER: 011",
+   "pages": 2,
+   "pdf_url": "https://www.cia.gov/readingroom/docs/cia-rdp96-00789r003700830004-7.pdf"
+  },
+  {
+   "doc_id": "CIA-RDP96-00789R002000740004-5",
+   "stratum": "stargate",
+   "collection": "STARGATE",
+   "content_type": "SUMMARY",
+   "title": "SRV ENVELOPE 15 JANUARY 1987",
+   "pages": 2,
+   "pdf_url": "https://www.cia.gov/readingroom/docs/cia-rdp96-00789r002000740004-5.pdf"
+  },
+  {
+   "doc_id": "CIA-RDP79-00999A000200010059-1",
+   "stratum": "stargate",
+   "collection": "STARGATE",
+   "content_type": "LETTER",
+   "title": "LETTER TO KEN KRESS FROM H. E. PUTHOFF",
+   "pages": 1,
+   "pdf_url": "https://www.cia.gov/readingroom/docs/cia-rdp79-00999a000200010059-1.pdf"
+  },
+  {
+   "doc_id": "CIA-RDP96-00789R002800150002-4",
+   "stratum": "stargate",
+   "collection": "STARGATE",
+   "content_type": "LETTER",
+   "title": "STAR GATE PROJECT (94-277-0)",
+   "pages": 1,
+   "pdf_url": "https://www.cia.gov/readingroom/docs/cia-rdp96-00789r002800150002-4.pdf"
+  },
+  {
+   "doc_id": "CIA-RDP96-00789R003500390001-1",
+   "stratum": "stargate",
+   "collection": "STARGATE",
+   "content_type": "REQ",
+   "title": "PROJECT 8908 SESSION NUMBER: 01 CRV VIEWER: 011",
+   "pages": 7,
+   "pdf_url": "https://www.cia.gov/readingroom/docs/cia-rdp96-00789r003500390001-1.pdf"
+  },
+  {
+   "doc_id": "CIA-RDP96-00789R001100360002-9",
+   "stratum": "stargate",
+   "collection": "STARGATE",
+   "content_type": "HW",
+   "title": "VIEWER NOTES AND DRAWINGS FROM RV SESSION.",
+   "pages": 2,
+   "pdf_url": "https://www.cia.gov/readingroom/docs/cia-rdp96-00789r001100360002-9.pdf"
+  },
+  {
+   "doc_id": "CIA-RDP96-00789R003100180001-8",
+   "stratum": "stargate",
+   "collection": "STARGATE",
+   "content_type": "RP",
+   "title": "PHENOMENOLOGICAL RESEARCH AND ANALYSIS (PERIODIC STATUS REPORT COVERING 3/31/92-6/09/92)",
+   "pages": 6,
+   "pdf_url": "https://www.cia.gov/readingroom/docs/cia-rdp96-00789r003100180001-8.pdf"
+  },
+  {
+   "doc_id": "CIA-RDP96-00789R003600510002-5",
+   "stratum": "stargate",
+   "collection": "STARGATE",
+   "content_type": "SUMMARY",
+   "title": "91003 F.O.W. SESSION 01, ERV, RV 025",
+   "pages": 1,
+   "pdf_url": "https://www.cia.gov/readingroom/docs/cia-rdp96-00789r003600510002-5.pdf"
+  },
+  {
+   "doc_id": "CIA-RDP79-00999A000200010021-2",
+   "stratum": "stargate",
+   "collection": "STARGATE",
+   "content_type": "OPEN SOURCE",
+   "title": "PARANORMAL SCIENCE",
+   "pages": 2,
+   "pdf_url": "https://www.cia.gov/readingroom/docs/cia-rdp79-00999a000200010021-2.pdf"
+  },
+  {
+   "doc_id": "CIA-RDP96-00792R000500090002-2",
+   "stratum": "stargate",
+   "collection": "STARGATE",
+   "content_type": "NOTES",
+   "title": "METHOD OF GENERAL ELECTRO-ANAESTHESIA - USING INCREASING DC CURRENT, THEN WITH SERIES OF IMPULSES OF SMOOTHLY INCREASING AMPLITUDE",
+   "pages": 5,
+   "pdf_url": "https://www.cia.gov/readingroom/docs/cia-rdp96-00792r000500090002-2.pdf"
+  },
+  {
+   "doc_id": "CIA-RDP96-00789R002301930001-3",
+   "stratum": "stargate",
+   "collection": "STARGATE",
+   "content_type": "NOTES",
+   "title": "SESSION INFORMATION. TASK/TARGET NO: 92-23-C. SESSION NO: 01. SOURCE NO: 049",
+   "pages": 7,
+   "pdf_url": "https://www.cia.gov/readingroom/docs/cia-rdp96-00789r002301930001-3.pdf"
+  },
+  {
+   "doc_id": "CIA-RDP96-00789R000700570001-2",
+   "stratum": "stargate",
+   "collection": "STARGATE",
+   "content_type": "REQ",
+   "title": "9006  SESSION 02, SOLO, VIEWER #003",
+   "pages": 9,
+   "pdf_url": "https://www.cia.gov/readingroom/docs/cia-rdp96-00789r000700570001-2.pdf"
+  },
+  {
+   "doc_id": "CIA-RDP96-00789R001700450015-9",
+   "stratum": "stargate",
+   "collection": "STARGATE",
+   "content_type": "FORM",
+   "title": "REMOTE VIEWING SESSION DATA",
+   "pages": 2,
+   "pdf_url": "https://www.cia.gov/readingroom/docs/cia-rdp96-00789r001700450015-9.pdf"
+  },
+  {
+   "doc_id": "CIA-RDP96-00789R003900110001-7",
+   "stratum": "stargate",
+   "collection": "STARGATE",
+   "content_type": "SUMMARY",
+   "title": "PROJECT 93-167-P SESSION INFORMATION",
+   "pages": 8,
+   "pdf_url": "https://www.cia.gov/readingroom/docs/cia-rdp96-00789r003900110001-7.pdf"
+  },
+  {
+   "doc_id": "CIA-RDP96-00789R003800020003-6",
+   "stratum": "stargate",
+   "collection": "STARGATE",
+   "content_type": "HW",
+   "title": "HANDWRITTEN NOTE",
+   "pages": 4,
+   "pdf_url": "https://www.cia.gov/readingroom/docs/cia-rdp96-00789r003800020003-6.pdf"
+  },
+  {
+   "doc_id": "CIA-RDP96-00789R003400310002-9",
+   "stratum": "stargate",
+   "collection": "STARGATE",
+   "content_type": "HW",
+   "title": "ANNOTATED DRAWINGS FROM RV SESSION. VIEWER 079",
+   "pages": 3,
+   "pdf_url": "https://www.cia.gov/readingroom/docs/cia-rdp96-00789r003400310002-9.pdf"
+  },
+  {
+   "doc_id": "CIA-RDP96-00788R001900050003-5",
+   "stratum": "stargate",
+   "collection": "STARGATE",
+   "content_type": "FORM",
+   "title": "CLASSIFIED DOCUMENT ACCOUNTABILITY RECORD",
+   "pages": 1,
+   "pdf_url": "https://www.cia.gov/readingroom/docs/cia-rdp96-00788r001900050003-5.pdf"
+  },
+  {
+   "doc_id": "CIA-RDP96-00788R000400030002-4",
+   "stratum": "stargate",
+   "collection": "STARGATE",
+   "content_type": "SUMMARY",
+   "title": "TABULAR FORMAT LOG/SUMMARY AND ANALYSIS RV SESSION CD-78. VIEWER 008. DATE 3 JUL 80.",
+   "pages": 2,
+   "pdf_url": "https://www.cia.gov/readingroom/docs/cia-rdp96-00788r000400030002-4.pdf"
+  },
+  {
+   "doc_id": "CIA-RDP96-00789R002500030011-0",
+   "stratum": "stargate",
+   "collection": "STARGATE",
+   "content_type": "SUMMARY",
+   "title": "SUMMARY OF INFORMATION VIEWER 079",
+   "pages": 1,
+   "pdf_url": "https://www.cia.gov/readingroom/docs/cia-rdp96-00789r002500030011-0.pdf"
+  },
+  {
+   "doc_id": "CIA-RDP96-00789R002400090001-6",
+   "stratum": "stargate",
+   "collection": "STARGATE",
+   "content_type": "REQ",
+   "title": "SESSION INFORMATION",
+   "pages": 3,
+   "pdf_url": "https://www.cia.gov/readingroom/docs/cia-rdp96-00789r002400090001-6.pdf"
+  },
+  {
+   "doc_id": "CIA-RDP96-00788R001500120006-8",
+   "stratum": "stargate",
+   "collection": "STARGATE",
+   "content_type": "LETTER",
+   "title": "DESIGNATION OF CONTRACTING OFFICER`S REPRESENTATIVE CONTRACT # DAKF27-83-C-0018 (SRI INTERNATIONAL)",
+   "pages": 4,
+   "pdf_url": "https://www.cia.gov/readingroom/docs/cia-rdp96-00788r001500120006-8.pdf"
+  },
+  {
+   "doc_id": "CIA-RDP96-00789R000500030011-2",
+   "stratum": "stargate",
+   "collection": "STARGATE",
+   "content_type": "SUMMARY",
+   "title": "SUMMARY OF INFORMATION",
+   "pages": 3,
+   "pdf_url": "https://www.cia.gov/readingroom/docs/cia-rdp96-00789r000500030011-2.pdf"
+  },
+  {
+   "doc_id": "CIA-RDP96-00788R002100450002-9",
+   "stratum": "stargate",
+   "collection": "STARGATE",
+   "content_type": "NSPR",
+   "title": "THE WASHINGTON STAR",
+   "pages": 1,
+   "pdf_url": "https://www.cia.gov/readingroom/docs/cia-rdp96-00788r002100450002-9.pdf"
+  },
+  {
+   "doc_id": "CIA-RDP96-00789R002000290003-6",
+   "stratum": "stargate",
+   "collection": "STARGATE",
+   "content_type": "HW",
+   "title": "RV SESSION NOTES",
+   "pages": 3,
+   "pdf_url": "https://www.cia.gov/readingroom/docs/cia-rdp96-00789r002000290003-6.pdf"
+  },
+  {
+   "doc_id": "CIA-RDP96-00788R000500080001-9",
+   "stratum": "stargate",
+   "collection": "STARGATE",
+   "content_type": "HW",
+   "title": "PROJECT 8035 TARGETING DATA",
+   "pages": 2,
+   "pdf_url": "https://www.cia.gov/readingroom/docs/cia-rdp96-00788r000500080001-9.pdf"
+  },
+  {
+   "doc_id": "CIA-RDP96-00789R002500010024-8",
+   "stratum": "stargate",
+   "collection": "STARGATE",
+   "content_type": "SUMMARY",
+   "title": "SESSION INFORMATION TARGET PROJECT 94-275-0 PHASE V SESSION NUMBER 01 VIEWER 079/C METHOD WRV/ERV",
+   "pages": 3,
+   "pdf_url": "https://www.cia.gov/readingroom/docs/cia-rdp96-00789r002500010024-8.pdf"
+  },
+  {
+   "doc_id": "CIA-RDP96-00789R001900800003-1",
+   "stratum": "stargate",
+   "collection": "STARGATE",
+   "content_type": "HW",
+   "title": "RV SESSION NOTES AND DRAWINGS. VIEWER RV-099",
+   "pages": 5,
+   "pdf_url": "https://www.cia.gov/readingroom/docs/cia-rdp96-00789r001900800003-1.pdf"
+  },
+  {
+   "doc_id": "CIA-RDP96-00789R001001960012-2",
+   "stratum": "stargate",
+   "collection": "STARGATE",
+   "content_type": "REQ",
+   "title": "TASKING SHEET",
+   "pages": 2,
+   "pdf_url": "https://www.cia.gov/readingroom/docs/cia-rdp96-00789r001001960012-2.pdf"
+  },
+  {
+   "doc_id": "CIA-RDP96-00788R002000090003-9",
+   "stratum": "stargate",
+   "collection": "STARGATE",
+   "content_type": "MF",
+   "title": "GRILL FLAME INDOCTRINATION",
+   "pages": 1,
+   "pdf_url": "https://www.cia.gov/readingroom/docs/cia-rdp96-00788r002000090003-9.pdf"
+  },
+  {
+   "doc_id": "CIA-RDP96-00789R000900060001-6",
+   "stratum": "stargate",
+   "collection": "STARGATE",
+   "content_type": "REQ",
+   "title": "PROJECT NUMBER: 9047, SESSION NUMBER: 01, SOLO, VIEWER: 018",
+   "pages": 11,
+   "pdf_url": "https://www.cia.gov/readingroom/docs/cia-rdp96-00789r000900060001-6.pdf"
+  },
+  {
+   "doc_id": "CIA-RDP96-00789R001700490018-2",
+   "stratum": "stargate",
+   "collection": "STARGATE",
+   "content_type": "REQ",
+   "title": "PROJECT 5120, SESSION NUMBER: 01, VIEWER: 011",
+   "pages": 11,
+   "pdf_url": "https://www.cia.gov/readingroom/docs/cia-rdp96-00789r001700490018-2.pdf"
+  },
+  {
+   "doc_id": "CIA-RDP96-00789R003300440001-7",
+   "stratum": "stargate",
+   "collection": "STARGATE",
+   "content_type": "HW",
+   "title": "CONCEPTUAL/GENERIC KEY ELEMENT VALUE",
+   "pages": 4,
+   "pdf_url": "https://www.cia.gov/readingroom/docs/cia-rdp96-00789r003300440001-7.pdf"
+  },
+  {
+   "doc_id": "CIA-RDP96-00788R001200010029-8",
+   "stratum": "stargate",
+   "collection": "STARGATE",
+   "content_type": "CONT",
+   "title": "GRILL FLAME SECURITY AGREEMENT",
+   "pages": 2,
+   "pdf_url": "https://www.cia.gov/readingroom/docs/cia-rdp96-00788r001200010029-8.pdf"
+  },
+  {
+   "doc_id": "CIA-RDP96-00789R001001990005-7",
+   "stratum": "stargate",
+   "collection": "STARGATE",
+   "content_type": "REQ",
+   "title": "SESSION INFORMATION",
+   "pages": 1,
+   "pdf_url": "https://www.cia.gov/readingroom/docs/cia-rdp96-00789r001001990005-7.pdf"
+  },
+  {
+   "doc_id": "CIA-RDP96-00789R000200100002-7",
+   "stratum": "stargate",
+   "collection": "STARGATE",
+   "content_type": "SUMMARY",
+   "title": "SUN STREAK, (RV) SUMMARY, PROJECT 'FREE FLIGHT' 8712C, VIEWER 079",
+   "pages": 1,
+   "pdf_url": "https://www.cia.gov/readingroom/docs/cia-rdp96-00789r000200100002-7.pdf"
+  },
+  {
+   "doc_id": "CIA-RDP96-00789R001700370001-3",
+   "stratum": "stargate",
+   "collection": "STARGATE",
+   "content_type": "HW",
+   "title": "REMOTE VIEWING SESSION, TRAINING",
+   "pages": 7,
+   "pdf_url": "https://www.cia.gov/readingroom/docs/cia-rdp96-00789r001700370001-3.pdf"
+  }
+ ]
+}

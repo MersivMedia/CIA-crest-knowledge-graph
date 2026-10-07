@@ -1,0 +1,135 @@
+{
+ "readers": {
+  "2b": {
+   "valid_frac": 0.239,
+   "runaway_frac": 0.761,
+   "out_tok_per_valid_page": 919,
+   "in_tok_per_page": 2980,
+   "steady_gen_tok_s_median": 857.7,
+   "n_saturated_intervals": 107,
+   "median_running_seqs": 20,
+   "measured_pages_per_s_whole_run": 0.143,
+   "wall_s": 1229.1,
+   "cap8000": {
+    "tok_per_page": 6310,
+    "pages_per_s": 0.136,
+    "gpu_h": 28672,
+    "4090_community": 9748,
+    "4090_secure": 21217
+   },
+   "cap4000": {
+    "tok_per_page": 3265,
+    "pages_per_s": 0.263,
+    "gpu_h": 14834,
+    "4090_community": 5044,
+    "4090_secure": 10977
+   },
+   "cap3000": {
+    "tok_per_page": 2503,
+    "pages_per_s": 0.343,
+    "gpu_h": 11375,
+    "4090_community": 3867,
+    "4090_secure": 8417
+   },
+   "whole_run_rate": {
+    "gpu_h": 27253,
+    "4090_community": 9266,
+    "4090_secure": 20167
+   }
+  },
+  "4b": {
+   "valid_frac": 0.83,
+   "runaway_frac": 0.17,
+   "out_tok_per_valid_page": 512,
+   "in_tok_per_page": 2980,
+   "steady_gen_tok_s_median": 533.4,
+   "n_saturated_intervals": 45,
+   "median_running_seqs": 13,
+   "measured_pages_per_s_whole_run": 0.3,
+   "wall_s": 587.5,
+   "cap8000": {
+    "tok_per_page": 1788,
+    "pages_per_s": 0.298,
+    "gpu_h": 13065,
+    "4090_community": 4442,
+    "4090_secure": 9668
+   },
+   "cap4000": {
+    "tok_per_page": 1106,
+    "pages_per_s": 0.482,
+    "gpu_h": 8084,
+    "4090_community": 2748,
+    "4090_secure": 5982
+   },
+   "cap3000": {
+    "tok_per_page": 936,
+    "pages_per_s": 0.57,
+    "gpu_h": 6838,
+    "4090_community": 2325,
+    "4090_secure": 5060
+   },
+   "whole_run_rate": {
+    "gpu_h": 12991,
+    "4090_community": 4417,
+    "4090_secure": 9613
+   }
+  },
+  "8b": {
+   "valid_frac": 0.852,
+   "runaway_frac": 0.148,
+   "out_tok_per_valid_page": 1124,
+   "in_tok_per_page": 2980,
+   "steady_gen_tok_s_median": 544.4000000000001,
+   "n_saturated_intervals": 68,
+   "median_running_seqs": 13.0,
+   "measured_pages_per_s_whole_run": 0.241,
+   "wall_s": 730.0,
+   "cap8000": {
+    "tok_per_page": 2140,
+    "pages_per_s": 0.254,
+    "gpu_h": 15318,
+    "4090_community": 5208,
+    "4090_secure": 11335
+   },
+   "cap4000": {
+    "tok_per_page": 1549,
+    "pages_per_s": 0.352,
+    "gpu_h": 11087,
+    "4090_community": 3770,
+    "4090_secure": 8205
+   },
+   "cap3000": {
+    "tok_per_page": 1401,
+    "pages_per_s": 0.389,
+    "gpu_h": 10030,
+    "4090_community": 3410,
+    "4090_secure": 7422
+   },
+   "whole_run_rate": {
+    "gpu_h": 16171,
+    "4090_community": 5498,
+    "4090_secure": 11967
+   }
+  }
+ },
+ "embed": {
+  "text": {
+   "pages_per_s": 67.82,
+   "gpu_h": 57,
+   "4090_community": 20,
+   "4090_secure": 43
+  },
+  "image@280": {
+   "pages_per_s": 15.68,
+   "gpu_h": 249,
+   "4090_community": 85,
+   "4090_secure": 184
+  },
+  "interleaved@280": {
+   "pages_per_s": 17.37,
+   "gpu_h": 224,
+   "4090_community": 76,
+   "4090_secure": 166
+  }
+ }
+}

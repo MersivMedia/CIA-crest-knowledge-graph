@@ -1,0 +1,27 @@
+{
+ "ok": 146,
+ "invalid": 30,
+ "error": 0,
+ "in_tok": 524504,
+ "out_tok": 314726,
+ "finish": {
+  "stop": 146,
+  "length": 30
+ },
+ "ungrounded_pages": 8,
+ "pages": 176,
+ "wall_s": 587.5,
+ "pages_per_s": 0.3,
+ "concurrency": 48,
+ "model": "Qwen/Qwen3-VL-4B-Instruct",
+ "visual_types": {
+  "stamp": 249,
+  "handwriting": 61,
+  "redaction": 100,
+  "signature": 11,
+  "letterhead": 11,
+  "seal": 1,
+  "photograph": 1
+ },
+ "pages_with_visuals": 102
+}
