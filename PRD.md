@@ -422,6 +422,11 @@ figures above already include a 15% overhead; setup and egress are extra.
 test (~$3) shows a lower cost per page. The API is cheaper on paper, but it silently refuses parts of
 the archive.
 
+> **Update 2026-10-07 (sample 2, H100):** Qwen3.6-35B-A3B FP8 produced valid output on 99% of 215 new pages with the
+> fewest ungrounded names, at about the same cost per page as the 8B-on-4090 path (~$3,840–4,990 on H100 vs ~$3,410–3,770
+> on 4090s). The reader choice stays open until a manual accuracy check against page images. See
+> [`BENCHMARK_RESULTS.md`](BENCHMARK_RESULTS.md#sample-2-h100-newer-readers-2026-10-07).
+
 ## 5.3 Total
 
 | Line | Cost |

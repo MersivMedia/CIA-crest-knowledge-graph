@@ -28,7 +28,7 @@ def load_keys():
 def ingest(run_dir, run_id, images=None):
     os.makedirs(STORE, exist_ok=True); dst = os.path.join(RUNS, run_id); os.makedirs(dst, exist_ok=True)
     for f in glob.glob(os.path.join(run_dir, "*")):
-        if os.path.isfile(f) and not os.path.basename(f).startswith("pip"):     # pip logs are noise
+        if os.path.isfile(f) and not os.path.basename(f).startswith("pip") and not f.endswith(".tar"):  # pip logs are noise; image tars go to a release
             shutil.copy2(f, dst)
     keys = load_keys(); seen = set(json.load(open(SEEN))) if os.path.exists(SEEN) else set()
     added = 0
@@ -57,7 +57,13 @@ def ingest(run_dir, run_id, images=None):
     json.dump(sorted(seen), open(SEEN, "w"))
     if images:
         idir = os.path.join(STORE, "images"); os.makedirs(idir, exist_ok=True)
-        for f in glob.glob(os.path.join(images, "*.jpg")):
+        if images.endswith(".tar"):                       # accept the pod's page_images.tar directly
+            import tarfile, tempfile
+            tmp = tempfile.mkdtemp()
+            with tarfile.open(images) as t:
+                t.extractall(tmp, filter="data")
+            images = tmp
+        for f in glob.glob(os.path.join(images, "**", "*.jpg"), recursive=True):
             t = os.path.join(idir, os.path.basename(f))
             if not os.path.exists(t):
                 shutil.copy2(f, t)

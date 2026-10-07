@@ -1,0 +1,94 @@
+{
+ "q3vl8b_fp8": {
+  "n": 215,
+  "valid": 185,
+  "valid_frac": 0.86,
+  "wall": 121,
+  "pps": 1.777,
+  "out_tok_page": 1547,
+  "in_tok_page": 3005,
+  "ent_med": 9,
+  "vis_med": 4,
+  "ungrounded": 49,
+  "strata": {
+   "text": 49,
+   "nga": 33,
+   "sci": 69,
+   "stargate": 34
+  },
+  "method": "wall-clock pages/s over a ~80-120 s run (215 pages, concurrency 160); +15% overhead; low confidence",
+  "gpu_h": 2188,
+  "cost_h100_269": 5886,
+  "cost_h100_349": 7637,
+  "usd_per_1k_pages_269": 0.42
+ },
+ "q3vl8b_fp8_1mp": {
+  "n": 215,
+  "valid": 183,
+  "valid_frac": 0.851,
+  "wall": 89,
+  "pps": 2.416,
+  "out_tok_page": 1513,
+  "in_tok_page": 1910,
+  "ent_med": 9,
+  "vis_med": 4,
+  "ungrounded": 55,
+  "strata": {
+   "text": 53,
+   "nga": 29,
+   "sci": 70,
+   "stargate": 31
+  },
+  "method": "wall-clock pages/s over a ~80-120 s run (215 pages, concurrency 160); +15% overhead; low confidence",
+  "gpu_h": 1609,
+  "cost_h100_269": 4329,
+  "cost_h100_349": 5617,
+  "usd_per_1k_pages_269": 0.309
+ },
+ "q35_9b": {
+  "n": 215,
+  "valid": 206,
+  "valid_frac": 0.958,
+  "wall": 78,
+  "pps": 2.756,
+  "out_tok_page": 1334,
+  "in_tok_page": 3135,
+  "ent_med": 7.0,
+  "vis_med": 5.0,
+  "ungrounded": 85,
+  "strata": {
+   "text": 60,
+   "nga": 37,
+   "sci": 73,
+   "stargate": 36
+  },
+  "method": "wall-clock pages/s over a ~80-120 s run (215 pages, concurrency 160); +15% overhead; low confidence",
+  "gpu_h": 1411,
+  "cost_h100_269": 3795,
+  "cost_h100_349": 4924,
+  "usd_per_1k_pages_269": 0.271
+ },
+ "q36_35b_a3b": {
+  "n": 215,
+  "valid": 213,
+  "valid_frac": 0.991,
+  "wall": 79,
+  "pps": 2.722,
+  "out_tok_page": 1030,
+  "in_tok_page": 3135,
+  "ent_med": 7,
+  "vis_med": 4,
+  "ungrounded": 20,
+  "strata": {
+   "text": 62,
+   "nga": 40,
+   "sci": 75,
+   "stargate": 36
+  },
+  "method": "wall-clock pages/s over a ~80-120 s run (215 pages, concurrency 160); +15% overhead; low confidence",
+  "gpu_h": 1429,
+  "cost_h100_269": 3843,
+  "cost_h100_349": 4986,
+  "usd_per_1k_pages_269": 0.275
+ }
+}

@@ -1,0 +1,3 @@
+SKIP q3vl8b_fp8 (server did not start)
+SKIP q3vl8b_fp8_1mp (server did not start)
+SKIP q36_35b_a3b (server did not start)

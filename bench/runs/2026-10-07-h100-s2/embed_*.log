@@ -1,0 +1,7 @@
+Traceback (most recent call last):
+  File "/root/bench/embed_bench.py", line 213, in <module>
+    main()
+  File "/root/bench/embed_bench.py", line 79, in main
+    pages = json.load(open(args.sample))
+                      ^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: '/root/out/embed_pages_*.json'

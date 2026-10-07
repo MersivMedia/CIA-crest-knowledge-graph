@@ -1,0 +1,33 @@
+{
+ "ok": 213,
+ "invalid": 2,
+ "error": 0,
+ "in_tok": 673985,
+ "out_tok": 221480,
+ "finish": {
+  "stop": 213,
+  "length": 2
+ },
+ "ungrounded_pages": 20,
+ "pages": 215,
+ "wall_s": 79.3,
+ "pages_per_s": 2.711,
+ "concurrency": 160,
+ "model": "Qwen/Qwen3.6-35B-A3B-FP8",
+ "max_pixels": 0,
+ "no_think": true,
+ "max_tokens": 4000,
+ "visual_types": {
+  "stamp": 376,
+  "redaction": 310,
+  "handwriting": 279,
+  "letterhead": 34,
+  "signature": 13,
+  "seal": 5,
+  "photograph": 6,
+  "map": 4,
+  "diagram": 13,
+  "chart": 1
+ },
+ "pages_with_visuals": 213
+}

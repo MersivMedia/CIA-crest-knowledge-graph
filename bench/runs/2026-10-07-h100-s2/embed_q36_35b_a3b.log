@@ -1,0 +1,32 @@
+215 pages, 212 with a transcription, 3 image-only
+Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+Loading weights:   0%|          | 0/624 [00:00<?, ?it/s]Loading weights: 100%|██████████| 624/624 [00:00<00:00, 7682.71it/s]
+  text                      143.40 items/s
+  image@280                  18.05 items/s
+  interleaved@280            20.88 items/s
+  image@560                  12.76 items/s
+  image@1120                  7.70 items/s
+470 queries
+{
+ "gpu": "NVIDIA H100 80GB HBM3",
+ "throughput": {
+  "text": 143.4,
+  "image@280": 18.05,
+  "interleaved@280": 20.88,
+  "image@560": 12.76,
+  "image@1120": 7.7
+ },
+ "peak_vram_gb": 29.6,
+ "image_to_own_text": {
+  "r1": 0.805,
+  "r10": 0.967,
+  "median_rank": 1
+ }
+}
+text@768             {'n': 470, 'r1': 0.391, 'r10': 0.687, 'mrr10': 0.488}
+image@768            {'n': 470, 'r1': 0.313, 'r10': 0.583, 'mrr10': 0.396}
+interleaved@768      {'n': 470, 'r1': 0.394, 'r10': 0.702, 'mrr10': 0.495}
+fusion_max@768       {'n': 470, 'r1': 0.394, 'r10': 0.691, 'mrr10': 0.49}
+text@256             {'n': 470, 'r1': 0.357, 'r10': 0.657, 'mrr10': 0.45}
+interleaved@256      {'n': 470, 'r1': 0.374, 'r10': 0.662, 'mrr10': 0.463}
+text@128             {'n': 470, 'r1': 0.296, 'r10': 0.589, 'mrr10': 0.383}

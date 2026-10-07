@@ -1,0 +1,33 @@
+{
+ "ok": 185,
+ "invalid": 30,
+ "error": 0,
+ "in_tok": 646035,
+ "out_tok": 332611,
+ "finish": {
+  "stop": 185,
+  "length": 30
+ },
+ "ungrounded_pages": 49,
+ "pages": 215,
+ "wall_s": 120.4,
+ "pages_per_s": 1.785,
+ "concurrency": 160,
+ "model": "Qwen/Qwen3-VL-8B-Instruct-FP8",
+ "max_pixels": 0,
+ "no_think": false,
+ "max_tokens": 4000,
+ "visual_types": {
+  "stamp": 349,
+  "handwriting": 201,
+  "redaction": 148,
+  "letterhead": 116,
+  "signature": 37,
+  "diagram": 22,
+  "photograph": 18,
+  "seal": 17,
+  "chart": 22,
+  "map": 16
+ },
+ "pages_with_visuals": 184
+}
