@@ -45,11 +45,17 @@ No GPU runs: **all quality and speed claims are vendor numbers and are not measu
 | dots.ocr | rednote-hilab/dots.ocr-1.5 does not exist. dots-studio/dots.ocr (2025-07) is the only one. DotsOCR is in vLLM. | | | | Stale. |
 | InternVL | No OpenGVLab release since InternVL3.5 (2025-08). No InternVL4 found. | | | | Stale. |
 
+## Decision 2026-10-07: vision-language readers only
+
+OCR-only models (Tier 2, including Qianfan-OCR) are **out of scope**. The reader has to see the page: photographs,
+maps, diagrams, stamps, handwriting and redactions feed `visual_elements` and the graph. A transcription-only stage
+would drop exactly that. Tier 2 stays listed for reference only.
+
 ## Recommendation (A/B on ~200 CREST pages, same JSON prompt, vLLM)
 1. **Qwen3.5-9B** (BF16 on an H100; no official FP8 checkpoint exists, checked 2026-10-07): the most likely straight upgrade.
-2. **Qianfan-OCR 4.7B**: single pass, strong KIE, fewer tokens, claimed ~1 page/s. Test both the JSON prompt and the KIE mode.
+2. ~~Qianfan-OCR 4.7B~~: excluded (OCR model; see Decision above).
 3. **Qwen3.6-35B-A3B FP8** on an H100: cheap MoE decoding, newer generation.
-4. Two-stage: **Chandra-OCR-2** (best on old scans; check the openrail license) or **Unlimited-OCR / DeepSeek-OCR-2** (fewest tokens), followed by a text LLM (e.g. Qwen3.5-4B/9B text-only) for entities. Visual elements then need a separate description pass, or you rely on the OCR models' figure/layout tags.
+4. ~~Two-stage~~ (excluded, see Decision above): **Chandra-OCR-2** (best on old scans; check the openrail license) or **Unlimited-OCR / DeepSeek-OCR-2** (fewest tokens), followed by a text LLM (e.g. Qwen3.5-4B/9B text-only) for entities. Visual elements then need a separate description pass, or you rely on the OCR models' figure/layout tags.
 5. Gemma-4-E4B as a cheap control.
 
 Watch out for: OCR-only models drop the "visual_elements" field. Check prefix caching for the shared prompt. Measure schema-valid rate, not just speed.

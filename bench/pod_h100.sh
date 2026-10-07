@@ -1,6 +1,7 @@
 #!/bin/bash
 # Runs ON a single-H100 pod (tmux). Sample 2 (docs never read before): baseline Qwen3-VL-8B FP8 at full res and at
-# 1 MP, plus the three strongest new candidates from MODEL_RESEARCH.md. EmbeddingGemma 2 on every reader's output.
+# 1 MP, plus the two strongest new general vision-language candidates from MODEL_RESEARCH.md. OCR-only models are
+# excluded by decision: the reader must see images, maps and other visual content on the page, not just transcribe. EmbeddingGemma 2 on every reader's output.
 # Page images are tarred so they can be published and reused. Writes /root/out/.
 set -x
 O=/root/out; mkdir -p $O /root/pages; cd /root/bench
@@ -31,7 +32,6 @@ run() {  # tag model max_pixels extra_serve_args extra_client_args
 run q3vl8b_fp8      Qwen/Qwen3-VL-8B-Instruct-FP8 0       "" ""
 run q3vl8b_fp8_1mp  Qwen/Qwen3-VL-8B-Instruct-FP8 1048576 "" ""
 run q35_9b          Qwen/Qwen3.5-9B               0       "" "--no-think"
-run qianfan_ocr     baidu/Qianfan-OCR             0       "--trust-remote-code" ""
 run q36_35b_a3b     Qwen/Qwen3.6-35B-A3B-FP8      0       "" "--no-think"
 ls $O/vlm_*.json > /dev/null 2>&1 && python3 vlm_compare.py --ref $O/vlm_q3vl8b_fp8.json \
    $(ls $O/vlm_*.json | grep -v -e vlm_q3vl8b_fp8.json -e vlm_compare) --out $O > $O/compare.log 2>&1
